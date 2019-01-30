@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2009/04/08/mas_517743.shtml">Mickelson guides amateur's round</a></h3>
+<div class="player-story-date">Posted: 04/08/09</div>
+<div class="player-story-digest">Playing alongside an amateur making his Masters Tournament debut can make one think about his first time at Augusta National Golf Club.</div>
+</div>

@@ -1,0 +1,10 @@
+
+  Eagles 0<br />
+  Birdies 3<br />
+  Bogeys 4<br />
+  Double Bogeys 1<br />
+  On the par-5s -1<br />
+  On the par-4s +8<br />
+  On the par-3s E<br />
+
+

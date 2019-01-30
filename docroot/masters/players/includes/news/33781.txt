@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/masters/cantlay-matsuyama-lead-amateurs-masters">Cantlay, Matsuyama lead amateurs at Masters</a></h3>
+<div class="player-story-date">Posted: 04/06/12</div>
+<div class="player-story-digest"> None of the six amateurs in the Masters Tournament said he expected flashes of greatness this week, yet nearly all of them held their own against the pros in Thursday&rsquo;s opening round. Patrick Cantlay and Hideki Matsuyama led the way ...</div>
+</div>

@@ -1,0 +1,35 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/list-six-players-have-won-masters-birdie-no-18">The List: Six players have won the Masters with a birdie on No. 18</a></h3>
+<div class="player-story-date">Posted: 04/09/16</div>
+<div class="player-story-digest"> The Masters is known for producing Sunday drama, and nothing illustrates that better than a birdie to win outright on 18. Here are the six who have done it:  6SANDY LYLE, 1988: From the fairway bunker, Lyle&rsquo;s 7-iron shot ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/champions-dinner-has-evolved-much-discussed-feast">Champions Dinner has evolved into much-discussed feast</a></h3>
+<div class="player-story-date">Posted: 03/15/16</div>
+<div class="player-story-digest">  Tiger Woods served cheeseburgers and milk shakes. Sandy Lyle picked a slightly more exotic dish of haggis. The Champions Dinner, or Masters Club, began as a simple gathering for former champions in 1952 and has evolved into a much-discussed ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/amateurs-play-countrymen-opening-round">Amateurs play with countrymen in opening round </a></h3>
+<div class="player-story-date">Posted: 04/10/15</div>
+<div class="player-story-digest">  A lot of thought went into the groupings for the amateurs playing in their first Masters Tournament on Thursday. Corey Conners, a Canadian, played with 2003 Masters champion Mike Weir of Ontario. Australian Anthony Murdaca was paired with 2013 ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/late-billy-casper-minds-many-champions-dinner">Late Billy Casper on the minds of many at Champions Dinner</a></h3>
+<div class="player-story-date">Posted: 04/08/15</div>
+<div class="player-story-digest"> A pair of Masters Tournament champions were absent from Tuesday&rsquo;s Champions Dinner &ndash; Jack Burke Jr. and Ian Woosnam. Sandy Lyle said Woosnam was suffering from a stomach bug, while Ben Crenshaw said it was &ldquo;just too tough&rdquo; for 92-year-old ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/lyle-makes-cut-25-years-after-1988-masters-win">Lyle makes cut 25 years after 1988 Masters win</a></h3>
+<div class="player-story-date">Posted: 04/13/13</div>
+<div class="player-story-digest"> Sandy Lyle will be playing through the weekend on his silver jubilee. Lyle, the 1988 Masters Tournament champion, easily made the cut by shooting even-par 72 on Friday to stay 1-over for the tournament. Lyle won his green jacket with ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/sandy-lyles-1988-bunker-heroics-endure">Sandy Lyle&#039;s 1988 bunker heroics endure</a></h3>
+<div class="player-story-date">Posted: 04/07/13</div>
+<div class="player-story-digest">  Before Bubba Watson bent his ball out of the trees on No. 10. Before Phil Mickelson blasted out of the straw and around the pine tree on No. 13. ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/041108/mas_194570.shtml">Late-round bogeys bring Lyle, O'Meara back to earth</a></h3>
+<div class="player-story-date">Posted: 04/11/08</div>
+<div class="player-story-digest">Though they now make their living on the seasoned golfers tour, Sandy Lyle and Mark O'Meara showed they aren't ready to concede anything to their younger brethren at the 72nd Masters Tournament.</div>
+</div>

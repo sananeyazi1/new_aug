@@ -1,0 +1,15 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2011/04/09/mas_612249.shtml">Putting proves challenging for Barnes</a></h3>
+<div class="player-story-date">Posted: 04/09/11</div>
+<div class="player-story-digest">Ricky Barnes is better known for his engineer's cap than his golf game. He hopes to change that this weekend. After carding 1-under 71 in the second round of the Masters Tournament, Barnes finds himself in contention at a place where he has had success before.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2010/04/11/mas_573326.shtml">Barnes recovers on  near misses to post 72</a></h3>
+<div class="player-story-date">Posted: 04/11/10</div>
+<div class="player-story-digest">Saturday was shaping up like one of those dreary days for Ricky Barnes.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2010/04/10/mas_573264.shtml">Barnes in hunt after long wait</a></h3>
+<div class="player-story-date">Posted: 04/10/10</div>
+<div class="player-story-digest">Ricky Barnes was the low amateur in the 2003 Masters Tournament, his only other appearance in Augusta.</div>
+</div>

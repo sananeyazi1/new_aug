@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040107/mas_122230.shtml">Wilson rides a wave of Hawaiian golf success</a></h3>
+<div class="player-story-date">Posted: 04/01/07</div>
+<div class="player-story-digest">Hawaii is one of the world's great golf destinations. It's a lot more trouble exporting golf from paradise.</div>
+</div>

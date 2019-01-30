@@ -1,0 +1,43 @@
+h1 {
+font-size: 18px;
+line-height: 20px;
+font-family: 'New Century Schoolbook', serif;
+font-weight: bold;
+color: #000;
+}
+a.no_link { cursor:default; }
+
+.posted-date {
+font-family: verdana,helvetica,arial,sans-serif;
+font-size: x-small;
+color: #666;
+}
+
+.news-body p {
+font-family: Georgia, serif !important;
+font-size: 18px;
+color: #000;
+font-weight: 500;
+}
+
+p {
+font-family: Georgia, serif !important;
+font-size: 18px;
+color: #000 !important;
+font-weight: 500;
+}
+
+.news-body div {
+font-family: Georgia, serif !important;font-size: large !important;
+font-size: 18px;
+color: #000 !important;
+font-weight: 500;
+
+}
+
+img {
+float: right;
+}
+p {
+display: none;
+}

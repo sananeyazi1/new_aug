@@ -1,0 +1,812 @@
+
+
+
+
+  
+	<table id="LargeLeaderboard">
+
+		<TR>
+			<th>
+				<b>Position</b>
+			</th>
+			<th>
+				<b>Player</b>
+			</th>
+			<th class="center">
+				<b>Final</b>
+			</th>
+
+			
+			<th class="center">
+				<b>Earnings</b>
+			</th>
+
+
+		</TR>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+1</TD>
+			<td NOWRAP>
+				
+				Craig Wood
+				</TD>
+			<td class="center" NOWRAP>
+				-8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,500
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+2</TD>
+			<td NOWRAP>
+				
+				Byron Nelson
+				</TD>
+			<td class="center" NOWRAP>
+				-5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $800
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+3</TD>
+			<td NOWRAP>
+				
+				Sam Byrd
+				</TD>
+			<td class="center" NOWRAP>
+				-3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $600
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+4</TD>
+			<td NOWRAP>
+				
+				Ben Hogan
+				</TD>
+			<td class="center" NOWRAP>
+				-2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $500
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T5</TD>
+			<td NOWRAP>
+				
+				Ed Dudley
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $400
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+6</TD>
+			<td NOWRAP>
+				
+				Sam Snead
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $275
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T7</TD>
+			<td NOWRAP>
+				
+				Willie Goggin
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $117
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T7</TD>
+			<td NOWRAP>
+				
+				Lloyd Mangrum
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T7</TD>
+			<td NOWRAP>
+				
+				Harold McSpaden
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $117
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T10</TD>
+			<td NOWRAP>
+				
+				Jimmy Demaret
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $50
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T10</TD>
+			<td NOWRAP>
+				
+				Clayton Heafner
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $50
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T12</TD>
+			<td NOWRAP>
+				
+				Harry Cooper
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T12</TD>
+			<td NOWRAP>
+				
+				V. Ghezzi
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $275
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T12</TD>
+			<td NOWRAP>
+				
+				Ralph Guldahl
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T12</TD>
+			<td NOWRAP>
+				
+				Jimmy Thomson
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+16</TD>
+			<td NOWRAP>
+				
+				Jack Ryan
+				</TD>
+			<td class="center" NOWRAP>
+				+7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+17</TD>
+			<td NOWRAP>
+				
+				Denny Shute
+				</TD>
+			<td class="center" NOWRAP>
+				+8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				Richard D. Chapman
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				Jimmy Hines
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				Gene Kunes
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				Dick Metz
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				S. Parks
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				Toney Penna
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				Gene Sarazen
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				Horton Smith
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+26</TD>
+			<td NOWRAP>
+				
+				Ray Mangrum
+				</TD>
+			<td class="center" NOWRAP>
+				+10</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $117
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T27</TD>
+			<td NOWRAP>
+				
+				Jim Ferrier
+				</TD>
+			<td class="center" NOWRAP>
+				+11</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T27</TD>
+			<td NOWRAP>
+				
+				Jim Foulis
+				</TD>
+			<td class="center" NOWRAP>
+				+11</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T27</TD>
+			<td NOWRAP>
+				
+				Martin Pose
+				</TD>
+			<td class="center" NOWRAP>
+				+11</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+30</TD>
+			<td NOWRAP>
+				
+				Al Watrous
+				</TD>
+			<td class="center" NOWRAP>
+				+12</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+31</TD>
+			<td NOWRAP>
+				
+				Leonard Dodson
+				</TD>
+			<td class="center" NOWRAP>
+				+13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+32</TD>
+			<td NOWRAP>
+				
+				George Dawson
+				</TD>
+			<td class="center" NOWRAP>
+				+14</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T33</TD>
+			<td NOWRAP>
+				
+				Paul Runyan
+				</TD>
+			<td class="center" NOWRAP>
+				+15</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T33</TD>
+			<td NOWRAP>
+				
+				Casey Yates
+				</TD>
+			<td class="center" NOWRAP>
+				+15</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+35</TD>
+			<td NOWRAP>
+				
+				Frank Walsh
+				</TD>
+			<td class="center" NOWRAP>
+				+16</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+36</TD>
+			<td NOWRAP>
+				
+				Tommy Armour
+				</TD>
+			<td class="center" NOWRAP>
+				+17</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+37</TD>
+			<td NOWRAP>
+				
+				J. Vulla
+				</TD>
+			<td class="center" NOWRAP>
+				+18</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+38</TD>
+			<td NOWRAP>
+				
+				Robert T. Jones, Jr.
+				</TD>
+			<td class="center" NOWRAP>
+				+19</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+39</TD>
+			<td NOWRAP>
+				
+				B. Coltart
+				</TD>
+			<td class="center" NOWRAP>
+				+20</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+40</TD>
+			<td NOWRAP>
+				
+				A. Gibson
+				</TD>
+			<td class="center" NOWRAP>
+				+21</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+41</TD>
+			<td NOWRAP>
+				
+				Art Doering Jr.
+				</TD>
+			<td class="center" NOWRAP>
+				+23</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+42</TD>
+			<td NOWRAP>
+				
+				J. Hutchinson
+				</TD>
+			<td class="center" NOWRAP>
+				+24</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T43</TD>
+			<td NOWRAP>
+				
+				Tony Manero
+				</TD>
+			<td class="center" NOWRAP>
+				+25</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T43</TD>
+			<td NOWRAP>
+				
+				W. McCullough
+				</TD>
+			<td class="center" NOWRAP>
+				+25</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+45</TD>
+			<td NOWRAP>
+				
+				A. Szwedko
+				</TD>
+			<td class="center" NOWRAP>
+				+31</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+-</TD>
+			<td NOWRAP>
+				
+				L. Little
+				</TD>
+			<td class="center" NOWRAP>
+				-</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $200
+				
+			</td>
+		</tr>
+	</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+

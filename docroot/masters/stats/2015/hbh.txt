@@ -1,0 +1,61 @@
+
+Round 4 of The Masters
+Rank	Name	H1	H2	H3	H4	H5	H6	H7	H8	H9	Out	H10	H11	H12	H13	H14	H15	H16	H17	H18	In	Score Today
+
+
+1	Jordan Spieth	3	5	3	3	5	3	5	4	4	35	3	4	4	4	4	4	3	4	5	35	-2
+T2	Phil Mickelson	4	4	4	3	5	3	4	4	5	36	3	4	3	4	5	3	3	4	4	33	-3
+T2	Justin Rose	3	4	4	3	4	4	4	5	5	36	4	4	3	4	3	4	3	4	5	34	-2
+4	Rory McIlroy	4	5	4	3	4	3	3	4	4	34	4	3	3	4	4	4	3	4	3	32	-6
+5	Hideki Matsuyama	4	5	4	3	4	3	4	4	4	35	3	3	3	3	4	5	3	4	3	31	-6
+T6	Paul Casey	5	3	4	4	4	3	4	4	5	36	4	3	3	4	4	5	2	4	3	32	-4
+T6	Dustin Johnson	4	5	4	3	4	2	3	4	4	33	4	3	4	4	4	5	5	4	3	36	-3
+T6	Ian Poulter	4	4	4	3	4	3	3	4	4	33	5	4	2	5	3	4	3	4	4	34	-5
+T9	Charley Hoffman	5	5	4	3	4	3	5	5	4	38	4	5	3	4	4	4	4	4	4	36	2
+T9	Zach Johnson	4	4	4	3	4	3	4	3	4	33	5	3	2	5	4	4	3	4	5	35	-4
+T9	Hunter Mahan	4	4	4	2	5	4	4	4	4	35	4	4	2	4	4	4	2	4	4	32	-5
+T12	Rickie Fowler	3	4	4	3	4	3	4	4	4	33	4	4	4	3	3	5	2	4	5	34	-5
+T12	Bill Haas	4	4	5	3	3	5	4	5	4	37	4	3	3	5	4	4	3	4	3	33	-2
+T12	Ryan Moore	4	4	5	3	4	3	3	4	4	34	3	4	3	4	4	5	3	5	4	35	-3
+T12	Kevin Na	5	5	4	3	5	4	4	4	5	39	4	4	2	5	3	4	3	3	5	33	0
+T12	Kevin Streelman	4	4	5	3	4	3	4	5	4	36	4	4	3	5	4	5	4	3	4	36	0
+T17	Sergio Garcia	4	5	3	2	4	3	4	5	4	34	4	4	3	6	4	4	3	4	4	36	-2
+T17	Tiger Woods	4	5	4	4	4	3	5	4	4	37	5	4	3	3	5	4	3	4	5	36	1
+T19	Louis Oosthuizen	4	5	5	4	4	3	4	4	3	36	4	4	5	4	3	5	3	4	4	36	0
+T19	Henrik Stenson	4	4	4	3	4	2	4	5	4	34	5	4	3	4	3	3	4	4	4	34	-4
+21	Russell Henley	4	4	4	3	6	3	5	5	3	37	4	5	2	6	3	3	2	5	4	34	-1
+T22	Keegan Bradley	5	4	3	2	4	3	3	4	4	32	4	4	3	4	4	6	3	4	4	36	-4
+T22	Angel Cabrera	4	5	4	3	4	4	5	5	4	38	4	5	2	4	4	4	2	4	5	34	0
+T22	Ernie Els	5	4	4	3	4	3	4	5	4	36	4	4	3	5	4	4	3	4	5	36	0
+T22	Mark O'Meara	3	4	6	3	3	3	4	5	4	35	4	5	2	4	4	4	3	4	3	33	-4
+T22	Patrick Reed	4	4	4	3	4	3	3	5	4	34	4	4	3	4	5	4	3	5	4	36	-2
+T22	Bernd Wiesberger	4	6	4	5	4	3	4	5	4	39	4	4	3	4	4	3	3	4	3	32	-1
+T28	Jonas Blixt	4	5	4	4	4	3	5	4	5	38	4	4	3	4	4	5	4	4	5	37	3
+T28	Jason Day	3	6	4	4	5	3	5	5	4	39	5	4	3	6	3	5	2	4	4	36	3
+T28	Morgan Hoffmann	4	5	4	4	4	2	4	4	4	35	4	5	3	5	3	4	3	4	4	35	-2
+T28	Webb Simpson	4	4	5	3	4	3	5	4	5	37	4	4	3	3	4	4	3	4	5	34	-1
+T28	Steve Stricker	3	5	5	2	4	2	3	5	4	33	4	5	3	6	4	4	3	3	3	35	-4
+T33	Sang-Moon Bae	4	6	4	3	4	3	5	4	4	37	4	4	3	5	2	4	3	5	4	34	-1
+T33	Jamie Donaldson	4	5	3	2	4	3	5	4	4	34	4	5	4	4	3	4	2	4	3	33	-5
+T33	Chris Kirk	5	4	5	3	4	3	3	5	4	36	4	5	2	6	4	3	2	4	5	35	-1
+T33	Brooks Koepka	4	5	4	3	4	3	5	5	4	37	4	4	3	4	4	4	3	5	4	35	0
+T33	Ryan Palmer	4	4	5	3	4	3	4	5	5	37	4	4	3	3	4	4	2	5	5	34	-1
+T38	Seung-Yul Noh	5	4	4	4	4	3	3	4	4	35	4	4	4	8	4	4	2	5	3	38	1
+T38	Charl Schwartzel	4	4	4	3	4	4	6	6	4	39	6	6	2	3	3	4	3	4	5	36	3
+T38	Adam Scott	5	4	3	3	4	3	4	5	5	36	4	4	7	5	4	4	3	4	3	38	2
+T38	John Senden	5	4	4	3	4	3	4	5	4	36	4	4	3	7	4	4	3	4	3	36	0
+T38	Cameron Tringale	5	4	4	4	6	3	3	5	4	38	4	4	3	5	4	4	3	4	5	36	2
+T38	Jimmy Walker	3	5	3	2	4	3	4	5	5	34	4	4	2	4	4	5	3	5	5	36	-2
+T38	Bubba Watson	5	3	4	4	4	4	4	5	5	38	4	5	5	3	4	4	3	4	4	36	2
+T38	Danny Willett	4	4	4	3	5	3	4	5	4	36	4	4	5	4	4	4	3	4	3	35	-1
+T46	Matt Kuchar	4	6	4	4	3	4	4	4	4	37	4	4	3	3	4	5	4	4	4	35	0
+T46	Lee Westwood	4	6	3	4	4	4	5	5	3	38	4	5	3	5	4	4	3	4	4	36	2
+48	Geoff Ogilvy	5	4	4	3	4	3	5	4	5	37	4	4	3	5	4	6	3	4	4	37	2
+T49	Jason Dufner	5	5	3	3	4	4	4	5	4	37	4	4	4	4	3	4	3	5	5	36	1
+T49	Anirban Lahiri	4	5	4	3	4	3	4	5	4	36	4	4	3	5	4	5	3	4	4	36	0
+51	Erik Compton	4	5	4	3	4	4	3	4	5	36	4	4	5	4	5	4	4	5	3	38	2
+T52	Darren Clarke	4	4	4	3	5	2	6	4	4	36	4	5	2	5	4	4	3	4	5	36	0
+T52	Graeme McDowell	4	5	5	3	3	3	4	4	4	35	4	4	4	5	5	4	3	4	5	38	1
+54	Vijay Singh	4	5	4	3	5	3	4	5	4	37	5	4	3	4	3	5	2	4	4	34	-1
+55	Thongchai Jaidee	4	4	5	4	4	3	3	5	5	37	3	4	5	4	4	5	3	4	3	35	0
+

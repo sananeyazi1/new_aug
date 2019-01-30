@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/masters/notes-nike-unveils-new-shoes-masters">Notes: Nike unveils new shoes for Masters</a></h3>
+<div class="player-story-date">Posted: 04/03/12</div>
+<div class="player-story-digest"> Nike announced Monday that several of its pros will wear &ldquo;limited edition Lunar Control footwear.&rdquo; The white shoe with green details is available for a retail price of $150. Among those who will wear the new shoe are reigning Masters ...</div>
+</div>

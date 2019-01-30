@@ -1,0 +1,75 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/latest-news/stenson-wins-duel-mickelson-claim-british-open">Stenson wins duel with Mickelson to claim British Open</a></h3>
+<div class="player-story-date">Posted: 07/17/16</div>
+<div class="player-story-digest"> read more ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/media-center-members-media-pick-their-favorites">From the Media Center: Members of the media pick their favorites</a></h3>
+<div class="player-story-date">Posted: 04/07/16</div>
+<div class="player-story-digest"> PICKS TO WIN 21 - Rory McIlroy 15 - Jason Day ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/henrik-stenson-hopes-break-streak-runner-finishes">Henrik Stenson hopes to break streak of runner-up finishes</a></h3>
+<div class="player-story-date">Posted: 04/04/16</div>
+<div class="player-story-digest"> When told Monday that a European hasn&rsquo;t donned green at Augusta National Golf Club since 1999, Henrik Stenson briefly chuckled and said, &ldquo;Well, we&rsquo;ll make it happen this year then.&rdquo; The Swede finished runner-up Sunday at the Shell Houston Open ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/henrik-stenson-slowed-flu-not-sidelined-2015-masters">Henrik Stenson slowed by flu, not sidelined, in 2015 Masters</a></h3>
+<div class="player-story-date">Posted: 03/22/16</div>
+<div class="player-story-digest">  Once Henrik Stenson started feeling better, it was too late. Stenson entered the 2015 Masters Tournament still weak from a bout with the flu that had forced him to withdraw at the previous week&rsquo;s Houston Open.    ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/latest-news/fowler-rallies-win-deutsche-bank">Fowler rallies to win Deutsche Bank</a></h3>
+<div class="player-story-date">Posted: 09/08/15</div>
+<div class="player-story-digest"> read more ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/latest-news/fowler-rallies-win-deutsche-bank">Fowler rallies to win Deutsche Bank</a></h3>
+<div class="player-story-date">Posted: 09/08/15</div>
+<div class="player-story-digest"> read more ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/henrik-stenson-rides-roller-coaster-2nd-round">Henrik Stenson rides roller-coaster 2nd round</a></h3>
+<div class="player-story-date">Posted: 04/11/15</div>
+<div class="player-story-digest">  Friday proved to be an eventful day for Henrik Sten&shy;son in more ways than one. Stenson rode a roller coaster of a second day at the Masters Tournament with five bogeys and four birdies to shoot 1-over-par 73, leaving ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/henrik-stenson-continues-battle-flu-after-first-round">Henrik Stenson continues to battle flu after first round</a></h3>
+<div class="player-story-date">Posted: 04/09/15</div>
+<div class="player-story-digest"> Henrik Stenson entered the Masters Tournament with lower expectations after battling the flu this past week, but he reached the point Thursday of being questionable for the rest of the tournament. &ldquo;I feel worse and will meet with a doc ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/henrik-stensons-great-run-and-headed-augusta">Henrik Stenson&#039;s on a great run and headed to Augusta</a></h3>
+<div class="player-story-date">Posted: 03/11/14</div>
+<div class="player-story-digest"> Following what he calls &ldquo;the season of his life,&rdquo; Henrik Stenson has gone from one of the last players to qualify for the 2013 Masters Tournament to one of the world&rsquo;s top-ranked players and a favorite to win the green ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/henrik-stenson-steadily-plays-way-contention">Henrik Stenson steadily plays way into contention</a></h3>
+<div class="player-story-date">Posted: 04/08/12</div>
+<div class="player-story-digest"> Henrik Stenson hasn’t blistered the field with a low round or elicited pine-rattling roars through his first three rounds at Augusta National Golf Club. All he’s done is put himself in position to contend for a green jacket. After posting ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/masters/stenson-still-masters-mix-despite-late-round-woes">Stenson still in Masters mix despite late-round woes</a></h3>
+<div class="player-story-date">Posted: 04/07/12</div>
+<div class="player-story-digest">  If Henrik Stenson could just figure out how to avoid disasters at Augusta National&rsquo;s two closing holes, he&rsquo;d be leading the Masters. Stenson was cruising and for a second day in a row, he was tripped on the way ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/latest-news/henrik-stenson-takes-meltdown-no-18-stride">Henrik Stenson takes  meltdown on No. 18 in stride</a></h3>
+<div class="player-story-date">Posted: 04/05/12</div>
+<div class="player-story-digest"> Henrik Stenson had control of the Masters Tournament through 17 holes Thursday.  All he needed was a bogey or better at the par-4 18th hole to maintain his lead and leave to enjoy his 36th birthday party. That didn’t ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040507/mas_123327.shtml">Stenson tops the leaderboard at Augusta National</a></h3>
+<div class="player-story-date">Posted: 04/05/07</div>
+<div class="player-story-digest">AUGUSTA -- Sweden's Henrik Stenson topped the early leaders in the Masters Tournament.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040507/mas_123325.shtml">Stenson tops the leaderboard at Augusta National</a></h3>
+<div class="player-story-date">Posted: 04/05/07</div>
+<div class="player-story-digest">AUGUSTA -- Sweden's Henrik Stenson topped the early leaders in the Masters Tournament.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040107/mas_122385.shtml">Strong fields bring out Stenson's best</a></h3>
+<div class="player-story-date">Posted: 04/01/07</div>
+<div class="player-story-digest">He might not be a household name in America, but Henrik Stenson is a very big deal in Swedish golf these days.</div>
+</div>

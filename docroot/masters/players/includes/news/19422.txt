@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/streelman-solid-again-cards-third-70-round-row">Streelman solid again, cards third 70 round in a row</a></h3>
+<div class="player-story-date">Posted: 04/11/15</div>
+<div class="player-story-digest"> If talk about the steady Kevin Streelman seems to be quiet &ndash; if it exists at all &ndash; he would be the first to find it fitting. &ldquo;My whole career is like that &ndash; just kind of quiet,&rdquo; Streelman said ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/kevin-streelman-enjoys-par-3-win-young-caddie">Kevin Streelman enjoys Par-3 win with young caddie</a></h3>
+<div class="player-story-date">Posted: 04/09/15</div>
+<div class="player-story-digest"> Kevin Streelman didn&rsquo;t care about any curse at Wednesday&rsquo;s Par-3 Contest. He was thinking about someone else. While Streelman beat Camilo Villegas in a playoff after they tied at 5-under, the 36-year-old focused on the boy caddying for him and ...</div>
+</div>

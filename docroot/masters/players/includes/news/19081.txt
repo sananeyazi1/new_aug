@@ -1,0 +1,20 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/three-aces-no-16-one-round-believe-it">Three aces on No. 16 in one round? Believe it</a></h3>
+<div class="player-story-date">Posted: 04/11/16</div>
+<div class="player-story-digest">  Davis Love III and Webb Simpson heard the roar, but was it the hole-in-one kind? Love thought about it, about how loud it sounded and how it came from No. 16 &ndash; the home for aces. It had to ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/three-aces-no-16-one-round-believe-it">Three aces on No. 16 in one round? Believe it</a></h3>
+<div class="player-story-date">Posted: 04/11/16</div>
+<div class="player-story-digest">  Davis Love III and Webb Simpson heard the roar, but was it the hole-in-one kind? Love thought about it, about how loud it sounded and how it came from No. 16 &ndash; the home for aces. It had to ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/jb-holmes-trying-pace-himself-practice-rounds">J.B. Holmes trying to pace himself in practice rounds</a></h3>
+<div class="player-story-date">Posted: 04/07/15</div>
+<div class="player-story-digest">  Two days after winning the Houston Open, J.B. Holmes began his quest for back-to-back victories with a practice round Tuesday at Augusta National Golf Club. Holmes, who won last week in a playoff over John&shy;son Wagner and Jordan Spieth, ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040608/mas_193342.shtml">Distance is no issue for young bombers</a></h3>
+<div class="player-story-date">Posted: 04/06/08</div>
+<div class="player-story-digest">Bubba Watson and J.B. Holmes might be the most-watched rookies in the 2008 Masters Tournament.</div>
+</div>

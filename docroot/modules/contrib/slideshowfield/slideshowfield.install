@@ -1,0 +1,31 @@
+<?php
+
+/**
+ * Implements hook_field_schema().
+ */
+function slideshowfield_field_schema($field) {
+  return array(
+    'columns' => array(
+      'url' => array(
+        'type' => 'varchar',
+        // Maximum URLs length.
+        'length' => 2048,
+        'not null' => FALSE,
+        'sortable' => TRUE,
+      ),
+      'parser' => array(
+        'type' => 'int',
+        'size' => 'small',
+        'not null' => FALSE,
+        'unsigned' => TRUE,
+      ),
+      'ad' => array(
+        'type' => 'int',
+        'size' => 'tiny',
+        'not null' => FALSE,
+        'unsigned' => TRUE,
+        'default' => 0
+      ),
+    ),
+  );
+}

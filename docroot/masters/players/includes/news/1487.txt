@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/patrons-have-masters-story-bring-home-canada">Patrons have Masters story to bring home to Canada</a></h3>
+<div class="player-story-date">Posted: 04/09/15</div>
+<div class="player-story-digest"> Tim Geddes wasn&rsquo;t long into his first and only day at the Masters when he had a story to bring home to Niagara Falls, Canada. He and friend Marc Henry were at No. 12 and saw Miguel Angel Jimenez and ...</div>
+</div>

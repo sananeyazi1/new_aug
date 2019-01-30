@@ -1,0 +1,15 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2010/04/02/mas_571930.shtml">Merrick's final round earned him return trip</a></h3>
+<div class="player-story-date">Posted: 04/02/10</div>
+<div class="player-story-digest">In the minutes after John Merrick shot the low final round in last year's Masters Tournament, he couldn't help but recall an incident that happened five years earlier when he was visiting Augusta National Golf Club.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2009/04/13/mas_520278.shtml">Merrick's 66 is day's low round</a></h3>
+<div class="player-story-date">Posted: 04/13/09</div>
+<div class="player-story-digest">John Merrick's first visit to Augusta National Golf Club was one he would rather not remember. Steve Flesch wanted to forget his previous one.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2009/04/12/mas_520233.shtml">Merrick welcome to return to the Masters</a></h3>
+<div class="player-story-date">Posted: 04/12/09</div>
+<div class="player-story-digest">The first time John Merrick visited Augusta National, he got a lecture from one of the green jackets.</div>
+</div>

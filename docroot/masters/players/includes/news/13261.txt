@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/latest-news/jamie-donaldson-wins-thailand">Jamie Donaldson wins in Thailand</a></h3>
+<div class="player-story-date">Posted: 12/14/15</div>
+<div class="player-story-digest">  CHONBURI, Thailand &mdash; Jamie Donaldson won his first title of the year after beating Clement Sordet and defending champion Lee Westwood by three strokes in the final round of the Thailand Championship at the Amata Country Club on Sunday. ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/latest-news/jamie-donaldson-wins-thailand">Jamie Donaldson wins in Thailand</a></h3>
+<div class="player-story-date">Posted: 12/14/15</div>
+<div class="player-story-digest">  CHONBURI, Thailand &mdash; Jamie Donaldson won his first title of the year after beating Clement Sordet and defending champion Lee Westwood by three strokes in the final round of the Thailand Championship at the Amata Country Club on Sunday. ...</div>
+</div>

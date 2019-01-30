@@ -1,0 +1,15 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/kuchar-english-win-franklin-templeton-shootout">Kuchar, English win Franklin Templeton Shootout</a></h3>
+<div class="player-story-date">Posted: 02/23/17</div>
+<div class="player-story-digest"> read more ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/harris-english-struggles-front-nine">Harris English struggles on front nine</a></h3>
+<div class="player-story-date">Posted: 04/09/16</div>
+<div class="player-story-digest"> After posting another bogey on the front nine, Harris English lingered on the green for a second, looking at the hole. The par-5 eighth capped a difficult stretch for the former University of Georgia golfer on Saturday. English, who made ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/not-all-players-tune-music-during-preparations">Not all players in tune with music during preparations</a></h3>
+<div class="player-story-date">Posted: 04/07/16</div>
+<div class="player-story-digest">  Harris English is a little bit country. Graeme Mc&shy;Dow&shy;ell is a little bit rock &rsquo;n&rsquo; roll. Marc Leishman concedes he&rsquo;s not a huge music fan but knows what he likes &ndash; and what he doesn&rsquo;t &ndash; as he listens ...</div>
+</div>

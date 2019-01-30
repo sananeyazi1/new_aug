@@ -1,0 +1,15 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2011/04/10/mas_612375.shtml">Molinari's 69  betters odds of returning</a></h3>
+<div class="player-story-date">Posted: 04/10/11</div>
+<div class="player-story-digest">Edoardo Molinari likely will not win the Masters Tournament, but his third round Saturday improved his chances of coming back next year. Molinari shot 3-under-par 69 to move to 3-under for the tournament.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2011/04/09/mas_612270.shtml">Italy's Molinari making case to return</a></h3>
+<div class="player-story-date">Posted: 04/09/11</div>
+<div class="player-story-digest">AUGUSTA - Edoardo Molinari will likely not win the Masters Tournament, but his third round on Saturday helped his case for coming back to Augusta National Golf Club next year.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040606/mas_76354.shtml">Molinari couldn't lose in U.S. Amateur</a></h3>
+<div class="player-story-date">Posted: 04/06/06</div>
+<div class="player-story-digest">Edoardo Molinari had a unique perspective of his U.S. Amateur final that took all the heat off at Merion Golf Club.</div>
+</div>

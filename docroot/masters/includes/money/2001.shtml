@@ -1,0 +1,829 @@
+
+
+
+
+  
+	<table id="LargeLeaderboard">
+
+		<TR>
+			<th>
+				<b>Position</b>
+			</th>
+			<th>
+				<b>Player</b>
+			</th>
+			<th class="center">
+				<b>Final</b>
+			</th>
+
+			
+			<th class="center">
+				<b>Earnings</b>
+			</th>
+
+
+		</TR>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+1</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh184.shtml">Tiger Woods</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-16</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,008,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+2</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh119.shtml">David Duval</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-14</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $604,800
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+3</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh149.shtml">Phil Mickelson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $380,800
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T4</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh111.shtml">Mark Calcavecchia</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-10</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $246,400
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T4</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh1503.shtml">Toshi Izawa</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-10</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $246,400
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T6</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh121.shtml">Ernie Els</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $181,300
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T6</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh130.shtml">Jim Furyk</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $181,300
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T6</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh141.shtml">Bernhard Langer</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $181,300
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T6</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh1273.shtml">Kirk Triplett</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $181,300
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T10</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh1525.shtml">Angel Cabrera</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $128,800
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T10</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh1182.shtml">Chris DiMarco</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $128,800
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T10</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh123.shtml">Brad Faxon</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $128,800
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T10</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh1487.shtml">Miguel Angel Jimenez</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $128,800
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T10</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh175.shtml">Steve Stricker</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $128,800
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T15</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh103.shtml">Paul Azinger</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $95,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T15</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh1263.shtml">Rocco Mediate</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $95,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T15</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh159.shtml">Jose Maria Olazabal</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $95,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh142.shtml">Tom Lehman</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $81,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh171.shtml">Vijay Singh</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $81,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T20</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh135.shtml">John Huston</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $65,240
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T20</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh146.shtml">Jeff Maggert</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $65,240
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T20</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh158.shtml">Mark O'Meara</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $65,240
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T20</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh162.shtml">Jesper Parnevik</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $65,240
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+24</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh206.shtml">Darren Clarke</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $53,760
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+25</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh1212.shtml">Tom Scherrer</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $49,280
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+26</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh116.shtml">Fred Couples</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $44,800
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T27</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh1508.shtml">Padraig Harrington</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $40,600
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T27</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh138.shtml">Steve Jones</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $40,600
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T27</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh143.shtml">Justin Leonard</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $40,600
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T27</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh1209.shtml">Mike Weir</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $40,600
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T31</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh197.shtml">Stuart Appleby</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $33,208
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T31</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh110.shtml">Mark Brooks</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $33,208
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T31</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh136.shtml">Lee Janzen</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $33,208
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T31</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh220.shtml">David Toms</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $33,208
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T31</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh179.shtml">Duffy Waldorf</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $33,208
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+36</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh1322.shtml">Hal Sutton</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $28,840
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T37</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh133.shtml">Scott Hoch</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $26,320
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T37</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh1149.shtml">Chris Perry</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $26,320
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T37</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh167.shtml">Loren Roberts</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $26,320
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T40</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh1516.shtml">Shingo Katayama</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $22,960
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T40</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh1177.shtml">Franklin Langham</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $22,960
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T40</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh1206.shtml">Steve Lowery</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $22,960
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T43</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh132.shtml">Dudley Hart</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $19,600
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T43</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh1148.shtml">Jonathan Kaye</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $19,600
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T43</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh1518.shtml">Bob May</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $19,600
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+46</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh1145.shtml">Carlos Franco</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $17,360
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+47</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2001_hbh102.shtml">Robert Allenby</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $16,240
+				
+			</td>
+		</tr>
+	</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+

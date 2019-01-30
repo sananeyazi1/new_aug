@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/matias-dominguez-represents-chile-amateur-augusta">Matias Dominguez represents Chile as amateur in Augusta</a></h3>
+<div class="player-story-date">Posted: 04/06/15</div>
+<div class="player-story-digest">  Matias Dominguez received simple but important advice from the one whose footsteps he&rsquo;s following this week. Dominguez, who won the inaugural Latin America Ama&shy;teur Championship in January and is playing in his first Masters Tournament, met fellow Chilean Enrique ...</div>
+</div>

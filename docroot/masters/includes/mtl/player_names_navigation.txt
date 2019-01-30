@@ -1,0 +1,97 @@
+<form action="../">
+<select name="names" class="playerNamesSelect" onchange="window.open(this.options[this.selectedIndex].value,'_top')">
+<option value="">Choose a player</option>
+<option value="http://www.augusta.com/masters/players/bios/Kiradech_Aphibarnrat.shtml">Kiradech Aphibarnrat</option>
+<option value="http://www.augusta.com/masters/players/bios/Daniel_Berger.shtml">Daniel Berger</option>
+<option value="http://www.augusta.com/masters/players/bios/Wesley_Bryan.shtml">Wesley Bryan</option>
+<option value="http://www.augusta.com/masters/players/bios/Angel_Cabrera.shtml">Angel Cabrera</option>
+<option value="http://www.augusta.com/masters/players/bios/Rafa_Cabrera-Bello.shtml">Rafa Cabrera-Bello</option>
+<option value="http://www.augusta.com/masters/players/bios/Patrick_Cantlay.shtml">Patrick Cantlay</option>
+<option value="http://www.augusta.com/masters/players/bios/Paul_Casey.shtml">Paul Casey</option>
+<option value="http://www.augusta.com/masters/players/bios/Kevin_Chappell.shtml">Kevin Chappell</option>
+<option value="http://www.augusta.com/masters/players/bios/Austin_Cook.shtml">Austin Cook</option>
+<option value="http://www.augusta.com/masters/players/bios/Fred_Couples.shtml">Fred Couples</option>
+<option value="http://www.augusta.com/masters/players/bios/Jason_Day.shtml">Jason Day</option>
+<option value="http://www.augusta.com/masters/players/bios/Bryson_DeChambeau.shtml">Bryson DeChambeau</option>
+<option value="http://www.augusta.com/masters/players/bios/Jason_Dufner.shtml">Jason Dufner</option>
+<option value="http://www.augusta.com/masters/players/bios/Harry_Ellis.shtml">Harry Ellis</option>
+<option value="http://www.augusta.com/masters/players/bios/Tony_Finau.shtml">Tony Finau</option>
+<option value="http://www.augusta.com/masters/players/bios/Ross_Fisher.shtml">Ross Fisher</option>
+<option value="http://www.augusta.com/masters/players/bios/Matthew_Fitzpatrick.shtml">Matthew Fitzpatrick</option>
+<option value="http://www.augusta.com/masters/players/bios/Tommy_Fleetwood.shtml">Tommy Fleetwood</option>
+<option value="http://www.augusta.com/masters/players/bios/Rickie_Fowler.shtml">Rickie Fowler</option>
+<option value="http://www.augusta.com/masters/players/bios/Sergio_Garcia.shtml">Sergio Garcia</option>
+<option value="http://www.augusta.com/masters/players/bios/Doug_Ghim.shtml">Doug Ghim</option>
+<option value="http://www.augusta.com/masters/players/bios/Branden_Grace.shtml">Branden Grace</option>
+<option value="http://www.augusta.com/masters/players/bios/Adam_Hadwin.shtml">Adam Hadwin</option>
+<option value="http://www.augusta.com/masters/players/bios/Brian_Harman.shtml">Brian Harman</option>
+<option value="http://www.augusta.com/masters/players/bios/Tyrrell_Hatton.shtml">Tyrrell Hatton</option>
+<option value="http://www.augusta.com/masters/players/bios/Russell_Henley.shtml">Russell Henley</option>
+<option value="http://www.augusta.com/masters/players/bios/Charley_Hoffman.shtml">Charley Hoffman</option>
+<option value="http://www.augusta.com/masters/players/bios/Billy_Horschel.shtml">Billy Horschel</option>
+<option value="http://www.augusta.com/masters/players/bios/Yuta_Ikeda.shtml">Yuta Ikeda</option>
+<option value="http://www.augusta.com/masters/players/bios/Trevor_Immelman.shtml">Trevor Immelman</option>
+<option value="http://www.augusta.com/masters/players/bios/Dustin_Johnson.shtml">Dustin Johnson</option>
+<option value="http://www.augusta.com/masters/players/bios/Zach_Johnson.shtml">Zach Johnson</option>
+<option value="http://www.augusta.com/masters/players/bios/Martin_Kaymer.shtml">Martin Kaymer</option>
+	</select>
+	<select name="names" class="playerNamesSelect" onchange="window.open(this.options[this.selectedIndex].value,'_top')">
+	<option value="">Choose a player</option>
+
+
+<option value="http://www.augusta.com/masters/players/bios/Si Woo_Kim.shtml">Si Woo Kim</option>
+<option value="http://www.augusta.com/masters/players/bios/Kevin_Kisner.shtml">Kevin Kisner</option>
+<option value="http://www.augusta.com/masters/players/bios/Patton_Kizzire.shtml">Patton Kizzire</option>
+<option value="http://www.augusta.com/masters/players/bios/Brooks_Koepka.shtml">Brooks Koepka</option>
+<option value="http://www.augusta.com/masters/players/bios/Matt_Kuchar.shtml">Matt Kuchar</option>
+<option value="http://www.augusta.com/masters/players/bios/Bernhard_Langer.shtml">Bernhard Langer</option>
+<option value="http://www.augusta.com/masters/players/bios/Marc_Leishman.shtml">Marc Leishman</option>
+<option value="http://www.augusta.com/masters/players/bios/Haotong_Li.shtml">Haotong Li</option>
+<option value="http://www.augusta.com/masters/players/bios/Yuxin_Lin.shtml">Yuxin Lin</option>
+<option value="http://www.augusta.com/masters/players/bios/Sandy_Lyle.shtml">Sandy Lyle</option>
+<option value="http://www.augusta.com/masters/players/bios/Hideki_Matsuyama.shtml">Hideki Matsuyama</option>
+<option value="http://www.augusta.com/masters/players/bios/Rory_McIlroy.shtml">Rory McIlroy</option>
+<option value="http://www.augusta.com/masters/players/bios/Phil_Mickelson.shtml">Phil Mickelson</option>
+<option value="http://www.augusta.com/masters/players/bios/Larry_Mize.shtml">Larry Mize</option>
+<option value="http://www.augusta.com/masters/players/bios/Francesco_Molinari.shtml">Francesco Molinari</option>
+<option value="http://www.augusta.com/masters/players/bios/Ryan_Moore.shtml">Ryan Moore</option>
+<option value="http://www.augusta.com/masters/players/bios/Joaquin_Niemann.shtml">Joaquin Niemann</option>
+<option value="http://www.augusta.com/masters/players/bios/Alexander_Noren.shtml">Alexander Noren</option>
+<option value="http://www.augusta.com/masters/players/bios/Mark_O'Meara.shtml">Mark O'Meara</option>
+<option value="http://www.augusta.com/masters/players/bios/Jose Maria_Olazabal.shtml">Jose Maria Olazabal</option>
+<option value="http://www.augusta.com/masters/players/bios/Louis_Oosthuizen.shtml">Louis Oosthuizen</option>
+<option value="http://www.augusta.com/masters/players/bios/Matt_Parziale.shtml">Matt Parziale</option>
+<option value="http://www.augusta.com/masters/players/bios/Pat_Perez.shtml">Pat Perez</option>
+<option value="http://www.augusta.com/masters/players/bios/Thomas_Pieters.shtml">Thomas Pieters</option>
+<option value="http://www.augusta.com/masters/players/bios/Ted_Potter Jr.shtml">Ted Potter Jr</option>
+<option value="http://www.augusta.com/masters/players/bios/Jon_Rahm.shtml">Jon Rahm</option>
+<option value="http://www.augusta.com/masters/players/bios/Doc_Redman.shtml">Doc Redman</option>
+<option value="http://www.augusta.com/masters/players/bios/Patrick_Reed.shtml">Patrick Reed</option>
+<option value="http://www.augusta.com/masters/players/bios/Justin_Rose.shtml">Justin Rose</option>
+<option value="http://www.augusta.com/masters/players/bios/Xander_Schauffele.shtml">Xander Schauffele</option>
+<option value="http://www.augusta.com/masters/players/bios/Charl_Schwartzel.shtml">Charl Schwartzel</option>
+<option value="http://www.augusta.com/masters/players/bios/Adam_Scott.shtml">Adam Scott</option>
+<option value="http://www.augusta.com/masters/players/bios/Shubhankar_Sharma.shtml">Shubhankar Sharma</option>
+	</select>
+	<select name="names" class="playerNamesSelect" onchange="window.open(this.options[this.selectedIndex].value,'_top')">
+	<option value="">Choose a player</option>
+
+
+<option value="http://www.augusta.com/masters/players/bios/Webb_Simpson.shtml">Webb Simpson</option>
+<option value="http://www.augusta.com/masters/players/bios/Vijay_Singh.shtml">Vijay Singh</option>
+<option value="http://www.augusta.com/masters/players/bios/Jordan_Spieth.shtml">Jordan Spieth</option>
+<option value="http://www.augusta.com/masters/players/bios/Kyle_Stanley.shtml">Kyle Stanley</option>
+<option value="http://www.augusta.com/masters/players/bios/Brendan_Steele.shtml">Brendan Steele</option>
+<option value="http://www.augusta.com/masters/players/bios/Henrik_Stenson.shtml">Henrik Stenson</option>
+<option value="http://www.augusta.com/masters/players/bios/Justin_Thomas.shtml">Justin Thomas</option>
+<option value="http://www.augusta.com/masters/players/bios/Jhonattan_Vegas.shtml">Jhonattan Vegas</option>
+<option value="http://www.augusta.com/masters/players/bios/Jimmy_Walker.shtml">Jimmy Walker</option>
+<option value="http://www.augusta.com/masters/players/bios/Bubba_Watson.shtml">Bubba Watson</option>
+<option value="http://www.augusta.com/masters/players/bios/Mike_Weir.shtml">Mike Weir</option>
+<option value="http://www.augusta.com/masters/players/bios/Bernd_Wiesberger.shtml">Bernd Wiesberger</option>
+<option value="http://www.augusta.com/masters/players/bios/Danny_Willett.shtml">Danny Willett</option>
+<option value="http://www.augusta.com/masters/players/bios/Gary_Woodland.shtml">Gary Woodland</option>
+<option value="http://www.augusta.com/masters/players/bios/Tiger_Woods.shtml">Tiger Woods</option>
+<option value="http://www.augusta.com/masters/players/bios/Ian_Woosnam.shtml">Ian Woosnam</option>
+</select>
+</form>

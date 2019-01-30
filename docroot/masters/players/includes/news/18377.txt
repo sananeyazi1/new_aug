@@ -1,0 +1,80 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040908/mas_194249.shtml">Chinese golfer wants to help sport grow at home</a></h3>
+<div class="player-story-date">Posted: 04/09/08</div>
+<div class="player-story-digest">Liang Wen-chong was well aware of Augusta National Golf Club's practice of extending Masters Tournament invitations to top international players.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040808/mas_194106.shtml">Audio Slideshow: Tiger Woods interview</a></h3>
+<div class="player-story-date">Posted: 04/08/08</div>
+<div class="player-story-digest"></div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040807/mas_123952.shtml">Audio slideshow: Johnson talks about play on final holes</a></h3>
+<div class="player-story-date">Posted: 04/08/07</div>
+<div class="player-story-digest"></div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040807/mas_123902.shtml">Interview: Rory Sabbatini</a></h3>
+<div class="player-story-date">Posted: 04/08/07</div>
+<div class="player-story-digest"></div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040807/mas_123901.shtml">Interview: Retief Goosen</a></h3>
+<div class="player-story-date">Posted: 04/08/07</div>
+<div class="player-story-digest"></div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040807/mas_123900.shtml">Interview: Zach Johnson</a></h3>
+<div class="player-story-date">Posted: 04/08/07</div>
+<div class="player-story-digest"></div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040707/mas_123830.shtml">Interview: Vaughn Taylor (Round 3)</a></h3>
+<div class="player-story-date">Posted: 04/07/07</div>
+<div class="player-story-digest"></div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040707/mas_123818.shtml">Interview: Justin Rose (Round 3)</a></h3>
+<div class="player-story-date">Posted: 04/07/07</div>
+<div class="player-story-digest"></div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040707/mas_123816.shtml">Interview: Stuart Appleby</a></h3>
+<div class="player-story-date">Posted: 04/07/07</div>
+<div class="player-story-digest"></div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040507/mas_123525.shtml">Interview: Arnold Palmer</a></h3>
+<div class="player-story-date">Posted: 04/05/07</div>
+<div class="player-story-digest"></div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040407/mas_123188.shtml">Interview: Arnold Palmer</a></h3>
+<div class="player-story-date">Posted: 04/04/07</div>
+<div class="player-story-digest">Arnold Palmer spoke with reporters Monday at Augusta National Golf Club on the subject of his accepting the honorary starter role. The following transcript of his remarks was provided by Augusta National.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040307/mas_123061.shtml">Interview: Phil Mickelson</a></h3>
+<div class="player-story-date">Posted: 04/03/07</div>
+<div class="player-story-digest">Phil Mickelson spoke with reporters Monday at Augusta National Golf Club on the subject of defending his Masters title. The following transcript of his remarks was provided by Augusta National.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040307/mas_123060.shtml">Interview: Tiger Woods</a></h3>
+<div class="player-story-date">Posted: 04/03/07</div>
+<div class="player-story-digest">Tiger Woods spoke with reporters Monday at Augusta National Golf Club on his upcoming appearance at the tournament. The following transcript of his remarks was provided by Augusta National.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040307/mas_123022.shtml">Interview: Padraig Harrington</a></h3>
+<div class="player-story-date">Posted: 04/03/07</div>
+<div class="player-story-digest">Padraig Harrington spoke with reporters Tuesday at Augusta National Golf Club. The following transcript of his remarks was provided by Augusta National.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040207/mas_122900.shtml">Interview: Gary Player</a></h3>
+<div class="player-story-date">Posted: 04/02/07</div>
+<div class="player-story-digest"></div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories//mas_123191.shtml">Interview: Billy Payne</a></h3>
+<div class="player-story-date">Posted: //</div>
+<div class="player-story-digest">Billy Payne, Chairman of Augusta National Golf Club and the Masters, gave his view ona variety of topics during a news conference at Augusta national. Here is the text of his news conference.</div>
+</div>

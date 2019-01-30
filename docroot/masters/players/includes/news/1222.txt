@@ -1,0 +1,20 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/latest-news/frazar-overcomes-nerves-shoot-73-first-round-masters">Frazar overcomes nerves to shoot 73 in first round of Masters</a></h3>
+<div class="player-story-date">Posted: 04/05/12</div>
+<div class="player-story-digest"> Harrison Frazar admitted Thursday morning he was in a tie for as nervous as he ever has been on a golf course. The 40-year-old PGA Tour pro is playing in his first Masters Tournament. &ldquo;I was nervous on the first ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/masters/masters-rookie-harrison-frazar-nearly-gave-game">Masters rookie Harrison Frazar nearly gave up game</a></h3>
+<div class="player-story-date">Posted: 04/03/12</div>
+<div class="player-story-digest"> Harrison Frazar knows what his friend Byron Nelson would have said to him about his first start in the Masters Tournament this week. &ldquo;He would have shaken my hand and said, &lsquo;Job well done, but it shouldn&rsquo;t have taken you ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/masters-rookie-harrison-frazar-nearly-gave-game">Masters rookie Harrison Frazar nearly gave up game</a></h3>
+<div class="player-story-date">Posted: 04/03/12</div>
+<div class="player-story-digest"> Harrison Frazar knows what his friend Byron Nelson would have said to him about his first start in the Masters Tournament this week. &ldquo;He would have shaken my hand and said, &lsquo;Job well done, but it shouldn&rsquo;t have taken you ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/texas-harrison-frazar-finally-make-masters-debut">Texas Harrison Frazar to finally make Masters debut</a></h3>
+<div class="player-story-date">Posted: 04/03/12</div>
+<div class="player-story-digest"> Harrison Frazar knows what his friend Byron Nelson would have said to him about his first start in the Masters Tournament this week. “He would have shaken my hand and said, ‘Job well done, but it shouldn’t have taken you ...</div>
+</div>

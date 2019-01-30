@@ -1,0 +1,914 @@
+
+
+
+
+  
+	<table id="LargeLeaderboard">
+
+		<TR>
+			<th>
+				<b>Position</b>
+			</th>
+			<th>
+				<b>Player</b>
+			</th>
+			<th class="center">
+				<b>Final</b>
+			</th>
+
+			
+			<th class="center">
+				<b>Earnings</b>
+			</th>
+
+
+		</TR>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+1</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh1634.shtml">Jimmy Demaret</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,500
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+2</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh1631.shtml">Lloyd Mangrum</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $800
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+3</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh192.shtml">Byron Nelson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $600
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T4</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh1633.shtml">Harry Cooper</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $400
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T4</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh1658.shtml">Ed Dudley</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $400
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T4</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh11421.shtml">Willie Goggin</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $400
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T7</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh193.shtml">Henry Picard</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T7</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh195.shtml">Sam Snead</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T7</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh1644.shtml">Craig Wood</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T10</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh189.shtml">Ben Hogan</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $100
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T10</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh9703.shtml">Toney Penna</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $100
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T12</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh1637.shtml">Paul Runyan</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $50
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T12</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh9710.shtml">Frank Walsh</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $50
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T14</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh11423.shtml">Sam Byrd</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T14</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh1642.shtml">Johnny Farrell</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T14</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh1657.shtml">Ralph Guldahl</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T17</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh1656.shtml">Harold McSpaden</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T17</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh9705.shtml">Charles Yates</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T19</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh8301.shtml">Lawson Little, Jr.</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T19</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh11442.shtml">Ed Oliver</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T21</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh11422.shtml">Johnny Bulla</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T21</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh9702.shtml">Dick Metz</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T21</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh194.shtml">Gene Sarazen</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T21</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh11443.shtml">Marvin Ward</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T21</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh8307.shtml">Al Watrous</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+26</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh1651.shtml">Jim Ferrier</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T27</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh8310.shtml">Jimmy Hines</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T27</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh1653.shtml">Johnny Revolta</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T29</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh9717.shtml">Jim Foulis</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+10</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T29</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh8303.shtml">Tony Manero</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+10</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T31</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh1652.shtml">E.J. Harrison</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+11</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T31</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh9707.shtml">Frank Moore</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+11</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T33</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh9704.shtml">Chick Harbert</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T33</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh11450.shtml">Jules Huot</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T33</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh8304.shtml">Jimmy Thomson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T33</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh11444.shtml">Wilford Wehrle</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+37</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh11449.shtml">Martin Pose</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+14</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh1639.shtml">Tommy Armour</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+15</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T39</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh8305.shtml">Victor Ghezzi</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+17</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T39</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh11452.shtml">William Holt</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+17</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T39</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh11441.shtml">Rod Munday</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+17</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T39</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh11447.shtml">Robert Sweeny Jr.</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+17</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T39</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh9714.shtml">Tommy Tailer</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+17</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+44</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh11446.shtml">Chuck Kocsis</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+18</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+45</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh11445.shtml">Art Doering Jr.</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+19</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+46</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh8308.shtml">Felix Serafin</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+20</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T47</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh1632.shtml">Horton Smith</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+21</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T47</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh9715.shtml">William P. Turnesa</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+21</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+49</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh9706.shtml">Ray Billows</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+22</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+50</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh11448.shtml">George Dawson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+24</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+51</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh11451.shtml">Enrique Bertolino</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+25</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+52</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1940_hbh11453.shtml">Charles Evans Jr.</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+43</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+	</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+

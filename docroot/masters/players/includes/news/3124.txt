@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/stephen-gallacher-learns-patience-after-fast-start-last-year">Stephen Gallacher learns patience after fast start last year</a></h3>
+<div class="player-story-date">Posted: 04/08/15</div>
+<div class="player-story-digest"> Stephen Gallacher got off to a fast start in his Masters Tour&shy;nament debut last year, but he learned that a successful beginning only gets a player so far. Gallacher was 1-under through two rounds in 2014, but a third-round 81 ...</div>
+</div>

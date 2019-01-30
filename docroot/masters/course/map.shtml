@@ -1,0 +1,294 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MC54JB2');</script>
+<!-- End Google Tag Manager -->
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+	<meta name="viewport" content="width=100%,user-scalable=false" />
+         <title>2018 Masters - Interactive Course Map of Augusta National Golf Club</title>
+<meta name="description" content="2018 Masters - Interactive Course Map of Augusta National Golf Club">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-touch-fullscreen" content="yes">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<link rel="stylesheet" href="http://www.augusta.com/masters/course/css/coursemap.css">
+
+<script type="text/javascript" src="//s3.amazonaws.com/cdn.knightlab.com/libs/storymapjs/latest/js/storymap-min.js"></script>
+<script type="text/javascript" src="//s3.amazonaws.com/cdn.knightlab.com/libs/storymapjs/latest/js/json2.min.js"></script>
+<style>
+html, body {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+#storymap-embed {
+    /*border: 1px solid #999;*/
+}
+</style>
+<!-- HTML5 shim, for IE6-8 support of HTML elements--><!--[if lt IE 9]>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<script>
+
+  if(typeof googletag !== "undefined") {
+
+
+      var ctype;
+      var taxonomy;
+      if (typeof  Drupal.settings.tealium != 'undefined') {
+        ctype = Drupal.settings.tealium.ctype;
+      }else {
+        ctype = ""
+      }
+      if (typeof  Drupal.settings.tealium != 'undefined') {
+        taxonomy =Drupal.settings.tealium.sections;
+      }else {
+        taxonomy = ""
+      }
+
+      googletag.cmd.push(function () {
+
+// Declare any slots initially present on the page
+        var top_adunit38883 = googletag.defineSlot(NMTdata.ads.dfp_adunit_prefix + NMTdata.ads.dfp_adunit, [728, 90], 'top_adunit38883')
+          .addService(googletag.pubads())
+          .setTargeting('pos', ['728x90_1'])
+          .setTargeting("content_type", ctype )
+          .setTargeting("Taxonomy", taxonomy)
+          .setTargeting('pplogin', jQuery.cookie('syncwall-authToken')? 'y': 'n')
+          .setCollapseEmptyDiv(false)
+          .defineSizeMapping(googletag.sizeMapping().
+            addSize([740, 100], [728, 90]).
+            addSize([0, 0], [[320, 50], [300, 50]]).
+            build())
+          .setTargeting('ccaud',[nmtAuds])
+          .setTargeting('ccc', NMTdata.ads.dfp_ccc);
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+// Enable services
+      });
+      googletag.cmd.push(function () {
+
+// Declare any slots initially present on the page
+       var adunit179461 = googletag.defineSlot(NMTdata.ads.dfp_adunit_prefix + NMTdata.ads.dfp_adunit, [300, 250], '300250ad79461')
+          .addService(googletag.pubads())
+          .setTargeting('pos', ['300x250_1'])
+          .setTargeting("content_type", ctype)
+          .setTargeting("Taxonomy", taxonomy)
+          .setTargeting('pplogin', jQuery.cookie('syncwall-authToken')? 'y': 'n')
+          .setCollapseEmptyDiv(false)
+	  .setTargeting('ccaud',[nmtAuds])
+          .setTargeting('ccc', NMTdata.ads.dfp_ccc);
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+// Enable services
+      });
+  }
+</script>
+
+<body style="max-width: 1600px;margin-left:auto;margin-right:auto;">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MC54JB2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->  
+
+
+<!-- GOOGLE PUBLISHER TAG - GOOGLE DFP -->
+<script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node =document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+   })();
+</script>
+
+
+<script src="https://cdn.gatehousemedia.com/assets/2.0.67/augusta.min.js?1521051356"></script>
+
+
+    
+    <link rel="stylesheet" media="all and (min-width: 748px) and (max-width: 977px)" href="/sites/all/themes/masters/css/748.css">
+    <link rel="stylesheet" media="all and (min-width: 0px) and (max-width: 747px)" href="/sites/all/themes/masters/css/300.css">
+<center>
+<div class="clearfix ad-box">
+<div id="top_adunit38883">&nbsp;</div>
+<!--    <img src="--><!--" width="728" height="90" alt="">--></div>
+<script>
+
+      googletag.cmd.push(function () {
+        googletag.display('top_adunit38883');
+              });
+
+</script>
+</center>
+
+
+<div style="padding-top:5px;"></div> <a href="http://www.augusta.com" class="active"><img class="img-responsive" src="http://www.augusta.com/sites/default/files/logo-2018-final.png" style="width:100%; max-width: 540px;"></a>
+      
+<br />
+
+<!-- Go to www.addthis.com/dashboard to generate a new set of sharing buttons -->
+
+<a href="https://api.addthis.com/oexchange/0.8/forward/facebook/offer?url=http%3A%2F%2Fwww.augusta.com%2Fmasters%2Fcourse%2Fmap.shtml&pubid=ra-53971f857d5d6446&ct=1&title=Interactive%20course%20map%20of%20Augusta%20National&pco=tbxnj-1.0" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/facebook.png" border="0" alt="Facebook"/></a>
+<a href="https://api.addthis.com/oexchange/0.8/forward/twitter/offer?url=http%3A%2F%2Fwww.augusta.com%2Fmasters%2Fcourse%2Fmap.shtml&pubid=ra-53971f857d5d6446&ct=1&title=Interactive%20course%20map%20of%20Augusta%20National&pco=tbxnj-1.0" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/twitter.png" border="0" alt="Twitter"/></a>
+<a href="https://api.addthis.com/oexchange/0.8/forward/google_plusone_share/offer?url=http%3A%2F%2Fwww.augusta.com%2Fmasters%2Fcourse%2Fmap.shtml&pubid=ra-53971f857d5d6446&ct=1&title=Interactive%20course%20map%20of%20Augusta%20National&pco=tbxnj-1.0" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/google_plusone_share.png" border="0" alt="Google+"/></a>
+<a href="https://www.addthis.com/bookmark.php?source=tbx32nj-1.0&v=300&url=http%3A%2F%2Fwww.augusta.com%2Fmasters%2Fcourse%2Fmap.shtml&pubid=ra-53971f857d5d6446&ct=1&title=Interactive%20course%20map%20of%20Augusta%20National&pco=tbxnj-1.0" target="_blank"><img src="https://cache.addthiscdn.com/icons/v2/thumbs/32x32/addthis.png" border="0" alt="Addthis"/></a>
+
+&nbsp;&nbsp;&nbsp;<span style="font-family: 'PT Sans Narrow',sans-serif; font-size: 24px; font-weight: 700;vertical-align: top;">Interactive Course Map of Augusta National Golf Club</span>
+<br />
+<span style="font-family: 'PT Sans Narrow',sans-serif; font-size: 16px; font-weight: 400;">
+Use arrows to move to the next/previous section of the course or hover over course image to see and click markers.<br />
+<div id="storymap-embed"></div>
+
+
+
+<script type="text/javascript">
+
+function parseQuerystring() {
+    var nvpair = {};
+    var qs = window.location.search.replace('?', '');
+    var pairs = qs.split('&');
+
+    for(var i = 0; i < pairs.length; i++) {
+        var p = pairs[i].split('=');
+        nvpair[p[0]] = p[1];
+    }
+    return nvpair;
+}
+
+function getScriptPath(scriptname) {
+    var scriptTags = document.getElementsByTagName('script');
+
+    for(var i = 0; i < scriptTags.length; i++) {
+        if(scriptTags[i].src.match(scriptname)) {
+            script_path = scriptTags[i].src;            
+            return script_path.split('?')[0].split('/').slice(0, -1).join('/');
+        }
+    }
+    return '';
+}
+
+function url_join(url, concat) { // see http://stackoverflow.com/questions/2676178/joining-relative-urls
+    function build(parts,container) {
+        for (var i = 0, l = parts.length; i < l; i ++) {
+            if (parts[i] == '..') {
+                container.pop();
+            } else if (parts[i] == '.') {
+                continue;
+            } else {
+                container.push(parts[i]);
+            }
+        }
+    }
+    var url_parts = [ ];
+    build(url.split('/'),url_parts);
+    build(concat.split('/'),url_parts);
+    return url_parts.join('/');
+}
+
+
+var storymap = null;
+var storymap_url = '//s3.amazonaws.com/uploads.knightlab.com/storymapjs/3f0213c78c2707e77d2ab85861fcccf1/augusta-national-golf-club/published.json'; //decodeURIComponent(params['url']);
+
+var params = parseQuerystring();
+
+/* don't need this anymore
+if(!!navigator.userAgent.match(/AppleWebKit\/.* Mobile\//)
+|| !!navigator.userAgent.match(/Version\/[\d\.]+.*Safari/)
+|| !!navigator.userAgent.toLowerCase().match(/msie [789]/)) {    
+    if(storymap_url.match(/^https?:\/\/www\.googledrive\.com\/host\//)) {
+        storymap_url = location.protocol+'//proxy.knightlab.com/'+storymap_url.split('://')[1];
+        trace('proxy, '+storymap_url);
+    }
+}
+*/
+var options = {
+    script_path: getScriptPath(/storymap(-min)?\.js/),
+    start_at_slide: 0
+};
+
+if(params.hasOwnProperty('start_at_slide')) {
+    options.start_at_slide = parseInt(params.start_at_slide);
+}
+
+function storymap_onload(d) {
+    trace('embed: storymap data loaded');
+
+    if (d && d.storymap) {
+        var font = "stock:default";
+        if(d.font_css) {
+            font = d.font_css;
+        }
+        if(font.indexOf("stock:") == 0) {
+            var font_name = font.split(':')[1];
+            var base_url = url_join(options.script_path,"../css/fonts");
+            font = url_join(base_url, "font." + font_name + ".css");
+        } else if(!font.match('^(http|https|//)')) {
+            font = url_join(options.script_path, font);
+        }
+        VCO.Load.css(font,function(){ trace('font loaded: ' + font);});
+        storymap = new VCO.StoryMap('storymap-embed', d, options);
+    }
+}
+    
+function storymap_getjson() {
+    if('withCredentials' in new XMLHttpRequest()) {
+        // Supports cross-domain requests
+        trace('embed: loading data via XMLHttpRequest');        
+        VCO.getJSON(storymap_url, storymap_onload);
+    } else if(typeof XDomainRequest !== "undefined") {
+        // Use IE-specific "CORS" code with XDR
+        trace('embed: loading data via XDomainRequest');
+        var xdr = new XDomainRequest();
+        xdr.onload = function() {
+            storymap_onload(JSON.parse(xdr.responseText));
+        };
+        xdr.onerror = function() { 
+            trace('embed: error loading data via XDomainRequest'); 
+        };
+        xdr.onprogress = function() {};
+        xdr.open("get", storymap_url);
+        xdr.send();
+    }
+}
+
+window.onload = function() {
+    if(storymap_url.match('\\.js$')) {        
+        trace('embed: loading data via script injection');
+        var loaded = false;  
+        var script = document.createElement("script");
+        script.type = "text/javascript";
+        script.src  = storymap_url;    
+        script.onload = script.onreadystatechange = function() {
+            if(!loaded && (!(d = this.readyState) || d == "loaded" || d == "complete")) {
+                loaded = true;
+                storymap_onload(storymap_json);
+            }
+        }
+
+        // document.head not standard before HTML5
+        var insertionPoint = document.head || document.getElementsByTagName('head').item(0) || document.documentElement.childNodes[0];
+        insertionPoint.appendChild(script);
+    } else {    
+        storymap_getjson(); 
+    }
+}
+
+window.onresize = function(event) {
+    if(storymap) {
+        storymap.updateDisplay();
+    }
+}
+</script>
+</body>
+</html>

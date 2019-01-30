@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/michael-thompson-returns-changed-player">Michael Thompson returns as changed player</a></h3>
+<div class="player-story-date">Posted: 03/16/13</div>
+<div class="player-story-digest"> Michael Thompson is ready to write a more uplifting second chapter to his Masters Tournament career. He&rsquo;s currently known as the amateur who called a penalty shot on himself on the way to missing the cut in 2008. &ldquo;I&rsquo;m just ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/041208/mas_194758.shtml">Thompson follows rule despite cost</a></h3>
+<div class="player-story-date">Posted: 04/12/08</div>
+<div class="player-story-digest">Should Michael Thompson be lauded to any great degree for what happened on the 15th green at Augusta National Golf Club on Friday?</div>
+</div>

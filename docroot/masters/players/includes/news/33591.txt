@@ -1,0 +1,20 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/masters/lemonade-gives-phil-mickelson-something-play-practice">Lemonade gives Phil Mickelson something to play for at practice</a></h3>
+<div class="player-story-date">Posted: 04/03/12</div>
+<div class="player-story-digest">  Phil Mickelson might have started himself a new tradition Tuesday at Augusta National Golf Club. Should the 41-year-old be seen celebrating his fourth Masters Tournament victory Sun&shy;day, he can say the momentum started by winning a glass of lemonade ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/lemonade-gives-phil-mickelson-something-play-practice">Lemonade gives Phil Mickelson something to play for at practice</a></h3>
+<div class="player-story-date">Posted: 04/03/12</div>
+<div class="player-story-digest"> Phil Mickelson might have started himself a new tradition Tuesday at Augusta National Golf Club. Should the 41-year-old be seen celebrating his fourth Masters Tournament victory Sun­day, he can say the momentum started by winning a glass of lemonade Tuesday. ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/masters/first-time-patrons-find-masters-exhilarating">First time patrons find Masters exhilarating</a></h3>
+<div class="player-story-date">Posted: 04/02/12</div>
+<div class="player-story-digest"> Jonathan Richman wanted one thing for his 50th birthday: Masters Tournament tickets. The avid golfer from Pinehurst, N.C., had never been to Augusta National Golf Club before Monday morning. Standing behind the ninth green, Richman watched Kyung-Tae Kim, Rory Sabbatini ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/first-time-patrons-find-masters-exhilarating">First time patrons find Masters exhilarating</a></h3>
+<div class="player-story-date">Posted: 04/02/12</div>
+<div class="player-story-digest"> Jonathan Richman wanted one thing for his 50th birthday: Masters Tournament tickets.  The avid golfer from Pinehurst, N.C., had never been to Augusta National Golf Club before Monday morning. Standing behind the ninth green, Richman watched Kyung-Tae Kim, Rory ...</div>
+</div>

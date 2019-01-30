@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040706/mas_76448.shtml">In the field</a></h3>
+<div class="player-story-date">Posted: 04/07/06</div>
+<div class="player-story-digest">Rarely in professional golf do two players feud, at least publicly, the way Australians Robert Allenby and Mark Hensby have been.</div>
+</div>

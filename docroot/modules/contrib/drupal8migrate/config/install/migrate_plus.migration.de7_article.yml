@@ -1,0 +1,69 @@
+id: de7_article
+label: Article
+migration_tags:
+  - Drupal 7
+deriver: Drupal\node\Plugin\migrate\D7NodeDeriver
+migration_group: de7
+source:
+  plugin: d7_node
+  node_type: article
+process:
+#  nid and vid commented out will allow them to autoincrement. Safe as long
+#    as nothing else is referencing them.
+  nid: nid
+  vid: vid
+  type:
+    plugin: default_value
+    default_value: article
+  langcode:
+    plugin: default_value
+    source: language
+    default_value: "und"
+  title: title
+  uid: node_uid
+  status: status
+  created: created
+  changed: changed
+  promote: promote
+  sticky: sticky
+  body/format:
+    plugin: default_value
+    default_value: html/formatted
+  body/value: body
+  revision_uid: revision_uid
+  revision_log: log
+  revision_timestamp: timestamp
+  rabbit_hole: rabbit_hole
+  path: path
+  metatags: metatags
+  redirect: redirect
+  xmlsitemap: xmlsitemap
+  field_article_subheadline: field_article_subheadline
+  field_article_front_headline: field_article_front_headline
+  field_authors: field_authors
+  field_article_byline: field_article_byline
+  field_sections: field_sections
+  field_topics: field_topics
+  field_article_body: field_article_body
+  field_tags: field_tags
+  field_article_photos_lead: field_article_photos_lead
+  field_article_videos_embedded: field_article_videos_embedded
+  field_article_links: field_article_links
+  field_article_related_articles: field_article_related_articles
+  field_article_breakout: field_article_breakout
+  field_custom_packaging: field_custom_packaging
+  field_article_tags: field_article_tags
+  field_article_videos: field_article_videos
+  field_article_files: field_article_files
+  field_article_breaking_news: field_article_breaking_news
+  field_article_news_alert: field_article_news_alert
+  field_article_pub_id: field_article_pub_id
+  field_article_embedded: field_article_embedded
+  field_article_content_include: field_article_content_include
+  field_ci_insert: field_ci_insert
+  field_display: field_display
+  contentwatch_service_pub_id: contentwatch_service_pub_id
+  field_syncronex: field_syncronex
+destination:
+  plugin: entity:node
+migration_dependencies: {}

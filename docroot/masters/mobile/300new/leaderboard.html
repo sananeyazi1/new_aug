@@ -1,0 +1,109 @@
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>
+$(function(){
+  var viewPortWidth = $(window).width();
+
+  if (viewPortWidth < 444) {
+    $('#LargeLeaderboard').addClass('smallWindow');
+    $('.RoundHeader').addClass('hideColumn');
+    $('.RoundData').addClass('hideColumn');
+  }
+
+});
+</script>
+<style>
+#LargeLeaderboard {
+  font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+}
+#LargeLeaderboard th {
+  font-weight: bold;
+  text-align: left;
+}
+#LargeLeaderboard td {
+  padding:2px 1px;
+}
+#LargeLeaderboard th {
+  padding:2px 1px;
+}
+#LargeLeaderboard {
+  margin:0;
+  padding:0;
+  width:100%;
+  background:#fff;
+}
+#LargeLeaderboard a {
+  color: #517230;
+  font-style: normal;
+  text-decoration: none;
+  visibility: inherit;
+}
+#LargeLeaderboard h1 {
+  font-weight:bold;
+}
+#LargeLeaderboard a:hover {
+  text-decoration:underline;
+}
+#LargeLeaderboard tr.odd {
+  background-color: #D1D8BF;
+}
+#LargeLeaderboard tr.even td {
+  background-color: #ffffff;
+}
+#LargeLeaderboard tr.cut td {
+  background-color: #dddddd;
+}
+#LargeLeaderboard td.center {
+  text-align: center;
+}
+#LargeLeaderboard th.center {
+  text-align: center;
+}
+#LargeLeaderboard th {
+  border: 0;
+}
+
+#LargeLeaderboard {
+  font-size:42px;
+}
+#LargeLeaderboard h1 {
+  font-size:42px;
+}
+.ldbd_smalltext {
+  font-size:42px;
+}
+.hideColumn {
+  display:none;
+}
+#LargeLeaderboard.smallWindow {
+  font-size:140%;
+  width:300px;
+}
+
+</style>
+</head>
+<body onLoad="viewPortWidth();">
+<table id="LargeLeaderboard" cellspacing="0">
+<tr><td colspan="10" class="center"><h1>2014 Masters - Round 1</h1>
+<div class="ldbd_smalltext">Updated Thu 10:32am</div><br /></td></tr>
+<tr><th></th><th></th></tr>
+<tr><th>POS</th><th>NAME</th><th class="center">SCORE</th><th class="center">THRU</th><th class="center">TOTAL</th></tr>
+
+  
+  
+
+	<tr class="odd">
+	<td>-</td>
+
+	<td><a href="/masters/mobile/players/bios/phone/2014/8/0.html" target="_top">- -</a></td>
+
+	<td class="center">-</td>
+	<td class="center">- </td>
+	
+	<td class="center">-</td></tr>
+
+
+</table>
+</body>
+</html>

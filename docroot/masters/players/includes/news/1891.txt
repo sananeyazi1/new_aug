@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040608/mas_193362.shtml">Masters is amateur's swan song</a></h3>
+<div class="player-story-date">Posted: 04/06/08</div>
+<div class="player-story-digest">It's not unusual for an amateur to play in the Masters Tournament and then turn pro, making it his last amateur event. Brandt Snedeker did it in 2004, and Richie Ramsey followed suit last year.</div>
+</div>

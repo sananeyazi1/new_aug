@@ -1,0 +1,112 @@
+
+/* ==|== primary styles =====================================================
+   Author: Hook
+   ========================================================================== */
+    
+@font-face {
+    font-family: AdobeClean-Regular;
+    src: url(../fonts//AdobeClean-Regular.otf);
+    font-weight:100;
+}
+
+@font-face {
+    font-family: AdobeClean-Bold;
+    src: url(../fonts/AdobeClean-Bold.otf);
+    font-weight:800;
+}
+
+html, body { margin:0; font-family: AdobeClean-Regular; }
+  #container { overflow: hidden; background: #000; position: relative; }
+    #logo { z-index: 3000; position: absolute; right: 30px; }
+    #loading { position: absolute; top: 0; background: #000; opacity: 1; z-index: 99999; }
+      #loading img { position: absolute; }
+    #overlay_content { position: absolute; z-index: 9999; color: #fff; text-align:center; }
+      #overlay_content h2 { letter-spacing: 3px; font-size: 24px; font-family: AdobeClean-Regular; }
+      #overlay_content p { font-size: 14px; }
+      p#legal { font-size: 10px; width: 95%; margin: 0 auto; text-align: left; margin-top: 50px; }
+
+.adobebold { font-family: AdobeClean-Bold; }
+.sup {
+  position: relative;
+  top: -2px;
+}
+
+/* ==|== non-semantic helper classes ========================================
+   Please define your styles before this section.
+   ========================================================================== */
+
+.invisible { visibility: hidden; }
+.hidden { display: none !important; visibility: hidden; }
+.clearfix:before, .clearfix:after { content: ""; display: table; }
+.clearfix:after { clear: both; }
+.clearfix { zoom: 1; }/* Hide only visually, but have it available for screenreaders: h5bp.com/v */
+.visuallyhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
+/* Extends the .visuallyhidden class to allow the element to be focusable when navigated to via the keyboard: h5bp.com/p */
+.visuallyhidden.focusable:active, .visuallyhidden.focusable:focus { clip: auto; height: auto; margin: 0; overflow: visible; position: static; width: auto; }
+.red { color: #ff0000; }
+a { text-decoration:none; color: #fff; }
+@media only screen and (orientation:portrait) {
+  body, html { position: relative; width: 768px; height: 1024px; overflow: hidden; }
+	 #ad-image{display:none;}
+	 #ad-image2 {display:none;}
+	  #ad-image4 {display:none;}
+	 #ad-image3 {
+display:block;
+width: 768px;
+height: 1024px;
+}
+}
+
+@media only screen and (orientation:landscape) { 
+  /* landscape orientation */
+  body, html { position: relative; width: 1024px; height: 768px; overflow: hidden; }
+ #ad-image {display:none;}
+  #ad-image2 {display:none;}
+   #ad-image3 {display:none;}
+  	 #ad-image4 {
+display:block;
+width: 1024px;
+height: 768px;
+}
+}
+}
+
+/* iPad 3 Landscape */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape)
+and (-webkit-min-device-pixel-ratio: 2) {
+
+ body, html { position: relative; max-width:1024px; overflow: hidden; }
+
+#ad-image{display:none;}
+#ad-image3{display:none;}
+ #ad-image4 {display:none;}
+#ad-image2{
+display:block;
+width: 1024px;
+height: 768px;
+}
+}
+
+
+
+/* iPad 3 Portrait */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait)
+and (-webkit-min-device-pixel-ratio: 2) {
+
+body, html { position: relative; max-width:768px; overflow: hidden; }
+
+#ad-image2 {display:none;}
+#ad-image3{display:none;}
+ #ad-image4 {display:none;}
+#ad-image{
+display:block;
+width: 768px;
+height: 1024px;
+}
+}

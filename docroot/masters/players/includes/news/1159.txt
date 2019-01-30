@@ -1,0 +1,15 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2010/04/11/mas_573371.shtml">Kelly's Masters record improves</a></h3>
+<div class="player-story-date">Posted: 04/11/10</div>
+<div class="player-story-digest">It took the third round of his seventh Masters Tournament for Jerry Kelly to register 67, his best score by two strokes at Augusta National Golf Club.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040907/mas_123951.shtml">Kelly's new approach pays off</a></h3>
+<div class="player-story-date">Posted: 04/09/07</div>
+<div class="player-story-digest">Jerry Kelly didn't win the 71st Masters Tournament, but he certainly had fun playing.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040607/mas_123527.shtml">Jerry Kelly moves up the leaderboard on front nine</a></h3>
+<div class="player-story-date">Posted: 04/06/07</div>
+<div class="player-story-digest">AUGUSTA, Ga. -- Jerry Kelly, not Tiger Woods or Vijay Singh, made the Friday lunch time move up the leaderboard at the Masters Tournament.</div>
+</div>

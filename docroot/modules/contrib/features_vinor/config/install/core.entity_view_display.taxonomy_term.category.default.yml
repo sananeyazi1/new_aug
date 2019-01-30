@@ -1,0 +1,16 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.taxonomy_term.category.field_category_columns
+    - field.field.taxonomy_term.category.field_category_layout
+    - taxonomy.vocabulary.category
+id: taxonomy_term.category.default
+targetEntityType: taxonomy_term
+bundle: category
+mode: default
+content: {  }
+hidden:
+  description: true
+  field_category_columns: true
+  field_category_layout: true

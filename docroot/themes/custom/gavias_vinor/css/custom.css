@@ -1,0 +1,8 @@
+.node-detail ul{
+   padding-left: 20px;
+}
+.node-detail ul li{
+   list-style: disc;
+}
+
+.flex-direction-nav a{height: 58px;}

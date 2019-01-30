@@ -1,0 +1,863 @@
+
+
+
+
+  
+	<table id="LargeLeaderboard">
+
+		<TR>
+			<th>
+				<b>Position</b>
+			</th>
+			<th>
+				<b>Player</b>
+			</th>
+			<th class="center">
+				<b>Final</b>
+			</th>
+
+			
+			<th class="center">
+				<b>Earnings</b>
+			</th>
+
+
+		</TR>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+1</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh154.shtml">Jack Nicklaus</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $20,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+2</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh12522.shtml">Tony Lema</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $12,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T3</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh1650.shtml">Julius Boros</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $7,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T3</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh195.shtml">Sam Snead</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $7,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T5</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh1612.shtml">Dow Finsterwald</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $4,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T5</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh11931.shtml">Ed Furgol</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $4,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T5</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh165.shtml">Gary Player</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $4,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+8</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh12207.shtml">Bo Winiger</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $2,400
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T9</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh1614.shtml">Don January</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,800
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T9</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh161.shtml">Arnold Palmer</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,800
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T11</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh112.shtml">Billy Casper</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,350
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T11</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh1662.shtml">Bruce Crampton</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,350
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T11</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh126.shtml">Doug Ford</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,350
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T11</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh1660.shtml">Mike Souchak</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,350
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T15</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh3194.shtml">Bob Charles</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,100
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T15</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh12524.shtml">Chen Ching-Po</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,100
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T15</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh1625.shtml">Billy Maxwell</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,100
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T15</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh12141.shtml">Dick Mayer</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,100
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T15</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh12329.shtml">Mason Rudolph</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,100
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T15</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh12523.shtml">Dan Sikes</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T21</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh12189.shtml">Stan Leonard</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T21</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh3920.shtml">Johnny Pott</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T21</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh196.shtml">Art Wall Jr.</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T24</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh12309.shtml">Wes Ellis Jr.</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T24</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh1636.shtml">Gene Littler</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T24</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh1613.shtml">Bobby Nichols</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+27</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh12245.shtml">Jay Hebert</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $750
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T28</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh12324.shtml">George Bayer</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $750
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T28</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh10101.shtml">Tom Jacobs</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $750
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T28</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh1648.shtml">Doug Sanders</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $750
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T28</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh12529.shtml">Alvie Thompson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $750
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T32</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh3932.shtml">Labron Harris</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+10</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T32</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh3947.shtml">Dave Ragan</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+10</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $750
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+34</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh1664.shtml">Ken Venturi</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+11</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $750
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T35</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh12290.shtml">William Hyndman III</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+12</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T35</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh12385.shtml">Kel Nagle</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+12</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $750
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T37</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh1610.shtml">Tommy Bolt</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $750
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T37</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh12064.shtml">Charles R. Coe</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T39</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh3896.shtml">Homero Blancas</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+14</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T39</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh12401.shtml">Antonio Cerda</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+14</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $750
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T39</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh3914.shtml">Lionel Hebert</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+14</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $750
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+42</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh3959.shtml">Jack Fleck</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+15</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $750
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T43</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh12193.shtml">Walter Burkemo</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+16</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $750
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T43</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh1634.shtml">Jimmy Demaret</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+16</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $750
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+45</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh190.shtml">Herman Keiser</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+17</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $750
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T46</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh12521.shtml">A. Downing Gray</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+18</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T46</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh3922.shtml">R.H. Sikes</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+18</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+48</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh12241.shtml">William J Patton</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+19</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+49</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1963_hbh194.shtml">Gene Sarazen</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+20</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $750
+				
+			</td>
+		</tr>
+	</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+

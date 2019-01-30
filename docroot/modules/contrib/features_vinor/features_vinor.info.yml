@@ -1,0 +1,34 @@
+name: Features Vinor
+description: 'Features Vinor - Import content type, field, view ... for Vinor Theme'
+type: module
+core: 8.x
+dependencies:
+  - block
+  - block_class
+  - block_content
+  - block_visibility_groups
+  - blocktabs
+  - comment
+  - field
+  - file
+  - filter
+  - gavias_view
+  - gaviasthemer
+  - image
+  - menu_ui
+  - node
+  - options
+  - path
+  - rdf
+  - system
+  - taxonomy
+  - text
+  - user
+  - views
+  - views_infinite_scroll
+  - features
+  - config_update
+  - image_url_formatter
+  - features
+  - config_update
+version: ' 8.x-1.0'

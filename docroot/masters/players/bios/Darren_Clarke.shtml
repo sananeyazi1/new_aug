@@ -1,0 +1,685 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html  prefix="og: http://ogp.me/ns#">
+  <head>
+  
+<script type="text/javascript">
+var zz_ccc = 'Test';
+var zz_omnipagename = "Players: Darren Clarke";
+var zz_omnichannel = 'Sports';
+var zz_omniserver = 'Augusta.com';
+var zz_breadcrumbs = '<a href="/masters/players/index.shtml">Players</a>';
+var zz_pagetitle = "Darren Clarke";
+document.title = "Darren Clarke | The Masters";
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script type="text/javascript" src="http://use.typekit.com/jvy6nna.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/all/themes/masters/favicon.ico" type="image/x-icon" />
+
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/quicktabs/css/quicktabs.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/masters/css/reset.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/masters/css/masters.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/masters/css/wrapper.css" />
+<script type="text/javascript" src="/sites/all/modules/jquery_update/replace/jquery.min.js"></script>
+<script type="text/javascript" src="/misc/drupal.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="/sites/all/themes/masters/js/jquery-ui-1.8.17.custom.min.js"></script>
+<script type="text/javascript" src="/sites/all/themes/masters/js/jquery.masonry.min.js"></script>
+<script type="text/javascript" src="/sites/all/themes/masters/js/slides.min.jquery.js"></script>
+<script type="text/javascript" src="/sites/all/themes/masters/js/jquery.innerfade.js"></script>
+
+<script type="text/javascript" src="/sites/all/themes/masters/js/scripts.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "quicktabs": { "qt_homepage_tabs": { "tabs": [ 0, 0, 0 ] } } });
+//--><!]]>
+</script>
+
+
+
+<!-- GOOGLE PUBLISHER TAG - GOOGLE DFP -->
+<script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node =document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+   })();
+</script>
+
+<!--  specific settings for Google DFP.  This JS file is not needed if the adunit and ccc will be hard coded. -->
+<script src='http://www.augusta.com/masters/dfp/js/nmt_data.js'></script>
+<script src='http://www.augusta.com/masters/dfp/js/nmt_ads_aug.js'></script>
+
+
+    
+    <link rel="stylesheet" media="all and (min-width: 748px) and (max-width: 977px)" href="/sites/all/themes/masters/css/748.css">
+    <link rel="stylesheet" media="all and (min-width: 0px) and (max-width: 747px)" href="/sites/all/themes/masters/css/300.css">
+    <!--[if lt IE 9]>
+      <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/masters/css/ie7.css" /> 
+    <![endif]-->
+
+<!-- custom for players bios pages -->
+<link type="text/css" rel="stylesheet" media="all" href="/masters/includes/styles/players.css" />
+<!-- scripts for tabbed content-->
+<script type="text/javascript">
+function getQueryString() {
+  var result = {}, queryString = location.search.substring(1),
+      re = /([^&=]+)=([^&]*)/g, m;
+
+  while (m = re.exec(queryString)) {
+    result[decodeURIComponent(m[1])] = decodeURIComponent(m[2]);
+  }
+
+  return result;
+}
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('#innterTabs div').hide();
+$('#innterTabs div:first').show();
+$('#innterTabs ul li:first').addClass('active');
+
+$('#innterTabs ul li a').hover(function(){
+$('#innterTabs ul li').removeClass('hover');
+$(this).parent().addClass('hover');
+});
+
+$('#innterTabs ul li a').mouseleave(function() {
+$('#innterTabs ul li').removeClass('hover');
+$(this).parent().removeClass('hover');
+});
+
+$('#innterTabs ul li a').click(function(){
+$('#innterTabs ul li').removeClass('active');
+$(this).parent().addClass('active');
+var currentTab = $(this).attr('href');
+$('#innterTabs div').hide();
+$(currentTab).show();
+return false;
+});
+});
+</script>
+
+<script type="text/javascript">
+var tabWanted = getQueryString()["tab"];
+var currentURL = document.URL;
+var cleanURL = currentURL.split("?");
+
+
+if (tabWanted == "scores2") {
+  window.location = cleanURL[0] + "?tab=scores";
+} else if (tabWanted == "record2") {
+  window.location = cleanURL[0] + "?tab=record";
+}
+
+if (tabWanted) {
+	tabWanted = "#" + tabWanted;
+	var liWanted = tabWanted + "LI";
+} else {
+	var tabWanted = "#profile";
+	var liWanted = "#profileLI";
+}
+
+$(document).ready(function(){
+$('#outerTabs div.outer').hide();
+$(tabWanted).show();
+$(liWanted).addClass('active');
+
+$('#outerTabs ul.outer li.outer a.outer').hover(function(){
+$('#outerTabs ul.outer li.outer').removeClass('hover');
+$(this).parent().addClass('hover');
+});
+
+$('#outerTabs ul.outer li.outer a.outer').mouseleave(function() {
+$('#outerTabs ul.outer li.outer').removeClass('hover');
+$(this).parent().removeClass('hover');
+});
+
+$('#outerTabs ul.outer li.outer a.outer').click(function(){
+$('#outerTabs ul.outer li.outer').removeClass('active');
+$(this).parent().addClass('active');
+var currentTab = $(this).attr('href');
+$('#outerTabs div.outer').hide();
+$(currentTab).show();
+return false;
+});
+});
+</script>
+
+<script>
+$(function(){
+  var viewPortWidth = $(window).width();
+  if (viewPortWidth < 320) {
+    $('#playerMiniHoleByHole').addClass('collapsed-font');
+    $('#playerHBHstats').addClass('collapsed-font');
+    $('.hbhStatsTable td').addClass('collapsed-padding');
+  }
+});
+</script>
+
+<script type="text/javascript">
+function open_photos() {
+  //window.open("/masters/players/photos/206.html","_self")
+  window.location = "/masters/players/photos/206.html";
+}
+</script>
+<!-- end scripts for tabbed content-->
+<!-- custom for players bios pages -->
+
+<style>
+div.col3 {margin-left: 23px !important;}
+</style>
+
+	</head>
+  <body class="page-node node-type-page no-sidebars node-level " onLoad="viewPortWidth();">
+<script type="text/javascript">
+  var utag_data={
+  taxonomy: "Masters"};
+function apt_AD(pos){};
+(function(a,b,c,d){
+a='//tags.tiqcdn.com/utag/mpg/augusta.com/prod/utag.js';
+b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+})();
+</script>
+<div id="outer-container">
+<div id="inner-container" class="layout-978" style="width: 979px !important;">
+ <div class="row header">
+    <div class="col8">
+
+      <div class="header-info">
+        <div class="header-info-inner">
+          <div class="dates">April 4-10<span>2016</span></div>
+        </div>
+        <div class="share-icons addthis_toolbox">
+          <script type="text/javascript">
+            var addthis_config = {
+              pubid: 'morrisdigitalworks',
+              ui_use_css:true
+            };
+            addthis.button('.addthis_button_facebook');
+          </script>
+          <a class="addthis_button_facebook fb" style="text-decoration:none">FB</a>
+
+          <a class="addthis_button_twitter twitter" style="text-decoration:none">Twitter</a>
+          <a class="addthis_button_share share" style="text-decoration:none">Share</a>
+          
+        </div>
+        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
+      </div>
+      <div class="logo"><a href="/"><img src="/sites/all/themes/masters/logo.png" /></a></div>
+      <div class="logo-text">2016 coverage by <a href="http://chronicle.augusta.com">The Augusta Chronicle</a></div>
+
+            <div class="navigation">
+          <div id="block-menu-primary-links" class="block block-menu">
+
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/" title="">Home</a></li>
+<li class="leaf"><a href="/masters/news" title="">News</a></li>
+<li class="leaf"><a href="/masters/leaderboard" title="">Leaderboard</a></li>
+<li class="leaf"><a href="/masters/coursetour/hole1" title="">Course</a></li>
+<li class="leaf"><a href="/masters/photos" title="">Photos</a></li>
+
+<li class="leaf"><a href="/masters/players/index.shtml" title="">Players</a></li>
+<li class="leaf"><a href="/masters/history" title="">History</a></li>
+<li class="leaf"><a href="/masters/augustaguide" title="">Augusta</a></li>
+<li class="leaf last"><a href="/masters/shop" title="">Shop</a></li>
+</ul>  </div>
+</div>
+      </div>
+      <div class="navigation-drop"></div>
+          </div>
+
+   
+    <div class="col4 top-col2">
+      <div class="leaderboard-header">
+        <a href="/masters/leaderboard" class="tabbed">leaderboard</a>
+      </div>
+	  <div class="leaderboard-sponsor">
+          <div id='160x17_1' class='adslot' ><script type='text/javascript'>
+// Top Banner
+googletag.defineSlot(NMTdata.ads.dfp_adunit_prefix+NMTdata.ads.dfp_adunit, [[160,17]],'160x17_1')
+    .addService(googletag.pubads())
+    .setTargeting('pos',['160x17_1'])
+    .setTargeting('ccc',NMTdata.ads.dfp_ccc);
+googletag.pubads().enableSyncRendering();
+googletag.enableServices();
+googletag.display('160x17_1');
+</script></div>
+
+        </div>
+      <div class="leaderboard">
+
+        <table id="top-leaders">
+          <tbody>
+          <tr>
+            <th class="col-pos">Pos</th>
+            <th class="col-name">Name</th>
+            <th class="col-tot">Tot</th>
+            <th class="col-thru">Thru</th>
+
+            <th class="col-rd"><!--#include virtual="/masters/includes/wrapper_round_number.txt"--></th>
+          </tr>
+          </tbody>
+        </table>
+        <a href="/masters/leaderboard" class="link-leaderboard">Full Leaderboard</a>
+      </div>
+    </div>
+    <div class="row-end">&nbsp;</div>
+
+ </div> <!--//.header-->
+    <div id="ads-north" class="row">
+        <div class="col9 ads-north-col1">
+        <div id="block-block-9" class="block block-block">
+
+  <div class="content">
+    <div id="top_banner_adslot" class="adslot">
+<center>
+<script>
+if (document.documentElement.clientWidth > 480) {
+    googletag.cmd.push(function() {
+		googletag.defineSlot(NMTdata.ads.dfp_adunit_prefix+NMTdata.ads.dfp_adunit, [[728,90]],'top_banner_adslot')
+	    .addService(googletag.pubads())
+	    .setTargeting('pos',['728x90_1'])
+	    .setTargeting('ccc',NMTdata.ads.dfp_ccc);
+	googletag.enableServices();
+	googletag.display('top_banner_adslot');
+});
+
+} else {
+    googletag.cmd.push(function() {
+		googletag.defineSlot(NMTdata.ads.dfp_adunit_prefix+NMTdata.ads.dfp_adunit, [[300,50]],'top_banner_adslot')
+	    .addService(googletag.pubads())
+	    .setTargeting('pos',['300x50_1'])
+	    .setTargeting('ccc',NMTdata.ads.dfp_ccc);
+	googletag.enableServices();
+	googletag.display('top_banner_adslot');
+});
+}
+</script>
+</center>
+</div>
+
+
+  </div>
+</div>
+    </div>
+            <div class="col3 ads-north-col2">
+        <div id="block-block-13" class="block block-block">
+
+  <div class="content">
+    <div id='230x90_1' class='adslot' >
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+		googletag.defineSlot(NMTdata.ads.dfp_adunit_prefix+NMTdata.ads.dfp_adunit, [[230, 90]],'230x90_1')
+	    .addService(googletag.pubads())
+	    .setTargeting('pos',['230x90_1'])
+	    .setTargeting('ccc',NMTdata.ads.dfp_ccc);
+	googletag.enableServices();
+	googletag.display('230x90_1');
+});
+</script></div>
+  </div>
+</div>
+    </div>
+        <div class="row-end">&nbsp;</div>
+  </div>  <!--//#ads-north-->
+ 
+<!-- CONTENT STARTS HERE / END HEADER -->
+
+<div id="content-container" class="row">
+    <div class="content col8">
+      <div class="breadcrumbs">
+        <div class="breadcrumb">
+          <script type="text/javascript">document.write(zz_breadcrumbs);</script>
+        </div>
+      </div>
+<!--player nav-->
+<div class="players-box"><select class="players-nav ae" name="players-nav-ae" onchange="window.open(this.options[this.selectedIndex].value,'_top')"> </select> <select class="players-nav fm" name="players-nav-fm" onchange="window.open(this.options[this.selectedIndex].value,'_top')"> </select> <select class="players-nav nz" name="players-nav-nz" onchange="window.open(this.options[this.selectedIndex].value,'_top')"> </select> </div><script>players_load()</script>
+<!--end player nav-->
+
+		  <div style="float:left;">
+			<h1 class="page-title"><script type="text/javascript">document.write(zz_pagetitle);</script> &nbsp;<img src="http://www.augusta.com/masters/dps/players/images/flags/206.png" style="width:40px;"></h1>
+		  </div>
+		  <div class="playerPos"><!--#include virtual="/masters/players/holebyhole/includes/position206.html"--></div>
+
+    <div id="node" class="node">
+      <div class="content clear-block">
+
+
+<div class="clear"></div>
+
+<div id="outerTabs">
+<ul class="outer">
+<li class="outer" id="profileLI"><a href="#profile" class="outer">Darren Clarke profile</a></li>
+<li class="outer" id="scoresLI"><a href="#scores" class="outer">scores &amp; stats</a></li>
+<li class="outer" id="newsLI"><a href="#news" class="outer">news</a></li>
+<li class="outer" id="recordLI"><a href="#record" class="outer">masters record</a></li>
+<li class="outer" id="photosLI"><a href="#profile" class="outer" onclick="open_photos()">photos</a></li>
+</ul>
+
+<div id="playersMainContent">
+<div class="playerBioPhoto">
+<img src="http://www.augusta.com/masters/images/players/bios/206.jpg" alt="Darren Clarke" width="96" height="129" class="playerBioImg">
+</div>
+
+<div class="playerBioBox">
+<p class="playerBioBoxRow">
+<strong>Country:</strong> <!--#include virtual="/masters/players/includes/countries/206.txt"-->
+</p>
+
+
+<p class="playerBioBoxRow">
+<strong>Age:</strong> 47&nbsp;&nbsp;&nbsp;&nbsp;
+<strong>Born:</strong> 08/14/68 in Dungannon, Northern Ireland</p>
+
+
+<p class="playerBioBoxRow">
+<strong>Residence:</strong> Portrush, Northern Ireland</p>
+
+
+<p class="playerBioBoxRow">
+
+<strong>Height:</strong> 6-2   &nbsp;&nbsp;&nbsp;&nbsp;<strong>Weight:</strong> 215
+</p>
+
+
+
+<p class="playerBioBoxRow">
+<strong>World Golf Rank:</strong> 612 
+<p class="playerBioBoxRow">
+<strong>Turned Pro:</strong> 1990 &nbsp;&nbsp;&nbsp;&nbsp;
+<strong>Wins:</strong> 16</p>
+
+
+
+
+
+
+
+
+<!--<p class="playerBioBoxRow">
+<strong>Family:</strong> Wife Alison; sons Tyrone (1998), Conor (2000)</p>
+-->
+
+<br clear=all>
+<p class="playerBioBoxRow">
+<strong>Masters Earnings:</strong> $530,552 <br>
+<strong><a href="http://www.augusta.com/masters/players/qualifications/" style="color: #000;">2016 Masters Qualification(s):</a></strong> <!--#include virtual="/masters/players/includes/qualify_206.html"-->
+</p>
+</div>
+
+
+
+<!--begin page-1 tabs-->
+<div id="profile" class="outer">
+  <div id="innterTabs">
+   <ul>
+    <!-- <li><a href="#tab-1">hole-by-hole</a></li>-->
+     <li><a href="#tab-2">statistics</a></li>
+     <li><a href="#tab-3">masters record</a></li>
+     <!--<li><a href="#tab-4">season results &amp; ranking</a></li>-->
+   </ul>
+  <!-- <div id="tab-1">-->
+     <!--include virtual="/masters/players/holebyhole/includes/minihbh206.html" -->
+  <!-- </div>-->
+   <div id="tab-2">
+     <!--#include virtual="/masters/players/holebyhole/includes/ministats206.html" -->
+   </div>
+   <div id="tab-3">
+									
+
+
+									
+
+
+									
+
+
+									
+
+
+									
+
+
+									
+
+
+									
+
+
+									
+
+
+									
+
+
+									
+
+
+									
+
+
+									
+
+
+									
+
+
+  									
+
+								<p class="rowa"><B>0</B> victories in <B>13</B> starts. Made the cut <B>9</B> times.</p> 
+								<p class="rowb"><B>Average Finish:</B> 40</p>								
+							<!-- <p class="rowa">Total Earnings: $526 EEE: 89,600</p> -->
+
+								<P><A class="interactive-link2" HREF="Darren_Clarke.shtml?tab=record2">Complete Masters record and stats</A></p>
+   </div>
+   <div id="tab-4">
+
+   </div>
+ </div>
+
+<h2>photos</h2>
+<!--#include virtual="/masters/includes/players/photos/206.txt"-->
+<P><A class="interactive-link2" HREF="/masters/players/photos/206.html">See more Darren Clarke photos</A></p>
+
+</div>
+<!--end page-1 tabs-->
+
+<!--begin page-2 tabs-->
+<div id="scores" class="outer">
+	<div class="mainTabContent">
+		<!--#include virtual="/masters/players/holebyhole/206_small.html"-->
+	</div>
+</div>
+<!--end page-2 tabs-->
+
+<!--begin page-3 tabs-->
+<div id="news" class="outer">
+	<div class="mainTabContent">
+	    <div id="playerNews">
+		<!--#include virtual="/masters/players/includes/news/206.txt" -->
+	    </div>
+	</div>
+</div>
+<!--end page-3 tabs-->
+
+<!--begin page-4 tabs-->
+<div id="record" class="outer">
+	<div class="mainTabContent">
+		<!--#include virtual="/masters/players/record/206_small.html"-->
+	</div>
+</div>
+<!--end page-4 tabs-->
+
+<!--begin page-5 tabs-->
+<div id="photos" class="outer">
+	<div class="mainTabContent">
+
+	</div>
+</div>
+<!--end page-5 tabs-->
+
+</div>
+
+</div>
+
+
+<!-- CONTENT ENDS HERE -->
+<div id=yca-block style="text-align:center;margin:18px 0 18px 0;border:1px solid #ccc;" ><!-- YCA tag added by Tealium --></div>
+
+      </div><!--//content clear-block-->
+
+<!--search box-->
+<div id="wl-fast-header" style="left: 0px !important;">
+     <script>
+  (function() {
+    var cx = '018350439693521963140:ygvlru_dm2u';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+    <div class="clearBoth"></div>
+  </div>
+<!--end search box-->
+
+      <div class="page-content-footer"></div><!--//.page-content-footer-->
+      <div class="clear-block"></div>
+    </div><!--//.node-->
+    </div><!--//col8-->
+    <div class="rail col4">
+
+
+      <div class="box rail-photos">
+        <div id="block-apt_plugin-Right" class="block block-apt_plugin">
+          <div class="content">
+
+<div id='300x250_1' class='adslot' >
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+		googletag.defineSlot(NMTdata.ads.dfp_adunit_prefix+NMTdata.ads.dfp_adunit, [[300, 250]],'300x250_1')
+	    .addService(googletag.pubads())
+	    .setTargeting('pos',['300x250_1'])
+	    .setTargeting('ccc',NMTdata.ads.dfp_ccc);
+	googletag.enableServices();
+	googletag.display('300x250_1');
+});
+</script></div>
+
+          </div>
+        </div>
+        <!-- RAIL CONTENT HERE -->
+        
+        <!-- Quicktabs -->
+      <!--  <div id="tabs-container">
+        </div>
+       <script>
+          thirdparty_load_tabs('#tabs-container');
+       </script>-->
+       <!-- //Quicktabs -->
+       
+       <!-- Augusta Guide -->
+
+      <div class="block block-panels_mini" id="block-panels_mini-promo_augusta_guide">
+	<div class="content">
+	  <div id="mini-panel-promo_augusta_guide" class="panel-display panel-1col clear-block">
+	    <div class="panel-panel panel-col">
+	      <div><div class="panel-pane pane-custom pane-8">
+	   
+	  
+	  <div class="pane-content">
+	    <div class="augusta-ad"><div class="ad-headline">Augusta Guide</div><div class="ad-intro">Welcome to Augusta.com's coverage of the 2016 Masters, golf's most prestigious event.<br>No other Web site provides more coverage of the Masters and the city of Augusta, Ga.</div><div class="ad-links"><a href="/masters/masters">The Masters</a> | <a href="/masters/attractions">Attractions</a> | <a href="/masters/accommodations">Hotels</a><br><a href="/masters/transportation">Getting Around</a> | <a href="/masters/courses">Area Golf Courses</a><br><a href="/masters/weather">Weather</a> | <a href="/masters/do">Nightlife</a>&nbsp;| <a href="/masters/do">Events</a></div></div><p>&nbsp;</p>  </div>
+
+	  
+	      </div>
+	    </div>
+	   </div>
+	  </div>
+	 </div>
+	</div>
+
+	<!-- //Augusta Guide-->
+
+<!--300x600 flex ad -->
+<center>
+<div id='300x600_1' class='adslot' >
+<script type='text/javascript'>
+    googletag.cmd.push(function() {
+		googletag.defineSlot(NMTdata.ads.dfp_adunit_prefix+NMTdata.ads.dfp_adunit, [[300, 600], [160, 600]],'300x600_1')
+	    .addService(googletag.pubads())
+	    .setTargeting('pos',['300x600_1'])
+	    .setTargeting('ccc',NMTdata.ads.dfp_ccc);
+	googletag.enableServices();
+	googletag.display('300x600_1');
+});
+</script></div>
+</center>
+<!--end flex ad -->
+
+	
+
+         <!-- END RAIL CONTENT -->
+        
+        
+        
+      </div>
+    </div><!--//.rail-->
+        <div class="row-end">&nbsp;</div>
+  </div>
+
+ </div> <!--//#inner-container-->
+</div><!--//#outer-container"> -->
+  
+<div  id="footer-container">
+  <div class="layout-978 footer-inner">
+    <div class="row footer-row">
+      <div class="col12 footer-content">
+        <h3>About Us</h3>
+        <p>This site and all its content are representative of The Augusta Chronicle's Masters&reg; Tournament coverage and information. The Augusta Chronicle and Augusta.com are our trademarks.  Augusta.com is an online publication of The Augusta Chronicle and is neither affiliated with nor endorsed by the Masters or the Augusta National Golf Club.</p>
+
+        <p>Copyright 2016 The Augusta Chronicle. All Rights Reserved.</p>
+        <div class="share-icons addthis_toolbox">
+          <a class="addthis_button_facebook fb" style="text-decoration:none">FB</a>
+          <a class="addthis_button_twitter twitter" style="text-decoration:none">Twitter</a>
+          <a class="addthis_button_share share" style="text-decoration:none">Share</a>
+        </div>
+                <div class="footer-bottom">  <div id="block-menu-menu-legal-menu" class="block block-menu">
+
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/masters/privacy-policy" title="">Privacy Statement</a></li>
+<li class="leaf"><a href="/masters/terms-service" title="">Terms of Service</a></li>
+<li class="leaf"><a href="http://chronicle.augusta.com/advertise" title="">Advertise with us</a></li>
+<li class="leaf last"><a href="http://chronicle.augusta.com/help/contact" title="">Contact Us</a></li>
+</ul>  </div>
+</div>
+</div>
+                
+      </div>
+      <div class="row-end"></div>
+
+    </div>
+  </div>
+</div>  
+
+     <!--player.name-->
+  </body>
+
+</html>
+

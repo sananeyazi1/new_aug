@@ -1,0 +1,35 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/bryson-dechambeau-finishes-masters-low-amateur">Bryson DeChambeau finishes Masters as low amateur</a></h3>
+<div class="player-story-date">Posted: 04/10/16</div>
+<div class="player-story-digest"> Bryson DeChambeau struck his putt with perfect pace and pumped his fist as the 15-footer dropped into the cup for a birdie at the 18th hole Sunday. It was the final shot of a successful amateur career for the 22-year-old ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/bryson-dechambeau-finishes-masters-low-amateur">Bryson DeChambeau finishes Masters as low amateur</a></h3>
+<div class="player-story-date">Posted: 04/10/16</div>
+<div class="player-story-digest"> Bryson DeChambeau struck his putt with perfect pace and pumped his fist as the 15-footer dropped into the cup for a birdie at the 18th hole Sunday. It was the final shot of a successful amateur career for the 22-year-old ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/dechambeau-struggles-club-selection-amateurs-drop-down-leaderboard">DeChambeau struggles with club selection; amateurs drop down leaderboard</a></h3>
+<div class="player-story-date">Posted: 04/10/16</div>
+<div class="player-story-digest">  The winds were swirling again on moving day at Augusta National, and amateur star Bryson DeChambeau was battling through the elements with the poise of a professional. The 22-year-old from Clovis, Calif., fell down the Masters leaderboard into a ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/michaux-bryson-dechambeau-not-letting-anomaly-18th-get-him">Michaux: Bryson DeChambeau not letting &#039;anomaly&#039; on 18th get to him</a></h3>
+<div class="player-story-date">Posted: 04/09/16</div>
+<div class="player-story-digest"> To be the best player in any tournament, a golfer needs more than just proper skills. He needs the proper attitude. Bryson DeChambeau is in his last week as an amateur, but his attitude heading into the weekend of the ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/bryson-dechambeau-leads-amateurs-after-first-round">Bryson DeChambeau leads amateurs after first round</a></h3>
+<div class="player-story-date">Posted: 04/08/16</div>
+<div class="player-story-digest">  Bryson DeChambeau is the top-ranked amateur golfer in the world, but earlier this week in the media center he came off like a seasoned professional. DeChambeau, the 22-year-old U.S. Amateur champion, carried that swagger into his first competitive round ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/masters-rookie-bryson-dechambeau-picking-lessons">Masters rookie Bryson DeChambeau picking up lessons</a></h3>
+<div class="player-story-date">Posted: 04/05/16</div>
+<div class="player-story-digest"> While golf is a game of patience, a quick mind serves Bryson De&shy;Chambeau well. The Masters Tournament rookie was asked Tuesday about playing a practice round with veterans Phil Mick&shy;elson, Dustin Johnson and Kee&shy;gan Bradley. Was money exchanged? &ldquo;I&rsquo;m an ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/bryson-dechambeau-closing-out-amateur-career-masters">Bryson DeChambeau closing out amateur career at Masters</a></h3>
+<div class="player-story-date">Posted: 03/30/16</div>
+<div class="player-story-digest">  His former college golf coach calls him a rock star. Others have said he&rsquo;s the most interesting player in golf. That&rsquo;s because Bryson DeCham&shy;beau, who will be playing his last event as an amateur at the Masters before turning ...</div>
+</div>

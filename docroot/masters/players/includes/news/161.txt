@@ -1,0 +1,40 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040807/mas_123750.shtml">CBS revisits 1960 Masters</a></h3>
+<div class="player-story-date">Posted: 04/08/07</div>
+<div class="player-story-digest">Golf fans who were lucky enough to have a Masters Tournament badge had the chance to see Arnold Palmer hit the ceremonial tee shot Thursday.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040507/mas_123525.shtml">Interview: Arnold Palmer</a></h3>
+<div class="player-story-date">Posted: 04/05/07</div>
+<div class="player-story-digest"></div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040507/mas_123324.shtml">Palmer starts 2007 Masters</a></h3>
+<div class="player-story-date">Posted: 04/05/07</div>
+<div class="player-story-digest">Arnie's Army marched at Augusta National Golf Club again this morning. With thousands of fans ringing the first tee, Arnold Palmer started the 71st Masters Tournament with the ceremonial tee shot.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040407/mas_123188.shtml">Interview: Arnold Palmer</a></h3>
+<div class="player-story-date">Posted: 04/04/07</div>
+<div class="player-story-digest">Arnold Palmer spoke with reporters Monday at Augusta National Golf Club on the subject of his accepting the honorary starter role. The following transcript of his remarks was provided by Augusta National.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040407/mas_123128.shtml">Palmer will take the lead again</a></h3>
+<div class="player-story-date">Posted: 04/04/07</div>
+<div class="player-story-digest">The worst-kept secret at Augusta National Golf Club was revealed Tuesday when Billy Payne's first official tournament-week act as Masters chairman was to announce that Arnold Palmer would assume the role of honorary starter and hit the ceremonial first tee shot Thursday morning.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040407/mas_123129.shtml">Palmer's opening shot adds magic to Masters</a></h3>
+<div class="player-story-date">Posted: 04/04/07</div>
+<div class="player-story-digest">Everything makes sense here. From crowd control to course conditions, Augusta National Golf Club gets it right or they get right on making it right.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040307/mas_123040.shtml">Palmer accepts role as honorary starter</a></h3>
+<div class="player-story-date">Posted: 04/03/07</div>
+<div class="player-story-digest">Arnold Palmer will tee off Thursday morning as the honorary starter for the 71st Masters Tournament.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/031407/mas_120344.shtml">Palmer 'thinking about' role as honorary starter at Masters</a></h3>
+<div class="player-story-date">Posted: 03/14/07</div>
+<div class="player-story-digest">ORLANDO, Fla. -- Once again, Arnold Palmer didn't say no.</div>
+</div>

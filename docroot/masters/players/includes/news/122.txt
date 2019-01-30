@@ -1,0 +1,15 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040507/mas_123248.shtml">Web adds coverage; TV adds Faldo</a></h3>
+<div class="player-story-date">Posted: 04/05/07</div>
+<div class="player-story-digest">Two new faces in the CBS broadcast booth and a new wrinkle in Internet coverage are among the changes in this year's broadcast of the Masters Tournament.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040307/mas_122940.shtml">Faldo is ready to master booth</a></h3>
+<div class="player-story-date">Posted: 04/03/07</div>
+<div class="player-story-digest">Nick Faldo has no regrets.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040406/mas_75733.shtml">Older champs can't go the distance</a></h3>
+<div class="player-story-date">Posted: 04/04/06</div>
+<div class="player-story-digest">Nick Faldo used to come to Augusta the first full week of April thinking about winning a championship.</div>
+</div>

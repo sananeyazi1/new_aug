@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/masters-rookie-kevin-kisner-gets-tips-1987-winner-larry-mize">Masters rookie Kevin Kisner gets tips from 1987 winner Larry Mize </a></h3>
+<div class="player-story-date">Posted: 04/05/16</div>
+<div class="player-story-digest">  Kevin Kisner went straight to the source for expert Masters advice Monday. The Aiken native played a practice round with 1987 winner Larry Mize, an Au&shy;gus&shy;ta native. The two played the back nine alongside amateur Derek Bard.   ...</div>
+</div>

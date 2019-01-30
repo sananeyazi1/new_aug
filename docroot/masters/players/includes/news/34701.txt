@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/thai-rookie-kiradech-aphibarnrat-rides-high-game-life">Thai rookie Kiradech Aphibarnrat rides high in game, life</a></h3>
+<div class="player-story-date">Posted: 04/06/16</div>
+<div class="player-story-digest">  From the Thai sky to the Augusta greens, Kiradech Aphibarnrat has had two months he won&rsquo;t forget. On Valentine&rsquo;s Day, the 26-year-old was wed in a hot-air balloon. This week, he&rsquo;s at the Masters Tournament for the first time. ...</div>
+</div>

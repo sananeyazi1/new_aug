@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/branden-grace-wins-rbc-heritage-first-pga-tour-title">Branden Grace wins RBC Heritage for first PGA Tour title</a></h3>
+<div class="player-story-date">Posted: 04/18/16</div>
+<div class="player-story-digest">  HILTON HEAD ISLAND, S.C. &mdash; Branden Grace shot 5-under-par 66 to overtake Luke Donald and win the RBC Heritage on Sunday for his first PGA Tour title and 11th worldwide victory. Three shots behind Donald entering the day, Grace ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/russell-knox-achieves-dream-masters-invitation">Russell Knox achieves dream of Masters invitation</a></h3>
+<div class="player-story-date">Posted: 04/04/16</div>
+<div class="player-story-digest">  First comes the victory. Not just any victory, but one with the best perk in golf for a professional yet to experience Augusta National Golf Club in April &ndash; a spot in the Masters Tournament.  Then comes the ...</div>
+</div>

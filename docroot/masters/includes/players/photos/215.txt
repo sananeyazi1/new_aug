@@ -1,0 +1,4 @@
+<div class="playerThumbnail"><a href="/masters/players/photos/2017/215.html" class="playerThumbnailHREF"><img src="http://www.augusta.com/spotted/images/100301/photos/2016/04/10/big_thumbnail/52814.jpg" class="playerThumbnailImg"></a></div>
+<div class="playerThumbnail"><a href="/masters/players/photos/2017/215.html" class="playerThumbnailHREF"><img src="http://www.augusta.com/spotted/images/100301/photos/2016/04/10/big_thumbnail/52767.jpg" class="playerThumbnailImg"></a></div>
+<div class="playerThumbnail"><a href="/masters/players/photos/2017/215.html" class="playerThumbnailHREF"><img src="http://www.augusta.com/spotted/images/100301/photos/2016/04/10/big_thumbnail/52747.jpg" class="playerThumbnailImg"></a></div>
+<div class="playerThumbnail"><a href="/masters/players/photos/2017/215.html" class="playerThumbnailHREF"><img src="http://www.augusta.com/spotted/images/100301/photos/2016/04/10/big_thumbnail/52698.jpg" class="playerThumbnailImg"></a></div>

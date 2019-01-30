@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/clutch-final-par-gives-chris-kirk-win-colonial-denies-jordan-spieth">Clutch final par gives Chris Kirk win at Colonial, denies Jordan Spieth</a></h3>
+<div class="player-story-date">Posted: 05/25/15</div>
+<div class="player-story-digest">  FORT WORTH, Texas &mdash; Chris Kirk was prepared to need a putt for a playoff at Colonial. No extra holes were necessary Sunday for Kirk to get his fourth PGA Tour victory. ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/clutch-final-par-gives-chris-kirk-win-colonial-denies-jordan-spieth">Clutch final par gives Chris Kirk win at Colonial, denies Jordan Spieth</a></h3>
+<div class="player-story-date">Posted: 05/25/15</div>
+<div class="player-story-digest">  FORT WORTH, Texas &mdash; Chris Kirk was prepared to need a putt for a playoff at Colonial. No extra holes were necessary Sunday for Kirk to get his fourth PGA Tour victory. ...</div>
+</div>

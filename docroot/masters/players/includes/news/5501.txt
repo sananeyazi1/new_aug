@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040706/mas_76449.shtml">If you didn't know Oberholser before, you do after first round</a></h3>
+<div class="player-story-date">Posted: 04/07/06</div>
+<div class="player-story-digest">His name could be found way up the leaderboard, yet it didn't even make the official Masters spectator guide.</div>
+</div>

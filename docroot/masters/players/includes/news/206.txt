@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/ryder-cup-captains-cherish-what-could-be-their-final-masters">Ryder Cup captains cherish what could be their final Masters</a></h3>
+<div class="player-story-date">Posted: 04/06/16</div>
+<div class="player-story-digest">  Davis Love III and Darren Clarke are focused on their games this week and taking in the experience of what could be their final Masters Tournament appearances. But they also have this fall&rsquo;s Ryder Cup on their minds. ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/darren-clarkes-british-open-win-was-high-point-long-journey">Darren Clarke&#039;s British Open win was high point of long journey</a></h3>
+<div class="player-story-date">Posted: 03/23/12</div>
+<div class="player-story-digest">  A month before the Masters Tournament, Darren Clarke didn&rsquo;t want to talk about golf. &ldquo;It&rsquo;s always pleasant talking about Augusta, but I don&rsquo;t want to talk about golf,&rdquo; he said after a practice round at the WGC-Cadillac Cham&shy;pion&shy;ship in ...</div>
+</div>

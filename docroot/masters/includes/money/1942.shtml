@@ -1,0 +1,710 @@
+
+
+
+
+  
+	<table id="LargeLeaderboard">
+
+		<TR>
+			<th>
+				<b>Position</b>
+			</th>
+			<th>
+				<b>Player</b>
+			</th>
+			<th class="center">
+				<b>Final</b>
+			</th>
+
+			
+			<th class="center">
+				<b>Earnings</b>
+			</th>
+
+
+		</TR>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+1</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh192.shtml">Byron Nelson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,500
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+2</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh189.shtml">Ben Hogan</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $800
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+3</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh1637.shtml">Paul Runyan</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $600
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+4</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh11423.shtml">Sam Byrd</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $500
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+5</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh1632.shtml">Horton Smith</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $400
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+6</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh1634.shtml">Jimmy Demaret</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $300
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T7</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh1652.shtml">E.J. Harrison</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T7</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh8301.shtml">Lawson Little, Jr.</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T7</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh195.shtml">Sam Snead</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T10</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh9704.shtml">Chick Harbert</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $100
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T10</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh11561.shtml">Gene Kunes</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $100
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+12</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh8304.shtml">Jimmy Thomson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $100
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+13</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh11562.shtml">Chandler Harper</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+14</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh11421.shtml">Willie Goggin</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T15</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh1655.shtml">Bob Cruiskshank</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T15</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh1651.shtml">Jim Ferrier</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T15</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh193.shtml">Henry Picard</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh1633.shtml">Harry Cooper</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+11</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh1656.shtml">Harold McSpaden</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+11</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh8308.shtml">Felix Serafin</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+11</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+21</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh1657.shtml">Ralph Guldahl</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+12</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+22</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh9703.shtml">Toney Penna</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T23</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh9701.shtml">Billy Burke</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+14</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T23</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh190.shtml">Herman Keiser</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+14</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T23</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh1644.shtml">Craig Wood</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+14</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T26</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh9717.shtml">Jim Foulis</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+15</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T26</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh11568.shtml">Johnny Palmer</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+15</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T28</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh1639.shtml">Tommy Armour</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+16</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T28</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh9709.shtml">Robert T. Jones, Jr.</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+16</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T28</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh194.shtml">Gene Sarazen</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+16</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T28</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh11443.shtml">Marvin Ward</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+16</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T28</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh11072.shtml">Casey Yates</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+16</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T33</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh1658.shtml">Ed Dudley</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+17</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T33</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh8310.shtml">Jimmy Hines</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+17</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+35</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh11563.shtml">Steve Kovack</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+18</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T36</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh1224.shtml">Doug Barron</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+19</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T36</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh11567.shtml">Jack Ryan</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+19</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh11564.shtml">Joe Zarhardt</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+23</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+39</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh11566.shtml">Jerry Gianferante</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+24</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+40</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1942_hbh11569.shtml">Johnny Morris</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+25</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+	</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+

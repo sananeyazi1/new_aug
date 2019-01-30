@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/fan-notes">Fan notes</a></h3>
+<div class="player-story-date">Posted: 04/08/13</div>
+<div class="player-story-digest"> MAYOR&rsquo;S RECEPTION: Monday&rsquo;s 15th annual Mayor&rsquo;s Masters Reception will feature Craig Stadler as the honored guest. Stadler won the Masters Tournament in 1982 on the first hole of a sudden-death playoff against Dan Pohl. The reception, which is open to ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040707/mas_123590.shtml">Solid putting surprises Stadler as he makes cut</a></h3>
+<div class="player-story-date">Posted: 04/07/07</div>
+<div class="player-story-digest">Craig Stadler won the Masters Tournament 25 years ago. He's putting as though he wants to contend for it again this weekend.</div>
+</div>

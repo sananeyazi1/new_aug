@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+    <html>
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Featured News | Masters 2013</title>
+    
+    <!-- Style sheets -->
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" />
+	<link href="css/jquery.fancyNews.css" rel="stylesheet" type="text/css" />
+    
+    <!-- Include js files -->
+	<script src="js/jquery.min.js" type="text/javascript"></script>
+	<script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="js/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="js/jquery.fancyNews.min.js" type="text/javascript"></script>
+    
+    <style type="text/css">
+	 
+		
+		#main-container {
+			margin-top: 40px;
+		}
+
+    /* fixes cas 031513 */
+    .mCSB_scrollTools .mCSB_dragger { background: #9DB953 !important; margin-left: 10px; }
+    .fn-close-button { margin: 7px 8px 0 0; }
+    .fn-news-list .fn-preview { margin-bottom: 20px !important; }
+    .fn-preview > img { margin-right: 10px !important; }
+    .fn-navigation { position: absolute; top: 0; }
+    .fn-container {margin-top: 32px; }
+    </style>
+            
+	<script type="text/javascript">
+	
+	jQuery(document).ready(function($){
+		$('#fn-basic').fancyNews();
+	});
+
+    </script>
+    
+    </head>
+    <body>
+    	
+<div id="fn-basic">
+
+				<!--#include virtual="/masters/feeds/21.html"-->
+			</div>
+                   
+    	</div>
+    </body>
+</html>

@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/latest-news/lawrie-rides-eagles-shoot-69-masters-return">Lawrie rides eagles to shoot 69 in Masters return</a></h3>
+<div class="player-story-date">Posted: 04/05/12</div>
+<div class="player-story-digest"> Paul Lawrie made the most of his first Masters Tournament since 2004, wielding his hybrid and his wedges like lethal weapons on the second nine of Augusta National Golf Club. Lawrie used a hybrid for his second shot to set ...</div>
+</div>

@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040607/mas_123387.shtml">Two of five amateurs still in mix</a></h3>
+<div class="player-story-date">Posted: 04/06/07</div>
+<div class="player-story-digest">Amateur Dave Womack normally doesn't smile or crack jokes after a poor round.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040407/mas_123065.shtml">Georgian achieves boyhood dream</a></h3>
+<div class="player-story-date">Posted: 04/04/07</div>
+<div class="player-story-digest">Dave Womack has a daily reminder of the Masters Tournament fixed to the wall of his home in the Atlanta suburbs.</div>
+</div>

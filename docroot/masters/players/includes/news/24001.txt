@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040707/mas_123830.shtml">Interview: Vaughn Taylor (Round 3)</a></h3>
+<div class="player-story-date">Posted: 04/07/07</div>
+<div class="player-story-digest"></div>
+</div>

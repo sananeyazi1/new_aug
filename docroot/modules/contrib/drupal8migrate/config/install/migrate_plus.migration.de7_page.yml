@@ -1,0 +1,46 @@
+id: de7_pages
+label: Pages
+migration_tags:
+  - Drupal 7
+deriver: Drupal\node\Plugin\migrate\D7NodeDeriver
+migration_group: de7
+source:
+  plugin: d7_node
+  node_type: page
+process:
+#  nid and vid commented out will allow them to autoincrement. Safe as long
+#    as nothing else is referencing them.
+  nid: nid
+  vid: vid
+  type:
+    plugin: default_value
+    default_value: page
+  langcode:
+    plugin: default_value
+    source: language
+    default_value: "und"
+  title: title
+  uid: node_uid
+  status: status
+  created: created
+  changed: changed
+  promote: promote
+  sticky: sticky
+  body/format:
+    plugin: default_value
+    default_value: html/formatted
+  body/value: body
+  revision_uid: revision_uid
+  revision_log: log
+  revision_timestamp: timestamp
+  field_page_lead_photo: field_page_lead_photo
+  field_sections: field_sections
+  rabbit_hole: rabbit_hole
+  redirect: redirect
+  xmlsitemap: xmlsitemap
+  path: path
+  metatags: metatags
+  field_page_body: field_page_body
+destination:
+  plugin: entity:node
+migration_dependencies: {}

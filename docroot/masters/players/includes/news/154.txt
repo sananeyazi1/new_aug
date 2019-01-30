@@ -1,0 +1,45 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040507/mas_123210.shtml">Unceremonial</a></h3>
+<div class="player-story-date">Posted: 04/05/07</div>
+<div class="player-story-digest">In today's ceremonial first tee shot, Arnold Palmer won't be sidling up to any surprise partners. At least not any of the Golden Bear variety.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040906/mas_76746.shtml">Roars from Bear's 1986 charge still echo</a></h3>
+<div class="player-story-date">Posted: 04/09/06</div>
+<div class="player-story-digest">The writers had written him off. Washed up. Finished. Kaput.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040906/mas_76744.shtml">Lundquist's calls are Masters lore</a></h3>
+<div class="player-story-date">Posted: 04/09/06</div>
+<div class="player-story-digest">Verne Lundquist has been part of the CBS Sports golf crew since 1983 and has called the action at the Masters Tournament every year since then, except 1997-98. Lundquist, 65, has covered everything from pro football to the Olympics in his career, but to golf fans he is probably best known for two of his Masters calls: Jack Nicklaus' birdie at No. 17 in 1986, and Tiger Woods' chip-in at No. 16 in 2005. He recently spoke with Sports Editor John Boyette about his role on the Masters broadcast:</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040606/mas_76298.shtml">Nicklaus gives 'the whole dose'</a></h3>
+<div class="player-story-date">Posted: 04/06/06</div>
+<div class="player-story-digest">"Everybody got enough?" That is the standard question Jack Nicklaus asks reporters at the end of one of his news conferences.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040606/mas_76264.shtml">Putter safe in history, not in garage</a></h3>
+<div class="player-story-date">Posted: 04/06/06</div>
+<div class="player-story-digest">One of the most enduring images of Jack Nicklaus from the 1986 Masters Tournament is his reaction to a birdie putt falling into the hole at No. 17, a smile on his face and his putter aloft.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040606/mas_76263.shtml">Bear softens blows at National</a></h3>
+<div class="player-story-date">Posted: 04/06/06</div>
+<div class="player-story-digest">Jack Nicklaus didn't miss a beat when he met the press Wednesday morning at Augusta National Golf Club.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040606/mas_76285.shtml">CBS has specials on Tiger, Nicklaus</a></h3>
+<div class="player-story-date">Posted: 04/06/06</div>
+<div class="player-story-digest">CBS will go heavy on the nostalgia when it serves up coverage of the Masters Tournament for the 51st consecutive year.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040206/mas_74781.shtml">Nicklaus' '86 victory is frozen in time</a></h3>
+<div class="player-story-date">Posted: 04/02/06</div>
+<div class="player-story-digest">Jack Nicklaus is 20 years removed from his stirring victory in the Masters Tournament, yet it still resonates with the public.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040206/mas_74760.shtml">Change truly does Tiger good</a></h3>
+<div class="player-story-date">Posted: 04/02/06</div>
+<div class="player-story-digest">Every time Jack Nicklaus says goodbye to a major championship, Tiger Woods leaves the same going away message.</div>
+</div>

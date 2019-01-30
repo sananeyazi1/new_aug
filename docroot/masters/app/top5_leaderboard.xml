@@ -1,0 +1,31 @@
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="http://www.augusta.com/masters/app/top5_leaderboard.xml" rel="self" type="application/rss+xml" />
+<title>The Masters Leaders</title>
+<link>http://www.augusta.com/masters/mobile/leaderboard/index.html</link>
+<description>The Masters Leaders</description>
+
+
+<item>
+<title>The Masters Leaders</title>
+<link>http://www.augusta.com/masters/mobile/leaderboard/index.html</link>
+<description><![CDATA[
+<P>1 A. Scott -9 			F
+</P>
+<P>2 A. Cabrera -9 			F
+</P>
+<P>3 J. Day -7 			F
+</P>
+<P>4 M. Leishman -5 			F
+</P>
+<P>4 T. Woods -5 			F
+</P>
+<center> <a href="http://www.augusta.com/masters/mobile/leaderboard/index.html"><B>Full Leaderboard</a></center>]]> 
+</description>
+<guid>http://www.augusta.com/masters/mobile/leaderboard/index.html</guid>
+</item>
+
+</channel>
+
+</rss>

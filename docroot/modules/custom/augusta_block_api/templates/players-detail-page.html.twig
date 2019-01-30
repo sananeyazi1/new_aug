@@ -1,0 +1,71 @@
+<p> image url :<img src="{{ data.test_url }}" alt="Smiley face" height="400" width="500"></p>
+<div class="SANA">LOL</div>
+<p> title: {{ data.title }}</p>
+ <div>
+ 	<h1>Tournament</h1>
+    <table>
+    	<tr>
+    	   <th>Eagles</th>
+    		<th>Birdies</th>
+    		<th>Pars</th>
+    		<th>Bogeys</th>
+    		<th>2XBogeys</th>
+    		<th>Other</th>
+    	</tr>
+    	{% for key,value in data.tourn_decod %}
+		    <tr>
+		        <td>{{ value.eagles }}</td>
+		    	<td>{{ value.birdies }}</td>
+		    	<td>{{ value.pars }}</td>
+		    	<td>{{ value.bogeys }}</td>
+		    	{#<td>{{ value.2x Bogeys }}</td>#}
+		     	<td>{{ value.other }}</td>
+		    </tr>
+		{% endfor %}
+    </table>
+ </div>
+ <div>
+ 	<h1>Performance by Round</h1>
+    <table>
+    	<tr>
+    	   <th>Par3</th>
+    		<th>Par4</th>
+    		<th>Par5</th>
+    	</tr>
+    	{% for key,value in data.all_performance %}
+		    <tr>
+		        <td>{{ value.par3 }}</td>
+		    	<td>{{ value.par4 }}</td>
+		    	<td>{{ value.par5 }}</td>
+		    </tr>
+		{% endfor %}
+    </table>
+ </div>
+<div>
+ 	<h1>Master Records</h1>
+    <table>
+    	<tr>
+    		<th>Year</th>
+    		<th>Position</th>
+    		<th>Score</th>
+    		<th>Earnings</th>
+    		<th>4</th>
+    		<th>3</th>
+    		<th>2</th>
+    		<th>1</th>
+    	</tr>
+    	{% for key,value in data.masters_recors %}
+		    <tr>
+		    	<td>{{ value.year }}</td>
+		    	<td>{{ value.Position }}</td>
+		    	<td>{{ value.Score }}</td>
+		    	<td>{{ value.Earnings }}</td>
+		    	<td>{{ value.4 }}</td>
+		    	<td>{{ value.3 }}</td>
+		    	<td>{{ value.2 }}</td>
+		    	<td>{{ value.1 }}</td>
+		    </tr>
+		{% endfor %}
+    </table>
+ </div>
+

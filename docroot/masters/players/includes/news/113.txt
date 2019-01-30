@@ -1,0 +1,50 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/latest-news/mud-balls-wreak-havoc-augusta-national">Mud balls wreak havoc at Augusta National</a></h3>
+<div class="player-story-date">Posted: 04/06/12</div>
+<div class="player-story-digest"> With wet conditions at Augusta National Golf Club this week, mud balls were the challenge of the day in Thursday’s first round. The Masters has never played lift, clean and place rules, but tournament chairman Billy Payne said conditions would ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/masters/notes-nike-unveils-new-shoes-masters">Notes: Nike unveils new shoes for Masters</a></h3>
+<div class="player-story-date">Posted: 04/03/12</div>
+<div class="player-story-digest"> Nike announced Monday that several of its pros will wear &ldquo;limited edition Lunar Control footwear.&rdquo; The white shoe with green details is available for a retail price of $150. Among those who will wear the new shoe are reigning Masters ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2010/04/02/mas_571909.shtml">Champ expects more of himself</a></h3>
+<div class="player-story-date">Posted: 04/02/10</div>
+<div class="player-story-digest">Lost in what could have been one of the greatest golf stories of all time was one of the nicest golf stories of our time. For many fans, Stewart Cink was grudgingly accepted as the man who beat Tom Watson at the British Open.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2009/04/11/mas_518157.shtml">Cink keeps his fans updated by Twitter</a></h3>
+<div class="player-story-date">Posted: 04/11/09</div>
+<div class="player-story-digest">Before he took to the course Friday morning, Stewart Cink let his fans know he was worried about the day's forecast.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2009/04/10/mas_518085.shtml">Cink concerned about weather forecast</a></h3>
+<div class="player-story-date">Posted: 04/10/09</div>
+<div class="player-story-digest">Before he took to the course this morning, Stewart Cink let his fans know he was worried about today's forecast.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2009/04/05/mas_516966.shtml">Sinking feeling is gone</a></h3>
+<div class="player-story-date">Posted: 04/05/09</div>
+<div class="player-story-digest">A little midseason R&R -- rest and rededication -- might have resolved the case of the missing Cink.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/041408/mas_195011.shtml">Cink and Tiger had their own contest</a></h3>
+<div class="player-story-date">Posted: 04/14/08</div>
+<div class="player-story-digest">Stewart Cink admits he's a slow learner when it comes to the Masters Tournament.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040908/mas_194210.shtml">Cink shares story of rededication to faith</a></h3>
+<div class="player-story-date">Posted: 04/09/08</div>
+<div class="player-story-digest">Stewart Cink isn't the sort to believe in good luck charms.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040808/mas_194105.shtml">Stewart Cink shares message of faith, golf</a></h3>
+<div class="player-story-date">Posted: 04/08/08</div>
+<div class="player-story-digest">Stewart Cink isn't the sort to believe in good luck charms.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040107/mas_122392.shtml">Cink says he's now in sync with National</a></h3>
+<div class="player-story-date">Posted: 04/01/07</div>
+<div class="player-story-digest">The Masters Tournament is growing on Stewart Cink. At age 33, Cink is growing into it as well.</div>
+</div>

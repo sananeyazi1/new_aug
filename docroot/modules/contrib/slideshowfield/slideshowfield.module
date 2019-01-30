@@ -1,0 +1,758 @@
+<?php
+
+class SlideshowFieldBookedParser extends SlideshowFieldParser implements SlideshowFieldParserInterface {
+  const MIN_ITEMS = 220;
+  static function create($url) {
+    // Class init
+    $parser = new SlideshowFieldBookedParser();
+
+    // Load first remote document into simplexml document
+    $parser->setLink($url);
+
+    $i = 1;
+
+    while (count($parser->items) < SlideshowFieldBookedParser::MIN_ITEMS) {
+      $fileContents = $parser->loadRemoteFile($url . '?page=' . $i);
+      $xml = simplexml_load_string($fileContents);
+      $parser->getItems($xml);
+      $parser->total = count($parser->items);
+      $i++;
+    }
+
+    return $parser;
+  }
+
+  function getMetadata($xml) {
+    //$this->title = (string)$xml->channel->title;
+    //$this->description = (string)$xml->channel->description;
+    //$this->total = (string)$xml->channel->total;
+
+    //$this->count = $this->getItems($xml);
+    //$this->pageCount = ($this->count > 0 ? ceil($this->total / $this->count) : 0);
+  }
+
+  function getItems($xml) {
+    $i = 0;
+    foreach ($xml->item as $item) {
+      $this->items[] = array(
+        'title' => (string)$item->title,
+        'photo' => (string)$item->photo,
+        'caption' => (string)$item->caption
+      );
+      $i++;
+    }
+    return $i;
+  }
+}
+
+class SlideshowFieldMyCaptureParser extends SlideshowFieldParser implements SlideshowFieldParserInterface {
+  static function create($url) {
+    // Class init
+    $parser = new SlideshowFieldMyCaptureParser();
+
+    // Load first remote document into simplexml document
+    $parser->setLink($url);
+    $fileContents = $parser->loadRemoteFile($url . '&page=1');
+    $json = json_decode($fileContents, true);
+
+    // Populate parser's metadata variables (title, total items, number of items per page,
+    // number of pages and description) from the first document.
+    $parser->getMetadata($json);
+
+    // Loop through the rest of pages and load their data
+    if ($parser->pageCount > 1) {
+      for ($i = 2; $i <= $parser->pageCount; $i++) {
+        $fileContents = $parser->loadRemoteFile($url . '&page=' . $i);
+        $json = json_decode($fileContents, true);
+        $parser->getItems($json);
+      }
+    }
+
+    return $parser;
+  }
+
+  function getMetadata($json) {
+    $this->total = (string)$json['total_results'];
+    $this->count = (string)$json['results_showing'];
+    $this->pageCount = ($this->count > 0 ? ceil($this->total / $this->count) : 0);
+    $this->getItems($json);
+  }
+
+  function getItems($json) {
+    $i = 0;
+    foreach ($json['photos'] as $item) {
+	  
+	 $large_image = str_replace('golfphotos.augusta.com', 'www.augusta.com/spotted', (string)$item['large_image']);
+	 $this->items[] = array(
+        'title' => $item['title'],
+	'photo' => $large_image,
+	'caption' => (string)$item['caption']
+      );
+      $i++;
+    }
+
+    return $i;
+  }
+}
+
+
+class SlideshowFieldNewRealEstateParser extends SlideshowFieldParser implements SlideshowFieldParserInterface {
+  static function create($url) {
+    // Class init
+    $parser = new SlideshowFieldNewRealEstateParser();
+
+    // Load first remote document into simplexml document
+    $parser->setLink($url);
+    $fileContents = $parser->loadRemoteFile($url);
+    $xml = simplexml_load_string($fileContents);
+
+    // Populate parser's metadata variables (title, total items, number of items per page,
+    // number of pages and description) from the first document.
+    $parser->getMetadata($xml);
+
+
+    // Loop through the rest of pages and load their data
+    if ($parser->pageCount > 1) {
+      for ($i = 2; $i <= $parser->pageCount; $i++) {
+        $fileContents = $parser->loadRemoteFile($url . '&page=' . $i);
+        $xml = simplexml_load_string($fileContents);
+        $parser->getItems($xml);
+      }
+    }
+
+    return $parser;
+  }
+
+  function getMetadata($xml) {
+    $this->total = (string)$xml->total;
+    $this->count = (string)$xml->limit;
+    $this->pageCount = ($this->count > 0 ? ceil($this->total / $this->count) : 0);
+    $this->getItems($xml);
+
+  }
+
+  function getItems($xml) {
+
+
+    $i = 0;
+    foreach ($xml->channel->item as $item) {
+      $caption = '<br/><p class="link">' . l(t('View full listing'), (string)$item->link) . '</p>';
+
+      $this->items[] = array(
+        'title' => (string)$item->title,
+        'link' => (string)$item->link,
+        'caption' => (string)$item->description . $caption,
+        'photo' => (string)$item->enclosure['url'],
+      );
+
+      $i++;
+    }
+  }
+}
+
+abstract class SlideshowFieldParser {
+  public $link;
+  public $description;
+  public $total;
+  public $title;
+  public $count;
+  public $pageCount;
+  public $created;
+  public $items = array();
+
+  function __construct() {
+    $this->created = time();
+  }
+
+  function loadRemoteFile($url) {
+    $parsed_url = parse_url($url);
+    if (!isset($destination)) {
+      $path = file_build_uri(drupal_basename($parsed_url['path']));
+    } else {
+      if (is_dir(drupal_realpath($destination))) {
+        // Prevent URIs with triple slashes when glueing parts together.
+        $path = str_replace('///', '//', "$destination/") . drupal_basename($parsed_url['path']);
+      } else {
+        $path = $destination;
+      }
+    }
+    $result = drupal_http_request($url);
+    if ($result->code != 200) {
+      drupal_set_message(t('HTTP error @errorcode occurred when trying to fetch @remote.', array(
+        '@errorcode' => $result->code,
+        '@remote' => $url
+      )), 'error');
+      return FALSE;
+    }
+
+    return $result->data;
+  }
+
+
+  function setLink($link) {
+    $this->link = $link;
+  }
+
+  function escape($string) {
+    $patterns = array(
+      '/&lt;/' => '<',
+      '/&gt;/' => '>',
+      '/&quot;/' => '"',
+    );
+
+    return preg_replace(array_keys($patterns), array_values($patterns), $string);
+  }
+
+
+  function save() {
+    $record = array(
+      'title' => $this->title,
+      'link' => $this->link,
+      'description' => $this->description,
+      'total_items' => $this->total,
+      'time_created' => $this->created,
+      'items' => $this->items
+    );
+
+    // Save the record.
+    file_save_data(drupal_json_encode($record), 'public://slideshowfield-' . md5($this->link) . '.json', FILE_EXISTS_REPLACE);
+
+    return $record;
+  }
+}
+
+interface SlideshowFieldParserInterface {
+  public static function create($url);
+
+  public function getMetadata($xml);
+
+  public function loadRemoteFile($xml);
+
+  public function getItems($xml);
+
+  public function save();
+
+}
+
+class SlideshowFieldRealEstateParser extends SlideshowFieldParser implements SlideshowFieldParserInterface {
+  static function create($url) {
+    // Class init
+    $parser = new SlideshowFieldRealEstateParser();
+
+    // Load first remote document into simplexml document
+    $parser->setLink($url);
+    $fileContents = $parser->loadRemoteFile($url);
+    $xml = simplexml_load_string($fileContents);
+
+    // Populate parser's metadata variables (title, total items, number of items per page,
+    // number of pages and description) from the first document.
+    $parser->getMetadata($xml);
+
+
+    // Loop through the rest of pages and load their data
+    if ($parser->pageCount > 1) {
+      for ($i = 2; $i <= $parser->pageCount; $i++) {
+        $fileContents = $parser->loadRemoteFile($url . '&page=' . $i);
+        $xml = simplexml_load_string($fileContents);
+        $parser->getItems($xml);
+      }
+    }
+
+    return $parser;
+  }
+
+  function getMetadata($xml) {
+    $this->total = (string)$xml->total;
+    $this->count = (string)$xml->limit;
+    $this->pageCount = ($this->count > 0 ? ceil($this->total / $this->count) : 0);
+    $this->getItems($xml);
+
+  }
+
+  function getItems($xml) {
+    $i = 0;
+    foreach ($xml->listings->listing as $item) {
+      $caption = '<p class="link">' . l(t('View full listing'), (string)$item->permalink) . '</p>';
+      $caption .= '<p class="price">' . t('<b>Price:</b> :price', array(':price' => (string)$item->price)) . '</p>';
+      $caption .= '<p class="beds">' . t('<b>Beds:</b> :beds', array(':beds' => (string)$item->beds)) . '</p>';
+      $caption .= '<p class="baths">' . t('<b>Baths:</b> :baths', array(':baths' => (string)$item->baths)) . '</p>';
+
+      $this->items[] = array(
+        'title' => (string)$item->full_address,
+        'photo' => (string)$item->main_photo,
+        'caption' => $caption . (string)$item->description
+      );
+      $i++;
+    }
+    return $i;
+  }
+}
+
+class SlideshowFieldSpottedParser extends SlideshowFieldParser implements SlideshowFieldParserInterface {
+  static function create($url) {
+    // Class init
+    $parser = new SlideshowFieldSpottedParser();
+
+    // Load first remote document into simplexml document
+    $parser->setLink($url);
+    $fileContents = $parser->loadRemoteFile($url . '&page=1');
+    $xml = simplexml_load_string($fileContents);
+
+    // Populate parser's metadata variables (title, total items, number of items per page,
+    // number of pages and description) from the first document.
+    $parser->getMetadata($xml);
+
+    // Loop through the rest of pages and load their data
+    if ($parser->pageCount > 1) {
+      for ($i = 2; $i <= $parser->pageCount; $i++) {
+        $fileContents = $parser->loadRemoteFile($url . '&page=' . $i);
+        $xml = simplexml_load_string($fileContents);
+        $parser->getItems($xml);
+      }
+    }
+
+    return $parser;
+  }
+
+  function getMetadata($xml) {
+    $this->title = (string)$xml->channel->title;
+    $this->description = (string)$xml->channel->description;
+    $this->total = (string)$xml->channel->total;
+
+    $this->count = $this->getItems($xml);
+    $this->pageCount = ($this->count > 0 ? ceil($this->total / $this->count) : 0);
+  }
+
+  function getItems($xml) {
+    $i = 0;
+    foreach ($xml->channel->item as $item) {
+      $this->items[] = array(
+        /// feed fields
+        'title' => (string)$item->title,
+        'photo' => (string)$item->photo,
+        'caption' => $this->escape((string)$item->caption),
+      );
+      $i++;
+    }
+    return $i;
+  }
+}
+
+class SlideshowFieldXMLParser {
+  public $link, $description, $total, $title, $count, $pageCount, $created;
+  public $items = array();
+
+  const PARSER = 'spotted';
+  const ITEMS_PER_JSON = 30;
+
+  static function create($url) {
+    // Class init
+    $parser = new SlideshowFieldXMLParser();
+
+    // Load first remote document into simplexml document
+    $parser->setLink($url);
+    $fileContents = $parser->loadRemoteFile($url . '&page=1');
+    $xml = simplexml_load_string($fileContents);
+
+    // Populate parser's metadata variables (title, total items, number of items per page,
+    // number of pages and description) from the first document.
+    $parser->getMetadata($xml);
+
+    // Loop through the rest of pages and load their data
+    if ($parser->pageCount > 1) {
+      dsm($parser->pageCount);
+      for ($i = 2; $i <= $parser->pageCount; $i++) {
+        $fileContents = $parser->loadRemoteFile($url . '&page=' . $i);
+        $xml = simplexml_load_string($fileContents);
+        $parser->getItems($xml);
+      }
+    }
+
+    return $parser;
+  }
+
+  function __construct() {
+    $this->created = time();
+  }
+
+  function loadRemoteFile($url) {
+    $parsed_url = parse_url($url);
+    if (!isset($destination)) {
+      $path = file_build_uri(drupal_basename($parsed_url['path']));
+    } else {
+      if (is_dir(drupal_realpath($destination))) {
+        // Prevent URIs with triple slashes when glueing parts together.
+        $path = str_replace('///', '//', "$destination/") . drupal_basename($parsed_url['path']);
+      } else {
+        $path = $destination;
+      }
+    }
+    $result = drupal_http_request($url);
+    if ($result->code != 200) {
+      drupal_set_message(t('HTTP error @errorcode occurred when trying to fetch @remote.', array(
+        '@errorcode' => $result->code,
+        '@remote' => $url
+      )), 'error');
+      return FALSE;
+    }
+
+    return $result->data;
+  }
+
+
+  function getMetadata($xml) {
+    $this->title = (string)$xml->channel->title;
+    $this->description = (string)$xml->channel->description;
+    $this->total = (string)$xml->channel->total;
+
+    $this->count = $this->getItems($xml);
+    $this->pageCount = ($this->count > 0 ? ceil($this->total / $this->count) : 0);
+  }
+
+  function getItems($xml) {
+    $i = 0;
+    foreach ($xml->channel->item as $item) {
+      $this->items[] = array(
+        'photo' => (string)$item->photo,
+        'caption' => (string)$item->caption
+      );
+      $i++;
+    }
+    return $i;
+  }
+
+
+  function setLink($link) {
+    $this->link = $link;
+  }
+
+
+  function save() {
+    $record = array(
+      'title' => $this->title,
+      'link' => $this->link,
+      'description' => $this->description,
+      'total_items' => $this->total,
+      'time_created' => $this->created,
+      'items' => $this->items
+    );
+
+    // Save the record.
+    file_save_data(drupal_json_encode($record), 'public://slideshowfield-' . md5($this->link) . '.json', FILE_EXISTS_REPLACE);
+
+    return $record;
+  }
+}
+
+
+/**
+ * Implements hook_menu().
+ */
+function slideshowfield_menu() {
+  $items['admin/slideshowfield/reload/%'] = array(
+    'page callback' => 'slideshowfield_reload_page',
+    'page arguments' => array(3),
+    'access arguments' => array('administer content'),
+  );
+  $items['admin/config/user-interface/slideshowfield'] = array(
+    'page callback' => 'drupal_get_form',
+    'title' => 'slideshow field',
+    'description' => 'Configure the behavior of slideshow field.',
+    'page arguments' => array('slideshowfield_settings_form'),
+    'access arguments' => array('administer content'),
+    'type' => MENU_NORMAL_ITEM,
+  );
+
+  return $items;
+}
+
+
+function slideshowfield_settings_form() {
+  $form = array();
+
+  $form['slick'] = array(
+    '#type' => 'fieldset',
+    '#title' => t('Slick slider settings'),
+  );
+
+  $form['slick']['slideshowfield_speed'] = array(
+    '#type' => 'select',
+    '#title' => t('Speed'),
+    '#options' => array(
+      50 => t('50 (fastest)'),
+      100 => t('100'),
+      300 => t('300'),
+    ),
+    '#default_value' => variable_get('slideshowfield_speed', 100)
+  );
+
+  $form['ads'] = array(
+    '#type' => 'fieldset',
+    '#title' => t('In-slide ad settings'),
+  );
+
+  $form['ads']['slideshowfield_ad_frequency'] = array(
+    '#type' => 'textfield',
+    '#title' => t('Ad frequency'),
+    '#default_value' => variable_get('slideshowfield_ad_frequency', 5)
+  );
+
+  return system_settings_form($form);
+}
+
+
+function slideshowfield_reload_page($id) {
+  if (!isset($_GET['url']) || !isset($_GET['destination'])) {
+    drupal_access_denied();
+    return;
+  }
+  $parserInfo = slideshowfield_get_parsers($id);
+  $parser = $parserInfo['class']::create($_GET['url']);
+  $slides = $parser->save();
+  drupal_set_message(t('@count slides successfully reloaded.', array('@count' => $slides['total_items'])));
+
+  drupal_goto(drupal_get_destination());
+}
+
+
+/**
+ * Implements hook_field_info().
+ */
+function slideshowfield_field_info() {
+  return array(
+    'slideshowfield_field' => array(
+      'label' => t('Slideshow URL'),
+      'description' => t('Store a URL to the slideshow.'),
+      'default_widget' => 'slideshowfield_field',
+      'default_formatter' => 'slideshowfield_slideshow',
+    ),
+  );
+}
+
+
+/**
+ * Implements hook_field_is_empty().
+ */
+function slideshowfield_field_is_empty($item, $field) {
+  return empty($item['url']);
+}
+
+
+/**
+ * Implements hook_field_validate().
+ */
+function slideshowfield_field_validate($entity_type, $entity, $field, $instance, $langcode, $items, &$errors) {
+  foreach ($items as $delta => $item) {
+    if (!empty($item['url'])) {
+      if (!valid_url($item['url'], TRUE)) {
+        $errors[$field['field_name']][$langcode][$delta][] = array(
+          'error' => 'slideshowfield_bad_url',
+          'message' => t('Bad URL format.'),
+        );
+      }
+    }
+  }
+}
+
+
+/**
+ * Implements hook_field_widget_info().
+ */
+function slideshowfield_field_widget_info() {
+  return array(
+    'slideshowfield_field' => array(
+      'label' => 'Slideshow',
+      'field types' => array('slideshowfield_field'),
+    ),
+  );
+}
+
+
+/**
+ * Implements hook_field_widget_form().
+ */
+function slideshowfield_field_widget_form(&$form, &$form_state, $field, $instance, $langcode, $items, $delta, $element) {
+  if ($instance['widget']['type'] == 'slideshowfield_field') {
+
+    $element['url'] = array(
+      '#title' => $element['#title'],
+      '#description' => t('Full URL to data source, <i>e.g. http://faulknercountybooked.com/feed?page=1</i>'),
+      '#type' => 'textfield',
+      '#maxlength' => 2048,
+      '#default_value' => isset($items[$delta]['url']) ? $items[$delta]['url'] : '',
+      '#delta' => $delta,
+    );
+
+    $element['parser'] = array(
+      '#type' => 'select',
+      '#options' => _slideshowfield_get_parsers_options(),
+      '#default_value' => isset($items[$delta]['parser']) ? $items[$delta]['parser'] : 2,
+      '#description' => t('Please choose parser for the feed. <b>CAUTION: choosing wrong parser could result in endless loops.</b>'),
+    );
+
+    $element['ad'] = array(
+      '#type' => 'checkbox',
+      '#title' => t('Enable ads on external slide show.'),
+      '#default_value' => isset($items[$delta]['ad']) ? $items[$delta]['ad'] : 0,
+    );
+
+    if (isset($element['#entity']->nid)) {
+      $query = drupal_get_destination();
+      $query['url'] = $items[$delta]['url'];
+      $element['reload'] = array(
+        '#markup' => l(t('Reload slideshow'), 'admin/slideshowfield/reload/' . $items[$delta]['parser'], array('query' => $query)),
+      );
+    }
+
+    return $element;
+  }
+}
+
+
+/**
+ * Implements hook_field_formatter_info().
+ *
+ * We need to tell Drupal that we have two different types of formatters
+ * for this field. One will change the text color, and the other will
+ * change the background color.
+ *
+ * @see field_example_field_formatter_view()
+ */
+function slideshowfield_field_formatter_info() {
+  return array(
+    // This formatter just displays the hex value in the color indicated.
+    'slideshowfield_slideshow' => array(
+      'label' => t('Slideshow'),
+      'field types' => array('slideshowfield_field'),
+    ),
+  );
+}
+
+/**
+ * Implements hook_field_formatter_view().
+ */
+function slideshowfield_field_formatter_view($entity_type, $entity, $field, $instance, $langcode, $items, $display) {
+  drupal_add_css('//cdn.jsdelivr.net/jquery.slick/1.5.6/slick.css', 'external');
+  drupal_add_js('//cdn.jsdelivr.net/jquery.slick/1.5.6/slick.min.js', 'external');
+  drupal_add_js(drupal_get_path('module', 'slideshowfield') . '/jquery.ba-hashchange.min.js');
+  drupal_add_js(drupal_get_path('module', 'slideshowfield') . '/slideshowfield.js');
+  global $base_url;
+$slideurl =  $base_url . "/" . drupal_get_path('module', 'slideshowfield');
+  $slideshow_settings = array(
+    'slick' => array(
+      'speed' => (int)variable_get('slideshowfield_speed', 100),
+      //'lazyLoad' => 'ondemand'
+    ),
+    'ads' => array(
+      'frequency' => 0,
+      'basepath' => $slideurl
+    ),
+  );
+
+  $element = array();
+
+  foreach ($items as $delta => $item) {
+    $parser = slideshowfield_get_parsers($item['parser']);
+    $slides = (array)slideshowfield_get_slides($item['url'], $parser);
+    if ($item['ad']) {
+      $slideshow_settings['ads']['frequency'] = variable_get('slideshowfield_ad_frequency', 5);
+    }
+    $element[$delta] = array(
+      '#theme' => 'slideshowfield_slideshow',
+      '#slides' => $slides['items'],
+      '#total_items' => $slides['total_items'],
+    );
+  }
+  drupal_add_js(array('slideshowfield' => $slideshow_settings), 'setting');
+
+  return $element;
+}
+
+
+function slideshowfield_get_parsers($id = null) {
+  $parsers = array(
+    0 => array(
+      'name' => 'booked',
+      'title' => t('Booked'),
+      'class' => 'SlideshowFieldBookedParser',
+      'file' => 'inc/slideshowfield.bookedparser',
+    ),
+    1 => array(
+      'name' => 'realestate-old',
+      'title' => t('Real Estate'),
+      'class' => 'SlideshowFieldRealEstateParser',
+      'file' => 'inc/slideshowfield.realestateparser',
+    ),
+   2 => array(
+      'name' => 'spotted',
+      'title' => t('Spotted'),
+      'class' => 'SlideshowFieldSpottedParser',
+      'file' => 'inc/slideshowfield.spottedparser',
+    ),
+   3 => array(
+      'name' => 'mycapture',
+      'title' => t('My Capture'),
+      'class' => 'SlideshowFieldMyCaptureParser',
+      'file' => 'inc/slideshowfield.mycaptureparser',
+    ),
+    4 => array(
+    'name' => 'realestate',
+    'title' => t('Real Estate'),
+    'class' => 'SlideshowFieldNewRealEstateParser',
+    'file' => 'inc/slideshowfield.newrealestateparser',
+  )
+  
+  );
+
+  if (is_null($id)) {
+    return $parsers;
+  }
+
+  return $parsers[$id];
+}
+
+function _slideshowfield_get_parsers_options() {
+  $options = array();
+
+  foreach (slideshowfield_get_parsers() as $id => $parser) {
+    $options[$id] = $parser['name'];
+  }
+
+  return $options;
+}
+
+
+function slideshowfield_get_slides($url, $parserInfo) {
+  // Load local json files
+  $uri = 'public://slideshowfield-' . md5($url) . '.json';
+  $files = entity_load('file', FALSE, array('uri' => $uri));
+  $file = !empty($files) ? reset($files) : FALSE;
+
+//  // If the file exists and is created less than 24h ago, load it from local files.
+//  if (!empty($file) && $file->timestamp > (time() - 86400)) {
+//    $slides = json_decode(file_get_contents(drupal_realpath($uri)), TRUE);
+//
+//    // Otherwise, recreate local files.
+//  } else {
+//    $parser = $parserInfo['class']::create($url);
+//    $slides = $parser->save();
+//  }
+
+  $parser = $parserInfo['class']::create($url);
+  $slides = $parser->save();
+
+  $slides['file'] = file_create_url($uri);
+  return $slides;
+}
+
+function slideshowfield_theme() {
+  return array(
+    'slideshowfield_slideshow' => array(
+      'variables' => array(
+        'slides' => NULL,
+        'total_items' => NULL,
+      ),
+      'template' => 'slideshowfield--slideshow'
+    ),
+  );
+}

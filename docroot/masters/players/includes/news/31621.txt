@@ -1,0 +1,20 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/latest-news/noren-wins-scottish-open-5th-european-tour-victory">Noren wins Scottish Open for 5th European Tour victory</a></h3>
+<div class="player-story-date">Posted: 07/11/16</div>
+<div class="player-story-digest"> read more ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/lee-piercy-stumble-79s">Lee, Piercy stumble with 79s</a></h3>
+<div class="player-story-date">Posted: 04/10/16</div>
+<div class="player-story-digest"> Scott Piercy and Danny Lee started the day in a tie for third place at 2-under par. But the pair plummeted down the leaderboard Saturday after shooting 79. They are tied for 23rd. Piercy, a three-time winner on the PGA ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/danny-lee-struggles-putter-maintains-leaderboard-spot">Danny Lee struggles with putter but maintains leaderboard spot</a></h3>
+<div class="player-story-date">Posted: 04/08/16</div>
+<div class="player-story-digest"> It wasn&rsquo;t as efficient a day for Danny Lee after a memorable first round, but his name remains near the top entering the weekend. Lee struggled at times with the putter and dropped two shots down the stretch, resulting in ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/early-run-lifts-shane-lowry-second-place">Early run lifts Shane Lowry to second place</a></h3>
+<div class="player-story-date">Posted: 04/08/16</div>
+<div class="player-story-digest"> Shane Lowry looked all day. The 29-year-old Irishman looked at his name on the leaderboard, looked at his putts roll in and, after Thursday&rsquo;s opening round of the Masters Tournament, looks at only one player ahead of him. Lowry found ...</div>
+</div>

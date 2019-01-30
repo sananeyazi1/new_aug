@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/latest-news/return-home-helped-george-coetzee-get-masters">Return home helped George Coetzee get to Masters</a></h3>
+<div class="player-story-date">Posted: 04/09/13</div>
+<div class="player-story-digest">  If George Coetzee had stayed in the U.S., he might not be in Augusta this week. But the South African is here, playing at Augusta Na&shy;tional Golf Club, getting tips from countryman Gary Player and preparing for his first ...</div>
+</div>

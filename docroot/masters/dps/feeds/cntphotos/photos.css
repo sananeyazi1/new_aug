@@ -1,0 +1,41 @@
+h1 {
+font-size: 1.8em;
+font-family: 'Open Sans';
+line-height: 2.2em;
+font-weight: bold;
+color: #000;
+}
+a.no_link { cursor:default; }
+
+.posted-date {
+font-family: verdana,helvetica,arial,sans-serif;
+font-size: x-small;
+color: #666;
+}
+
+.news-body p {
+font-family: Open Sans;
+font-size: large;
+color: #000;
+font-weight: 500;
+}
+
+p {
+font-family: Open Sans;
+font-size: large !important;
+color: #000 !important;
+font-weight: 500;
+}
+
+.news-body div {
+font-family: Open Sans;
+font-size: large !important;
+color: #000 !important;
+font-weight: 500;
+}
+
+img {
+height: auto;
+border: 2px solid #4e8743;
+float: left;
+}

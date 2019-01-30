@@ -1,0 +1,914 @@
+
+
+
+
+  
+	<table id="LargeLeaderboard">
+
+		<TR>
+			<th>
+				<b>Position</b>
+			</th>
+			<th>
+				<b>Player</b>
+			</th>
+			<th class="center">
+				<b>Final</b>
+			</th>
+
+			
+			<th class="center">
+				<b>Earnings</b>
+			</th>
+
+
+		</TR>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+1</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh122.shtml">Nick Faldo</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $200,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+2</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh133.shtml">Scott Hoch</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $120,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T3</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh117.shtml">Ben Crenshaw</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $64,450
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T3</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh156.shtml">Greg Norman</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $64,450
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+5</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh104.shtml">Seve Ballesteros</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $44,400
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+6</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh1137.shtml">Mike Reid</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $40,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+7</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh2161.shtml">Jodie Mudd</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $37,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T8</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh1220.shtml">Chip Beck</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $32,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T8</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh159.shtml">Jose Maria Olazabal</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $32,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T8</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh172.shtml">Jeff Sluman</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $32,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T11</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh116.shtml">Fred Couples</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $25,567
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T11</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh131.shtml">Ken Green</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $25,567
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T11</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh158.shtml">Mark O'Meara</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $25,567
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T14</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh103.shtml">Paul Azinger</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $19,450
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T14</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh1801.shtml">Don Pooley</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $19,450
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T14</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh180.shtml">Tom Watson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $19,450
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T14</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh185.shtml">Ian Woosnam</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $19,450
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh128.shtml">David Frost</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $14,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh140.shtml">Tom Kite</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $14,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh154.shtml">Jack Nicklaus</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $14,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh160.shtml">Jumbo Ozaki</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $14,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh1163.shtml">Curtis Strange</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $14,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh1638.shtml">Lee Trevino</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $14,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T24</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh1327.shtml">Tom Purtzer</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $10,250
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T24</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh1277.shtml">Payne Stewart</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $10,250
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T26</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh141.shtml">Bernhard Langer</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $8,240
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T26</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh151.shtml">Larry Mize</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $8,240
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T26</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh1242.shtml">Steve Pate</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $8,240
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T26</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh1178.shtml">Lanny Wadkins</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $8,240
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T26</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh186.shtml">Fuzzy Zoeller</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $8,240
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T31</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh111.shtml">Mark Calcavecchia</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $6,900
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T31</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh138.shtml">Steve Jones</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $6,900
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T31</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh2991.shtml">Dave Rummells</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $6,900
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T34</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh1649.shtml">Hubert Green</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $6,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T34</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh1130.shtml">Peter Jacobsen</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $6,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T34</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh1284.shtml">Bruce Lietzke</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $6,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+37</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh1364.shtml">Bob Gilder</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $5,400
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh100.shtml">Tommy Aaron</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+10</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $4,900
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh114.shtml">Charles Coody</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+10</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $4,900
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh125.shtml">Ray Floyd</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+10</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $4,900
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh218.shtml">Scott Simpson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+10</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $4,900
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+42</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh2641.shtml">Dan Pohl</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+11</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $4,300
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T43</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh101.shtml">George Archer</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+12</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $3,900
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T43</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh1615.shtml">Mark McCumber</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+12</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $3,900
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T43</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh1422.shtml">Greg Twiggs</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+12</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $3,900
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T46</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh210.shtml">Jay Haas</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $3,125
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T46</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh3001.shtml">Bob Lohr</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $3,125
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T46</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh1885.shtml">Mike Sullivan</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $3,125
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T46</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh181.shtml">D. A. Weibring</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $3,125
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+50</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh163.shtml">Corey Pavin</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+14</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $2,800
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+51</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh1669.shtml">Andy Bean</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+16</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $2,700
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+52</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1989_hbh2987.shtml">T.C. Chen</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+18</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $2,600
+				
+			</td>
+		</tr>
+	</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+

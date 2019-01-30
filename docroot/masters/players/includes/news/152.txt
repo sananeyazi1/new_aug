@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040506/mas_76167.shtml">Monty has hopes of becoming contender</a></h3>
+<div class="player-story-date">Posted: 04/05/06</div>
+<div class="player-story-digest">Colin Montgomerie knows the odds are against him.</div>
+</div>

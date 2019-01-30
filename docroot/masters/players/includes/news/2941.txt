@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040807/mas_123825.shtml">Rookies play for repeat trip</a></h3>
+<div class="player-story-date">Posted: 04/08/07</div>
+<div class="player-story-digest">J.J. Henry likely is out of contention for winning his first green jacket, but he would have loved to have borrowed one from the Champions Locker Room of the Augusta National Golf Club on Saturday to help keep his upper body warm at the 71st Masters Tournament.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040107/mas_122228.shtml">Masters rookie cherishes his round of 67 in Augusta</a></h3>
+<div class="player-story-date">Posted: 04/01/07</div>
+<div class="player-story-digest">The Masters Tournament's media guide officially credits Tiger Woods with the lowest career scoring average of 70.85 for those with 25 or more rounds. Probably only one player in this year's field can claim to have a better lifetime mark.</div>
+</div>

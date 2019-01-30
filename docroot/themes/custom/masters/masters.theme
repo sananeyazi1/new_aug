@@ -1,0 +1,16 @@
+<?php
+
+/**
+ * @file
+ * Functions to support theming in the Master theme
+ */
+
+/**
+ * Preprocessor for setting custom theme settings
+ */
+function master_preprocess_node(&$variables) {
+    $variables['dev_tools'] = theme_get_setting('dev_tools');
+    $variables['subscribe_link'] = theme_get_setting('progress_bar');
+    $variables['subscribe_link'] = theme_get_setting('subscribe_link');
+    $variables['weather_link'] = theme_get_setting('weather_link');
+}

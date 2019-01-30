@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040607/mas_123424.shtml">Not even a 76 can ruin Quigley's day</a></h3>
+<div class="player-story-date">Posted: 04/06/07</div>
+<div class="player-story-digest">From his yardage book, Brett Quigley whipped out a photo of his newborn daughter Thursday afternoon.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040407/mas_123069.shtml">Masters notebook</a></h3>
+<div class="player-story-date">Posted: 04/04/07</div>
+<div class="player-story-digest">GOOD TIMING: Brett Quigley is about to do something to which a lot of fathers can relate.</div>
+</div>

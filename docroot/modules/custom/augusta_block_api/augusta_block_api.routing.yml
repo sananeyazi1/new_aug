@@ -1,0 +1,23 @@
+augusta_block_api.players_settings:
+  path: 'admin/players-test'
+  defaults:
+     _form: '\Drupal\augusta_block_api\Form\TestForm'
+     _title: 'Import Product Here'
+  requirements:
+     _permission: 'access content'
+
+augusta_block_api.players_details:
+  path: '/players-details'
+  defaults:
+    _controller: '\Drupal\augusta_block_api\Controller\PlayersDetailPageController::PlayersDetail'
+    _title: 'Players Detail'
+  requirements:
+    _permission: 'access content'
+# augusta_block_api.players_details:
+#   path: '/admin/players-info'
+#   defaults: { _controller: '\Drupal\augusta_block_api\Controller\PlayersInfoController::PlayersInfo' }
+#   methods:  [POST]
+#   requirements:
+#     _access: 'TRUE'
+#   # options:
+#   #   no_cache: TRUE

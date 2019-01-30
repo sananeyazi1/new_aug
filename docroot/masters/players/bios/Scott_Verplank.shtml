@@ -1,0 +1,764 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html  prefix="og: http://ogp.me/ns#">
+  <head>
+  
+<script type="text/javascript">
+var zz_ccc = 'Test';
+var zz_omnipagename = "Players: Scott Verplank";
+var zz_omnichannel = 'Sports';
+var zz_omniserver = 'Augusta.com';
+var zz_breadcrumbs = '<a href="/masters/players/index.shtml">Players</a>';
+var zz_pagetitle = "Scott Verplank";
+document.title = "Scott Verplank | The Masters";
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script type="text/javascript" src="http://use.typekit.com/jvy6nna.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/all/themes/masters/favicon.ico" type="image/x-icon" />
+
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/quicktabs/css/quicktabs.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/masters/css/reset.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/masters/css/masters.css" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/masters/css/wrapper.css" />
+<script type="text/javascript" src="/sites/all/modules/jquery_update/replace/jquery.min.js"></script>
+<script type="text/javascript" src="/misc/drupal.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="/sites/all/themes/masters/js/jquery-ui-1.8.17.custom.min.js"></script>
+<script type="text/javascript" src="/sites/all/themes/masters/js/jquery.masonry.min.js"></script>
+<script type="text/javascript" src="/sites/all/themes/masters/js/slides.min.jquery.js"></script>
+<script type="text/javascript" src="/sites/all/themes/masters/js/jquery.innerfade.js"></script>
+
+<script type="text/javascript" src="/sites/all/themes/masters/js/scripts.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "quicktabs": { "qt_homepage_tabs": { "tabs": [ 0, 0, 0 ] } } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+yld_mgr = {};
+yld_mgr.pub_id="21314452344";
+yld_mgr.site_name="Augusta Chronicle";
+yld_mgr.request_type="ac";
+yld_mgr.container_type="js";
+yld_mgr.content_topic_id_list = ['8336501'];
+yld_mgr.cstm_sctn_list = ['Secondary Front'];
+yld_mgr.slots = {};
+yld_mgr.slots.Top = {};
+yld_mgr.slots.Top.ad_size_list = ['728x90'];
+yld_mgr.slots.Top.ad_delivery_mode = ['ipatf'];
+yld_mgr.slots.Top.cstm_content_cat_list = ['masters_leaderboard'];
+yld_mgr.slots.Top.content_type_list = [];
+yld_mgr.slots.Right = {};
+yld_mgr.slots.Right.ad_size_list = ['300x250'];
+yld_mgr.slots.Right.ad_delivery_mode = ['ipatf'];
+yld_mgr.slots.Right.cstm_content_cat_list = ['masters_leaderboard'];
+yld_mgr.slots.Right.content_type_list = [];
+yld_mgr.slots.Leaders = {};
+yld_mgr.slots.Leaders.ad_size_list = ['160x17'];
+yld_mgr.slots.Leaders.ad_delivery_mode = ['ipatf'];
+yld_mgr.slots.Leaders.cstm_content_cat_list = ['masters_leaderboard'];
+yld_mgr.slots.Leaders.content_type_list = [];
+yld_mgr.cstm_sctn_list.push('Article');
+if (yld_mgr.content_topic_id_list.length == 0) {
+	yld_mgr.content_topic_id_list.push('20275001');
+}
+function apt_AD(pos) { yld_mgr.place_ad_here(pos); }
+document.write('<scr' + 'ipt type="text/javascript" src="http://e.yieldmanager.net/script.js"></scr' + 'ipt>');
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var omni_account = "mdwaugusta"
+var omni_filters = ""
+
+//--><!]]>
+</script>
+    
+    <link rel="stylesheet" media="all and (min-width: 748px) and (max-width: 977px)" href="/sites/all/themes/masters/css/748.css">
+    <link rel="stylesheet" media="all and (min-width: 0px) and (max-width: 747px)" href="/sites/all/themes/masters/css/300.css">
+    <!--[if lt IE 9]>
+      <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/masters/css/ie7.css" /> 
+    <![endif]-->
+
+<!-- custom for players bios pages -->
+<link type="text/css" rel="stylesheet" media="all" href="/masters/includes/styles/players.css" />
+<!-- scripts for tabbed content-->
+<script type="text/javascript">
+function getQueryString() {
+  var result = {}, queryString = location.search.substring(1),
+      re = /([^&=]+)=([^&]*)/g, m;
+
+  while (m = re.exec(queryString)) {
+    result[decodeURIComponent(m[1])] = decodeURIComponent(m[2]);
+  }
+
+  return result;
+}
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('#innterTabs div').hide();
+$('#innterTabs div:first').show();
+$('#innterTabs ul li:first').addClass('active');
+
+$('#innterTabs ul li a').hover(function(){
+$('#innterTabs ul li').removeClass('hover');
+$(this).parent().addClass('hover');
+});
+
+$('#innterTabs ul li a').mouseleave(function() {
+$('#innterTabs ul li').removeClass('hover');
+$(this).parent().removeClass('hover');
+});
+
+$('#innterTabs ul li a').click(function(){
+$('#innterTabs ul li').removeClass('active');
+$(this).parent().addClass('active');
+var currentTab = $(this).attr('href');
+$('#innterTabs div').hide();
+$(currentTab).show();
+return false;
+});
+});
+</script>
+
+<script type="text/javascript">
+var tabWanted = getQueryString()["tab"];
+var currentURL = document.URL;
+var cleanURL = currentURL.split("?");
+
+
+if (tabWanted == "scores2") {
+  window.location = cleanURL[0] + "?tab=scores";
+} else if (tabWanted == "record2") {
+  window.location = cleanURL[0] + "?tab=record";
+}
+
+if (tabWanted) {
+	tabWanted = "#" + tabWanted;
+	var liWanted = tabWanted + "LI";
+} else {
+	var tabWanted = "#profile";
+	var liWanted = "#profileLI";
+}
+
+$(document).ready(function(){
+$('#outerTabs div.outer').hide();
+$(tabWanted).show();
+$(liWanted).addClass('active');
+
+$('#outerTabs ul.outer li.outer a.outer').hover(function(){
+$('#outerTabs ul.outer li.outer').removeClass('hover');
+$(this).parent().addClass('hover');
+});
+
+$('#outerTabs ul.outer li.outer a.outer').mouseleave(function() {
+$('#outerTabs ul.outer li.outer').removeClass('hover');
+$(this).parent().removeClass('hover');
+});
+
+$('#outerTabs ul.outer li.outer a.outer').click(function(){
+$('#outerTabs ul.outer li.outer').removeClass('active');
+$(this).parent().addClass('active');
+var currentTab = $(this).attr('href');
+$('#outerTabs div.outer').hide();
+$(currentTab).show();
+return false;
+});
+});
+</script>
+
+<script>
+$(function(){
+  var viewPortWidth = $(window).width();
+  if (viewPortWidth < 320) {
+    $('#playerMiniHoleByHole').addClass('collapsed-font');
+    $('#playerHBHstats').addClass('collapsed-font');
+    $('.hbhStatsTable td').addClass('collapsed-padding');
+  }
+});
+</script>
+
+<script type="text/javascript">
+function open_photos() {
+  //window.open("/masters/players/photos/1266.html","_self")
+  window.location = "/masters/players/photos/1266.html";
+}
+</script>
+<!-- end scripts for tabbed content-->
+<!-- custom for players bios pages -->
+
+	</head>
+  <body class="page-node node-type-page no-sidebars node-level " onLoad="viewPortWidth();">
+<div id="outer-container">
+<div id="inner-container" class="layout-978">
+ <div class="row header">
+    <div class="col8">
+
+      <div class="header-info">
+        <div class="header-info-inner">
+          <div class="dates">April 2-8<span>2012</span></div>
+        </div>
+        <div class="share-icons addthis_toolbox">
+          <script type="text/javascript">
+            var addthis_config = {
+              pubid: 'morrisdigitalworks',
+              ui_use_css:true
+            };
+            addthis.button('.addthis_button_facebook');
+          </script>
+          <a class="addthis_button_facebook fb" style="text-decoration:none">FB</a>
+
+          <a class="addthis_button_twitter twitter" style="text-decoration:none">Twitter</a>
+          <a class="addthis_button_share share" style="text-decoration:none">Share</a>
+          
+        </div>
+        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
+      </div>
+      <div class="logo"><a href="/"><img src="/sites/all/themes/masters/logo.png" /></a></div>
+      <div class="logo-text">2012 coverage by <a href="http://chronicle.augusta.com">The Augusta Chronicle</a></div>
+
+            <div class="navigation">
+          <div id="block-menu-primary-links" class="block block-menu">
+
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/" title="">Home</a></li>
+<li class="leaf"><a href="/masters/news" title="">News</a></li>
+<li class="leaf"><a href="/masters/leaderboard" title="">Leaderboard</a></li>
+<li class="leaf"><a href="/masters/coursetour/hole1" title="">Course</a></li>
+<li class="leaf"><a href="/masters/photos" title="">Photos</a></li>
+
+<li class="leaf"><a href="/masters/players/index.shtml" title="">Players</a></li>
+<li class="leaf"><a href="/masters/history" title="">History</a></li>
+<li class="leaf"><a href="/masters/augustaguide" title="">Augusta</a></li>
+<li class="leaf last"><a href="/masters/shop" title="">Shop</a></li>
+</ul>  </div>
+</div>
+      </div>
+      <div class="navigation-drop"></div>
+          </div>
+
+   
+    <div class="col4 top-col2">
+      <div class="leaderboard-header">
+        <a href="/masters/leaderboard" class="tabbed">leaderboard</a>
+      </div>
+	  <div class="leaderboard-sponsor">
+          <script type="text/javascript">
+            apt_AD('Leaders');
+          </script>
+        </div>
+      <div class="leaderboard">
+
+        <table id="top-leaders">
+          <tbody>
+          <tr>
+            <th class="col-pos">Pos</th>
+            <th class="col-name">Name</th>
+            <th class="col-tot">Tot</th>
+            <th class="col-thru">Thru</th>
+
+            <th class="col-rd"><!--#include virtual="/masters/includes/wrapper_round_number.txt"--></th>
+          </tr>
+          </tbody>
+        </table>
+        <a href="/masters/leaderboard" class="link-leaderboard">Full Leaderboard</a>
+      </div>
+    </div>
+    <div class="row-end">&nbsp;</div>
+
+ </div> <!--//.header-->
+    <div id="ads-north" class="row">
+        <div class="col9 ads-north-col1">
+        <div id="block-apt_plugin-Top" class="block block-apt_plugin">
+
+  <div class="content">
+    <script type="text/javascript">apt_AD('Top');</script>  </div>
+</div>
+
+    </div>
+            <div class="col3 ads-north-col2">
+        <div class="block block-panels_mini" id="block-panels_mini-promo_app_ad">
+
+  <div class="content">
+    <div id="mini-panel-promo_app_ad" class="panel-display panel-1col clear-block">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-custom pane-1">
+  
+  
+  
+  <div class="pane-content">
+    <div class="masters-app">
+  <a href="/masters/apps"><img src="/sites/all/themes/masters/images/sprite.png" class="square-icon" alt="Download our Masters App"></a>
+  <div class="augusta-app-text">
+    <a class="augusta-app-head" href="/masters/apps">Get the App!</a>
+    <p class="augusta-app-deck">Available for iPad, iPhone and Android</p>
+    <a class="download-btn" href="/masters/apps"><img src="/sites/all/themes/masters/images/sprite.png" alt="Download Masters App"></a>
+  </div>
+</div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+    </div>
+
+        <div class="row-end">&nbsp;</div>
+  </div> <!--//#ads-north-->
+ 
+<!-- CONTENT STARTS HERE / END HEADER -->
+
+<div id="content-container" class="row">
+    <div class="content col8">
+      <div class="breadcrumbs">
+        <div class="breadcrumb">
+          <script type="text/javascript">document.write(zz_breadcrumbs);</script>
+        </div>
+      </div>
+
+
+		  <div style="float:left;">
+			<h1 class="page-title"><script type="text/javascript">document.write(zz_pagetitle);</script></h1>
+		  </div>
+		  <div class="playerPos"><!--#include virtual="/masters/players/holebyhole/includes/position1266.html"--></div>
+
+    <div id="node" class="node">
+      <div class="content clear-block">
+
+<!--player nav-->
+<div class="players-box"><select class="players-nav ae" name="players-nav-ae" onchange="window.open(this.options[this.selectedIndex].value,'_top')"> </select> <select class="players-nav fm" name="players-nav-fm" onchange="window.open(this.options[this.selectedIndex].value,'_top')"> </select> <select class="players-nav nz" name="players-nav-nz" onchange="window.open(this.options[this.selectedIndex].value,'_top')"> </select> </div><script>players_load()</script>
+<!--end player nav-->
+<div class="clear"></div>
+
+<div id="outerTabs">
+<ul class="outer">
+<li class="outer" id="profileLI"><a href="#profile" class="outer">Scott Verplank profile</a></li>
+<li class="outer" id="scoresLI"><a href="#scores" class="outer">scores &amp; stats</a></li>
+<li class="outer" id="newsLI"><a href="#news" class="outer">news</a></li>
+<li class="outer" id="recordLI"><a href="#record" class="outer">player record</a></li>
+<li class="outer" id="photosLI"><a href="#profile" class="outer" onclick="open_photos()">photos</a></li>
+</ul>
+
+<div id="playersMainContent">
+<div class="playerBioPhoto">
+<img src="http://www.augusta.com/masters/images/players/bios/1266.jpg" alt="Scott Verplank" width="96" height="129" class="playerBioImg">
+</div>
+
+<div class="playerBioBox">
+
+<p class="playerBioBoxRow">
+<strong>Height:</strong> 5' 9''
+&nbsp;&nbsp;&nbsp;&nbsp;
+<strong>Weight:</strong> 165
+&nbsp;&nbsp;&nbsp;&nbsp;
+<strong>Born:</strong> 07/09/64
+</p>
+
+
+<p class="playerBioBoxRow">
+<strong>Wins:</strong> 7
+&nbsp;&nbsp;&nbsp;&nbsp;
+<strong>Turned Pro:</strong> 1986&nbsp;&nbsp;&nbsp;&nbsp;
+<strong>College:</strong> Oklahoma State University</p>
+
+<p class="playerBioBoxRow">
+<strong>World Golf Rank:</strong> 133
+&nbsp;&nbsp;&nbsp;&nbsp;
+<strong>Career Earnings:</strong> $31582892 </p>
+
+<p class="playerBioBoxRow">
+<strong>Residence:</strong> Edmond, OK
+</p>
+
+<p class="playerBioBoxRow">
+<strong>Birthplace:</strong> Dallas, TX
+</p>
+
+<p class="playerBioBoxRow">
+<strong>Family:</strong> Wife, Kim; Scottie (7/14/92), Hannah (1/26/95), Emma (8/15/97), Heidi Ann (2/12/04)
+</p>
+
+<p class="playerBioBoxRow" style="margin-top:10px;">
+<strong>Masters Qualification(s):</strong> <!--#include virtual="/masters/players/includes/qualify_1266.html"-->
+</p>
+</div>
+
+
+
+<!--begin page-1 tabs-->
+<div id="profile" class="outer">
+  <div id="innterTabs">
+   <ul>
+     <li><a href="#tab-1">hole-by-hole</a></li>
+     <li><a href="#tab-2">statistics</a></li>
+     <li><a href="#tab-3">masters record</a></li>
+     <!--<li><a href="#tab-4">season results &amp; ranking</a></li>-->
+   </ul>
+   <div id="tab-1">
+     <!--#include virtual="/masters/players/holebyhole/includes/minihbh1266.html" -->
+   </div>
+   <div id="tab-2">
+     <!--#include virtual="/masters/players/holebyhole/includes/ministats1266.html" -->
+   </div>
+   <div id="tab-3">
+									
+
+									
+
+									
+
+									
+
+									
+
+									
+
+									
+
+  									
+
+									
+
+									
+
+									
+
+									
+
+									
+
+									
+
+									
+
+								<p class="rowa"><B>0</B> victories in <B>14</B> starts. Made the cut <B>8</B> times.</p> 
+								<p class="rowb"><B>Average Finish:</B> 46</p>								
+							<!-- <p class="rowa">Total Earnings: $585 EEE: 0</p> -->
+
+								<P><A class="interactive-link2" HREF="Scott_Verplank.shtml?tab=record2">Complete Masters record and stats</A></p>
+   </div>
+   <div id="tab-4">
+     								
+								
+
+
+								<p class="rowa"><B>0</B> victories in <B>1</B> PGA Tour event starts. Made the cut in <B>0</B> events.</p>
+								<!-- <p>Total Earnings: $0 EEE: 0</p> -->
+															
+								<!-- <p>Made the cut in <B>0</B> events this season.</p>-->
+
+
+								<p class="rowb"><B>Top 10's:</B> 1&nbsp;&nbsp; <B>Top 5's:</B> 1&nbsp;&nbsp; <B>Starts:</B> 1&nbsp;&nbsp; <B>Earnings:</B> $31582892 <!--<B>Rank:</B> --></p>
+								
+
+
+								<p class="rowa">
+<!--<B>World Ranking Points:</B> &nbsp;--> 
+
+<B>World Golf Rank: </B>133
+
+<!--&nbsp;--></p>
+
+								<!--<p class="rowb"><B>Earnings:</B> $18,880 <B>Rank:</B> -</p>-->
+
+								<P><A class="interactive-link2" HREF="Scott_Verplank.shtml?tab=record2">Complete 2012 PGA record and stats</A></p>
+   </div>
+ </div>
+
+<h2>photos</h2>
+<!--#include virtual="/masters/includes/players/photos/1266.txt"-->
+<P><A class="interactive-link2" HREF="/masters/players/photos/1266.html">See more Scott Verplank photos</A></p>
+
+</div>
+<!--end page-1 tabs-->
+
+<!--begin page-2 tabs-->
+<div id="scores" class="outer">
+	<div class="mainTabContent">
+		<!--#include virtual="/masters/players/holebyhole/1266_small.html"-->
+	</div>
+</div>
+<!--end page-2 tabs-->
+
+<!--begin page-3 tabs-->
+<div id="news" class="outer">
+	<div class="mainTabContent">
+	    <div id="playerNews">
+		<!--#include virtual="/masters/players/includes/news/1266.txt" -->
+	    </div>
+	</div>
+</div>
+<!--end page-3 tabs-->
+
+<!--begin page-4 tabs-->
+<div id="record" class="outer">
+	<div class="mainTabContent">
+		<!--#include virtual="/masters/players/record/1266_small.html"-->
+	</div>
+</div>
+<!--end page-4 tabs-->
+
+<!--begin page-5 tabs-->
+<div id="photos" class="outer">
+	<div class="mainTabContent">
+
+	</div>
+</div>
+<!--end page-5 tabs-->
+
+</div>
+
+</div>
+
+
+<!-- CONTENT ENDS HERE -->
+
+
+      </div><!--//content clear-block-->
+
+<!--search box-->
+<div id="wl-fast-header">
+    <form method="get" action="http://search.augusta.com/fast-masters.php">
+     <ul>
+       <li class="wl-col-1">
+        <span class="fast-search-small">
+            <input type="hidden" value="standard" name="type">
+            <input type="hidden" value="augustachronicle" name="profile">
+            <input type="hidden" value="contentclass%2CS%2C%5Emasters%24%2CS%2CContent+Class%2CS%2CMasters" name="navigators">            
+<input type="radio" checked="checked" value="Fast" name="engine" style="display:none;" id="fast-search-site">
+        </span>
+       </li>
+       <li class="wl-col-2">
+         <input type="text" style="color: rgb(153, 153, 153); " class="fast-search-box" name="querystring">
+         <input type="submit" value="Go &raquo;" class="fast-search-submit">
+       </li>
+
+     </ul>
+    </form>
+    <div class="clearBoth"></div>
+  </div>
+<!--end search box-->
+
+      <div class="page-content-footer"></div><!--//.page-content-footer-->
+      <div class="clear-block"></div>
+    </div><!--//.node-->
+    </div><!--//col8-->
+    <div class="rail col4">
+
+
+      <div class="box rail-photos">
+        <div id="block-apt_plugin-Right" class="block block-apt_plugin">
+          <div class="content">
+            <script type="text/javascript">apt_AD('Right');</script>  
+          </div>
+        </div>
+        <!-- RAIL CONTENT HERE -->
+        
+        <!-- Quicktabs -->
+        <div id="tabs-container">
+        </div>
+       <script>
+          thirdparty_load_tabs('#tabs-container');
+       </script>
+       <!-- //Quicktabs -->
+       
+       <!-- Augusta Guide -->
+
+      <div class="block block-panels_mini" id="block-panels_mini-promo_augusta_guide">
+	<div class="content">
+	  <div id="mini-panel-promo_augusta_guide" class="panel-display panel-1col clear-block">
+	    <div class="panel-panel panel-col">
+	      <div><div class="panel-pane pane-custom pane-8">
+	   
+	  
+	  <div class="pane-content">
+	    <div class="augusta-ad"><div class="ad-headline">Augusta Guide</div><div class="ad-intro">Welcome to Augusta.com's coverage of the 2012 Masters, golf's most prestigious event.<br>No other Web site provides more coverage of the Masters and the city of Augusta, Ga.</div><div class="ad-links"><a href="/masters/masters">The Masters</a> | <a href="/masters/attractions">Attractions</a> | <a href="/masters/accommodations">Hotels</a><br><a href="/masters/transportation">Getting Around</a> | <a href="/masters/courses">Area Golf Courses</a><br><a href="/masters/weather">Weather</a> | <a href="/masters/events">Nightlife</a>&nbsp;| <a href="/masters/events">Events</a></div></div><p>&nbsp;</p>  </div>
+
+	  
+	      </div>
+	    </div>
+	   </div>
+	  </div>
+	 </div>
+	</div>
+
+	<!-- //Augusta Guide-->
+
+	<!-- Yahoo Contextual Ads -->
+	<script type="text/javascript">
+								var ctxt_ad_interface = 'http://cm.npc-morris.overture.com/js_1_0/';
+								var ctxt_ad_config = '9472395290';
+								var ctxt_ad_url = location.href;
+								var ctxt_ad_id = 'sports';
+								var ctxt_ad_type = 'sports';
+								var ctxt_ad_tier = 2;
+								var ctxt_ad_width = 250;
+								var ctxt_ad_height = 250;
+								var ctxt_ad_oe = "utf8";
+								var ctxt_ad_bc = "0c341c";
+								var ctxt_ad_cc = "0c341c";
+								var ctxt_ad_uc = "DFDFDF";
+								var ctxt_ad_lc = "FFFFFF";
+								var ctxt_ad_tc = "CCCCCC";
+								var ctxt_ad_source = 'npc_morris_augustachronicle_t2_ctxt';
+
+								var opendiv = '<div align="center">';
+								if ( navigator.appVersion.indexOf( "MSIE 6.0" ) > -1 ) {
+									ctxt_css_url = ctxt_css_url.replace( ".css", "-ie.css" );
+								}
+							</script><div style="text-align:center;margin:18px 0 18px 0;"><div class="ad-label-billboard">advertisement</div><script type="text/javascript" src="http://cm.npc-morris.overture.com/partner/js/ypn.js"></script></div>
+
+	<!-- //Yahoo Contextual Ads -->
+
+         <!-- END RAIL CONTENT -->
+        
+        
+        
+      </div>
+    </div><!--//.rail-->
+        <div class="row-end">&nbsp;</div>
+  </div>
+
+ </div> <!--//#inner-container-->
+</div><!--//#outer-container"> -->
+  
+<div  id="footer-container">
+  <div class="layout-978 footer-inner">
+    <div class="row footer-row">
+      <div class="col12 footer-content">
+        <h3>About Us</h3>
+        <p>This site and all its content are representative of The Augusta Chronicle's Masters&reg; Tournament coverage and information. The Augusta Chronicle and Augusta.com are our trademarks.  Augusta.com is an online publication of The Augusta Chronicle and is neither affiliated with nor endorsed by the Masters or the Augusta National Golf Club.</p>
+
+        <p>Copyright 2012 The Augusta Chronicle. All Rights Reserved.</p>
+        <div class="share-icons addthis_toolbox">
+          <a class="addthis_button_facebook fb" style="text-decoration:none">FB</a>
+          <a class="addthis_button_twitter twitter" style="text-decoration:none">Twitter</a>
+          <a class="addthis_button_share share" style="text-decoration:none">Share</a>
+        </div>
+                <div class="footer-bottom">  <div id="block-menu-menu-legal-menu" class="block block-menu">
+
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/masters/privacy-policy" title="">Privacy Statement</a></li>
+<li class="leaf"><a href="/masters/terms-service" title="">Terms of Service</a></li>
+<li class="leaf"><a href="http://chronicle.augusta.com/advertise" title="">Advertise with us</a></li>
+<li class="leaf last"><a href="http://chronicle.augusta.com/help/contact" title="">Contact Us</a></li>
+</ul>  </div>
+</div>
+</div>
+                
+      </div>
+      <div class="row-end"></div>
+
+    </div>
+  </div>
+</div>  
+  
+  <script type="text/javascript" src="/sites/all/modules/omniture_plugin/s_code_remote.js?3"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+				// Company
+				var _gaq = _gaq || [];
+	    	_gaq.push(['_setAccount', 'UA-6287136-1']);
+	    	_gaq.push(['_trackPageview']);
+	    
+				// Division
+			  var _gaq = _gaq || [];
+		    _gaq.push(['_setAccount', 'UA-6365892-2']);
+		    _gaq.push(['_trackPageview']);
+			
+				// Product
+			  var _gaq = _gaq || [];
+		    _gaq.push(['_setAccount', 'UA-6302221-11']);
+		    _gaq.push(['_trackPageview']);
+			
+				// MBU
+			  var _gaq = _gaq || [];
+		    _gaq.push(['_setAccount', 'UA-6450631-2']);
+		    _gaq.push(['_trackPageview']);
+			
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+			(function() {
+		    var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+		
+			<!--
+			/* You may give each page an identifying name, server, and channel on
+			the next lines. */
+
+			url_arr = new String (window.location.hostname + window.location.pathname).split('www\.');
+			//s.pageName = document.title;
+			s.pageName = zz_omnipagename;
+			s.server = zz_omniserver;
+			//s.channel='News'
+			s.pageType= 'Augusta.com' + location.pathname;
+			lparr = location.pathname.split('/');
+			toppath = lparr[1];
+			nxtpath = (lparr.length > 2)?lparr[2]:'Frontpage';
+			s.channel = zz_omnichannel;
+			//s.channel += (toppath != '')?toppath:'Frontpage';
+			s.prop1 = (toppath == '')?'Frontpage':(toppath + ' - ' + ((nxtpath != '')?nxtpath:'Frontpage'));
+			s.prop2 = document.title;
+			s.prop3=''
+			s.prop4=''
+			s.prop5=''
+			s.prop6=''
+			s.prop7=''
+			s.prop8=''
+			s.prop9=''
+			s.prop10=''
+			// s.prop 11 - 20 dedicated for MDW Corporate
+			s.prop11='' // Gender
+			s.prop12='' // Zip Code
+			s.prop13=''   // Birth Year
+			s.prop14=''   // Subscriber
+			s.prop15='SE'    // MDW_Region
+			s.prop16='Metro'   //  MDW_Group
+			s.prop17='97040 Other'     //  MDW_Cat
+			s.prop18='97040 Other'        // MDW_Sub_Cat
+			s.prop19=''
+			s.prop20=''
+      s.prop21 = '77' //NID
+      s.prop22 = '' //Author
+      s.prop23 = 'Masters' //Tax
+      s.prop24 = 'page' //Content type
+      s.campaign=s.getQueryParam('cid');
+
+			/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
+
+			var s_code=s.t();if(s_code)document.write(s_code)
+
+			//-->
+
+			
+//--><!]]>
+</script>
+  
+     <!--player.name-->
+  </body>
+
+</html>
+

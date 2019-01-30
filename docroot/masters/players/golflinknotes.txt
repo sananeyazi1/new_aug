@@ -1,0 +1,32 @@
+GolfLink 
+  
+From: Zionkowski, Tony
+Sent: ‎07-‎03-‎2014 00:44
+To: Kumar, Gaurav; Beth Bradley; Duane Jennings; Duane Jennings
+Cc: Gagan Kumar Gupta; Jay Shankar
+Subject: RE: GolfLink
+It appears that the trigger that is supposed to fire on insert to get
+the next value for the PKID is not present.  This is specific to the
+GOLF.EVENT table.  Because this did not fire, the inserted PKID was
+probably blank therefore an exception raised.
+
+I am not sure how, when or if the trigger was removed.
+
+There is also a possibility that this was not triggered but the SQL in
+the application selected the next value in the sequence and used it in
+the insert statement.  This would imply a permissions issue.  I have
+verified that the sequence is operational.
+
+(select golf.event_seq.nextval from dual)  or insert into ...
+(event-id,... ) values (golf.event_seq.nextval,...)
+
+I manually added a new EVENT row for this year's Masters tournament and
+verified with Kim that the GolfLink application is operational.
+
+
+
+
+Tony Zionkowski | NIIT Media Technologies
+699 Broad St. Suite 800 | Augusta, Georgia | 30901
+ 
+ 

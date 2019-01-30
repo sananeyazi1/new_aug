@@ -1,0 +1,20 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2009/04/05/mas_516961.shtml">Mediate feels no pain after dueling Tiger</a></h3>
+<div class="player-story-date">Posted: 04/05/09</div>
+<div class="player-story-digest">The winner called it the best victory of his career. The loser called it the greatest moment of his.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2009/04/05/mas_516981.shtml">Fighting spirit garners respect, Masters return</a></h3>
+<div class="player-story-date">Posted: 04/05/09</div>
+<div class="player-story-digest">The greatest moment of Rocco Mediate's career will give him the opportunity to erase one of the grimmest.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040906/mas_76811.shtml">Rain allows time to think</a></h3>
+<div class="player-story-date">Posted: 04/09/06</div>
+<div class="player-story-digest">Years of combating back problems have taught Rocco Mediate one thing: Worry about only what he can control.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040706/mas_76421.shtml">Mediate makes point with his first-day 68</a></h3>
+<div class="player-story-date">Posted: 04/07/06</div>
+<div class="player-story-digest">As one player after another voiced complaints and reservations about the changes made to Augusta National Golf Club, Rocco Mediate had a brief and pointed message: Go home.</div>
+</div>

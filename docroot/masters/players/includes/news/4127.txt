@@ -1,0 +1,20 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040807/mas_123833.shtml">Wetterich, Clark tumble from top</a></h3>
+<div class="player-story-date">Posted: 04/08/07</div>
+<div class="player-story-digest">The final twosome of the third round of the Masters Tournament finished the 18th hole at Augusta National Golf Club, signed their scorecards and walked quietly away, four hours after a day that began with the brightest of promise.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040707/mas_123594.shtml">Hard-charging rookie Wetterich tones down style to share lead</a></h3>
+<div class="player-story-date">Posted: 04/07/07</div>
+<div class="player-story-digest">Brett Wetterich often fights insomnia the nights between tournament rounds.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040707/mas_123597.shtml">Clark, Wetterich prove that experience isn't everything</a></h3>
+<div class="player-story-date">Posted: 04/07/07</div>
+<div class="player-story-digest">Experience at Augusta National Golf Club isn't what it's cracked up to be; at least, not through two rounds of the 71st Masters Tournament.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040607/mas_123526.shtml">Wetterich takes the lead on birdie at nine</a></h3>
+<div class="player-story-date">Posted: 04/06/07</div>
+<div class="player-story-digest">Brett Wetterich picked up a shot on the ninth hole to take the lead on a chilly Friday morning at Augusta National Golf Club. Wetterich, the 18-hole co-leader along with Justin Rose at 3-under par, opened his second round with eight straight pars.</div>
+</div>

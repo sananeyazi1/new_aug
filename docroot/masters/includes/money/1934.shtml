@@ -1,0 +1,1050 @@
+
+
+
+
+  
+	<table id="LargeLeaderboard">
+
+		<TR>
+			<th>
+				<b>Position</b>
+			</th>
+			<th>
+				<b>Player</b>
+			</th>
+			<th class="center">
+				<b>Final</b>
+			</th>
+
+			
+			<th class="center">
+				<b>Earnings</b>
+			</th>
+
+
+		</TR>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+1</TD>
+			<td NOWRAP>
+				
+				Horton Smith
+				</TD>
+			<td class="center" NOWRAP>
+				-4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,500
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+2</TD>
+			<td NOWRAP>
+				
+				Craig Wood
+				</TD>
+			<td class="center" NOWRAP>
+				-3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $800
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T3</TD>
+			<td NOWRAP>
+				
+				Billy Burke
+				</TD>
+			<td class="center" NOWRAP>
+				-2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $550
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T3</TD>
+			<td NOWRAP>
+				
+				Paul Runyan
+				</TD>
+			<td class="center" NOWRAP>
+				-2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $550
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+5</TD>
+			<td NOWRAP>
+				
+				Ed Dudley
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $400
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+6</TD>
+			<td NOWRAP>
+				
+				MacDonald Smith
+				</TD>
+			<td class="center" NOWRAP>
+				+2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $175
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+7</TD>
+			<td NOWRAP>
+				
+				Will MacFarlane
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $300
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T8</TD>
+			<td NOWRAP>
+				
+				Al Espinosa
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $175
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T8</TD>
+			<td NOWRAP>
+				
+				Jimmy Hines
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $175
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T8</TD>
+			<td NOWRAP>
+				
+				Harold McSpaden
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $175
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T11</TD>
+			<td NOWRAP>
+				
+				Mortie Dutra
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $100
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T11</TD>
+			<td NOWRAP>
+				
+				Al Waltrous
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $100
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T13</TD>
+			<td NOWRAP>
+				
+				Walter Hagen
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T13</TD>
+			<td NOWRAP>
+				
+				Robert T. Jones, Jr.
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T13</TD>
+			<td NOWRAP>
+				
+				Denny Shute
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T16</TD>
+			<td NOWRAP>
+				
+				Leo Diegel
+				</TD>
+			<td class="center" NOWRAP>
+				+7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T16</TD>
+			<td NOWRAP>
+				
+				R.S. Stonehouse
+				</TD>
+			<td class="center" NOWRAP>
+				+7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				Ky Laffoon
+				</TD>
+			<td class="center" NOWRAP>
+				+8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				Johnny Revolta
+				</TD>
+			<td class="center" NOWRAP>
+				+8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T18</TD>
+			<td NOWRAP>
+				
+				W.J. Schwartz
+				</TD>
+			<td class="center" NOWRAP>
+				+8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T21</TD>
+			<td NOWRAP>
+				
+				J. Golden
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T21</TD>
+			<td NOWRAP>
+				
+				Charles Yates
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T23</TD>
+			<td NOWRAP>
+				
+				John W. Dawson
+				</TD>
+			<td class="center" NOWRAP>
+				+10</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T23</TD>
+			<td NOWRAP>
+				
+				Henry Picard
+				</TD>
+			<td class="center" NOWRAP>
+				+10</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T25</TD>
+			<td NOWRAP>
+				
+				Henry Ciuci
+				</TD>
+			<td class="center" NOWRAP>
+				+11</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T25</TD>
+			<td NOWRAP>
+				
+				T. Creavy
+				</TD>
+			<td class="center" NOWRAP>
+				+11</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T25</TD>
+			<td NOWRAP>
+				
+				Victor Ghezzi
+				</TD>
+			<td class="center" NOWRAP>
+				+11</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T28</TD>
+			<td NOWRAP>
+				
+				Bob Cruiskshank
+				</TD>
+			<td class="center" NOWRAP>
+				+12</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T28</TD>
+			<td NOWRAP>
+				
+				Jim Foulis
+				</TD>
+			<td class="center" NOWRAP>
+				+12</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T28</TD>
+			<td NOWRAP>
+				
+				Mike Turnesa
+				</TD>
+			<td class="center" NOWRAP>
+				+12</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+31</TD>
+			<td NOWRAP>
+				
+				C. Lacey
+				</TD>
+			<td class="center" NOWRAP>
+				+13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+32</TD>
+			<td NOWRAP>
+				
+				J. Kinder
+				</TD>
+			<td class="center" NOWRAP>
+				+15</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+33</TD>
+			<td NOWRAP>
+				
+				P. Perkins
+				</TD>
+			<td class="center" NOWRAP>
+				+16</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T34</TD>
+			<td NOWRAP>
+				
+				George T. Dunlap Jr.
+				</TD>
+			<td class="center" NOWRAP>
+				+18</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T34</TD>
+			<td NOWRAP>
+				
+				Joe Turnesa
+				</TD>
+			<td class="center" NOWRAP>
+				+18</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T36</TD>
+			<td NOWRAP>
+				
+				Johnny Farrell
+				</TD>
+			<td class="center" NOWRAP>
+				+19</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T36</TD>
+			<td NOWRAP>
+				
+				Joe Paletti
+				</TD>
+			<td class="center" NOWRAP>
+				+19</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				Errie Ball
+				</TD>
+			<td class="center" NOWRAP>
+				+21</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				Abe Espinosa
+				</TD>
+			<td class="center" NOWRAP>
+				+21</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				Gene Kunes
+				</TD>
+			<td class="center" NOWRAP>
+				+21</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				David Ogilvie Jr.
+				</TD>
+			<td class="center" NOWRAP>
+				+21</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T42</TD>
+			<td NOWRAP>
+				
+				George Kerrigan
+				</TD>
+			<td class="center" NOWRAP>
+				+23</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T42</TD>
+			<td NOWRAP>
+				
+				C. Ross Somerville
+				</TD>
+			<td class="center" NOWRAP>
+				+23</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+44</TD>
+			<td NOWRAP>
+				
+				William P. Turnesa
+				</TD>
+			<td class="center" NOWRAP>
+				+24</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T45</TD>
+			<td NOWRAP>
+				
+				Tom Kerrigan
+				</TD>
+			<td class="center" NOWRAP>
+				+25</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T45</TD>
+			<td NOWRAP>
+				
+				Sam Parks Jr.
+				</TD>
+			<td class="center" NOWRAP>
+				+25</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T45</TD>
+			<td NOWRAP>
+				
+				John Perelli
+				</TD>
+			<td class="center" NOWRAP>
+				+25</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+48</TD>
+			<td NOWRAP>
+				
+				W.D. Fondren
+				</TD>
+			<td class="center" NOWRAP>
+				+27</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T49</TD>
+			<td NOWRAP>
+				
+				Fred McLeod
+				</TD>
+			<td class="center" NOWRAP>
+				+28</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T49</TD>
+			<td NOWRAP>
+				
+				G. Sargent
+				</TD>
+			<td class="center" NOWRAP>
+				+28</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T51</TD>
+			<td NOWRAP>
+				
+				C.W. Hall
+				</TD>
+			<td class="center" NOWRAP>
+				+29</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T51</TD>
+			<td NOWRAP>
+				
+				George Jacobus
+				</TD>
+			<td class="center" NOWRAP>
+				+29</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T51</TD>
+			<td NOWRAP>
+				
+				Cyril Walker
+				</TD>
+			<td class="center" NOWRAP>
+				+29</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T54</TD>
+			<td NOWRAP>
+				
+				Walter Emery
+				</TD>
+			<td class="center" NOWRAP>
+				+31</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T54</TD>
+			<td NOWRAP>
+				
+				Sam Perry
+				</TD>
+			<td class="center" NOWRAP>
+				+31</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T54</TD>
+			<td NOWRAP>
+				
+				Jimmy Vincent
+				</TD>
+			<td class="center" NOWRAP>
+				+31</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+57</TD>
+			<td NOWRAP>
+				
+				Willie Dow
+				</TD>
+			<td class="center" NOWRAP>
+				+32</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+58</TD>
+			<td NOWRAP>
+				
+				Jess Sweetser
+				</TD>
+			<td class="center" NOWRAP>
+				+33</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+59</TD>
+			<td NOWRAP>
+				
+				C.T. Wilson
+				</TD>
+			<td class="center" NOWRAP>
+				+34</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+60</TD>
+			<td NOWRAP>
+				
+				Bayard Mitchell
+				</TD>
+			<td class="center" NOWRAP>
+				+44</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+	</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+

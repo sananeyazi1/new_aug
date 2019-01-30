@@ -1,0 +1,20 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/rulings-woods-guan-create-buzz-masters">Rulings on Woods, Guan create buzz at Masters </a></h3>
+<div class="player-story-date">Posted: 04/13/13</div>
+<div class="player-story-digest">  Rulings involving Tiger Woods and Tianlang Guan have drawn plenty of attention the past couple days at the Masters Tournament. The two-stroke penalty assessed on Woods following an improper drop at No. 15 on Friday created a buzz Saturday ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/days-play-guans-slow-play-highlights-fridays-second-round">Day&#039;s play, Guan&#039;s slow play highlights of Friday&#039;s second round</a></h3>
+<div class="player-story-date">Posted: 04/13/13</div>
+<div class="player-story-digest"> With so much movement Friday at the top of the leaderboard in the Masters Tournament, there was nothing slow about the second round, except Tianlang Guan&rsquo;s pace of play. That most assuredly will pick up for the third round. Guan, ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/chinese-teen-tianlang-guan-earns-rave-reviews-masters-debut">Chinese teen Tianlang Guan earns rave reviews in Masters debut</a></h3>
+<div class="player-story-date">Posted: 04/12/13</div>
+<div class="player-story-digest">  Tianlang Guan&rsquo;s first round at the Masters Tour&shy;nament does not jump off the leaderboard because he is an amateur tied for 46th at 1-over-par 73. &ldquo;Until you look at him,&rdquo; said Carl Jackson, a caddie for 52 years at ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/youth-has-its-day-more-come">Youth has its day, with more to come</a></h3>
+<div class="player-story-date">Posted: 04/09/13</div>
+<div class="player-story-digest"> The pressure is already off the record-breaking 14-year-old Masters Tournament participant from China. If Tianlang Guan fails to qualify to return to the Masters in 2014, he can at least come back for the finals of the Drive, Chip &amp; ...</div>
+</div>

@@ -1,0 +1,1189 @@
+
+<!DOCTYPE html>
+<!--[if IE 7]><html class="ie ie7" lang="en-US"><![endif]-->
+<!--[if IE 8]><html class="ie ie8" lang="en-US"><![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!--><html lang="en-US"><!--<![endif]-->
+<head>
+    <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=1.0">
+    <title>Bubba's Way | 2013 Masters</title>
+    
+
+   <meta property="og:title" content="Bubba's Way">
+    <meta property="og:type" content="article">  
+    <meta name="keywords" content="The Masters 2013 - The Masters, Masters Golf, Masters Leaderboard, Augusta national, When is the Masters, Golf, Augusta Georgia, Masters Tournament, Augusta Golf">
+
+
+
+   <link href="http://www.augusta.com/masters/bubba/css/bootstrap-responsive.min.css" rel="stylesheet" charset="utf-8">
+    <link href="http://www.augusta.com/masters/bubba/css/colors.min.css" rel="stylesheet" charset="utf-8">
+    <link href="http://www.augusta.com/masters/bubba/css/fonts.min.css" rel="stylesheet" charset="utf-8">
+    <link href="http://www.augusta.com/masters/bubba/css/inline.min.css" rel="stylesheet" charset="utf-8">
+    <link href="http://www.augusta.com/masters/bubba/css/ags.min.css" rel="stylesheet" charset="utf-8">
+    <link href="http://www.augusta.com/masters/bubba/css/ags-responsive.min.css" rel="stylesheet" charset="utf-8">
+    <link href="http://www.augusta.com/masters/bubba/css/font-awesome.min.css" rel="stylesheet" charset="utf-8">
+	 
+
+ 
+     <link rel="shortcut icon" href="http://www.augusta.com/favicon.ico">
+  
+    <!--[if lt IE 9]><script src="http://www.augusta.com/masters/bubba/js/html5.js" type="text/javascript"></script><![endif]-->
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="http://www.augusta.com/masters/bubba/js/bootstrap.min.js"></script>
+    <script src="http://www.augusta.com/masters/bubba/js/bootstrap-dropdown.js"></script>
+	
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+yld_mgr = {};
+yld_mgr.pub_id="21314452344";
+yld_mgr.site_name="Augusta Chronicle";
+yld_mgr.request_type="ac";
+yld_mgr.container_type="js";
+yld_mgr.content_topic_id_list = ['8336501'];
+yld_mgr.cstm_sctn_list = ['Secondary Front'];
+yld_mgr.slots = {};
+yld_mgr.slots.Top = {};
+yld_mgr.slots.Top.ad_size_list = ['728x90'];
+yld_mgr.slots.Top.ad_delivery_mode = ['ipatf'];
+yld_mgr.slots.Top.cstm_content_cat_list = ['masters_news'];
+yld_mgr.slots.Top.content_type_list = [];
+yld_mgr.slots.Right = {};
+yld_mgr.slots.Right.ad_size_list = ['300x250'];
+yld_mgr.slots.Right.ad_delivery_mode = ['ipatf'];
+yld_mgr.slots.Right.cstm_content_cat_list = ['masters_news'];
+yld_mgr.slots.Right.content_type_list = [];
+yld_mgr.slots.Leaders = {};
+yld_mgr.slots.Leaders.ad_size_list = ['160x17'];
+yld_mgr.slots.Leaders.ad_delivery_mode = ['ipatf'];
+yld_mgr.slots.Leaders.cstm_content_cat_list = ['masters_news'];
+yld_mgr.slots.Leaders.content_type_list = [];
+yld_mgr.slots.Leaderboard = {};
+yld_mgr.slots.Leaderboard.ad_size_list = ['230x90'];
+yld_mgr.slots.Leaderboard.ad_delivery_mode = ['ipatf'];
+yld_mgr.slots.Leaderboard.cstm_content_cat_list = ['masters_news'];
+yld_mgr.slots.Leaderboard.content_type_list = [];
+yld_mgr.slots.MobileLeaderboard = {};
+yld_mgr.slots.MobileLeaderboard.ad_size_list = ['300x50'];
+yld_mgr.slots.MobileLeaderboard.ad_delivery_mode = ['ipatf'];
+yld_mgr.slots.MobileLeaderboard.cstm_content_cat_list = ['masters_news'];
+yld_mgr.slots.MobileLeaderboard.content_type_list = [];
+yld_mgr.cstm_sctn_list.push('Article');
+if (yld_mgr.content_topic_id_list.length == 0) {
+	yld_mgr.content_topic_id_list.push('20275001');
+}
+function apt_AD(pos) { yld_mgr.place_ad_here(pos); }
+document.write('<scr' + 'ipt type="text/javascript" src="http://e.yieldmanager.net/script.js"></scr' + 'ipt>');
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var omni_account = "mdwaugusta"
+var omni_filters = ""
+
+//--><!]]>
+</script>
+    <script type="text/javascript">
+        // Mobile detection
+        var isMobile = {
+            Android: function() {
+                return navigator.userAgent.match(/Android/i) ? true : false;
+            },
+            BlackBerry: function() {
+                return navigator.userAgent.match(/BlackBerry/i) ? true : false;
+            },
+            iOS: function() {
+                return navigator.userAgent.match(/iPhone|iPad|iPod/i) ? true : false;
+            },
+            iPad: function() {
+                return navigator.userAgent.match(/iPad/i) ? true : false;
+            },
+            Windows: function() {
+                return navigator.userAgent.match(/IEMobile/i) ? true : false;
+            },
+            any: function() {
+                return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Windows());
+            }
+        };
+        // Mobile global var
+        var mobile_browser;
+        mobile_browser = 0;
+        if( isMobile.any() ) mobile_browser = 1;
+        // Special check for iOS for video
+        var ios_browser;
+        ios_browser = 0;
+        if( isMobile.iOS() ) ios_browser = 1;
+        // Another check for special iPad styles
+        var ipad_browser;
+        ipad_browser = 0;
+        if( isMobile.iPad() ) ipad_browser = 1;
+        
+        
+        // Conditional JS load for mobile
+        function loadRemoteScript(url, callback)
+        {
+            // adding the script tag to the head as suggested before
+           var head = document.getElementsByTagName('head')[0];
+           var script = document.createElement('script');
+           script.type = 'text/javascript';
+           script.src = url;
+           script.onload = callback;
+            
+           // fire the loading
+           head.appendChild(script);
+        }
+
+        function scriptCallBack(){
+            // null callback
+        }
+
+    </script>
+    <script type="text/javascript">
+    
+        var siteContext           = '/rw/sites/twpweb';
+        var sectionContext        = '/';
+        var eidosBase             = 'http://www.augusta.com';
+        
+         var navNode = "sports";var thisNode = "sports";var commercialNode = "sports";var wp_channel = "wp - sports";var wp_content_category = "wp - sports";var wp_content_type = "article";var wp_blogname = "";var wp_page_name = "sports:article:5 - 20130227 - cycling%e2%80%99s-road-forwardsports";var wp_author = "andrewsw";var wp_section_front = "sports";var wp_subsection = "sports";var wp_source = "washingtonpost.com";var wp_hierarchy = "sports|article";var wp_application = "application - projects";        
+
+        var TWP                   = window.TWP || {}
+        
+        TWP.Data                  = ( typeof TWP.Data == 'undefined' ) ? {} : TWP.Data;
+        TWP.Data.NN               = {
+            init: function(){
+                this.pageType     = 'SectionPage';
+                this.canonicalURL = window.location.href;
+                this.shortURL     = '';
+                this.section      = '/';
+                this.homepage     = true;
+            }
+        }
+        TWP.Data.NN.init();
+        wp_meta_data = {showAds:true,showPreRollAds:false,isHomepage: false,isMultimedia: false,wt:"CompoundStory",contentName:[""],page_id:["5"],author:["andrewsw"], subsection:[""],keywords:[""],contentType:["BlogStory"]}    
+    </script>
+ 
+</head>
+<!--[if lt IE 7]><body class="ie6"><![endif]-->
+<!--[if IE 7]><body class="ie7"><![endif]-->
+<!--[if IE 8]><body class="ie8"><![endif]-->
+<!--[if gt IE 8]><!--><body class="single single-post postid-5 single-format-standard custom-background-empty custom-font-enabled single-author"><!--<![endif]-->
+
+    <div id="nav" role="navigation">
+    
+        <div class="tracker">
+            <div class="progress"></div>
+        </div>
+        <a class="branding" href="//www.augusta.com">
+          <div class="hidden-phone">
+                <img class="" src="http://www.augusta.com/masters/images/2013/bubba/ac_logo.png" alt="Augusta.com Masters 2013"/>
+            </div>
+            <div class="visible-phone">
+                <img class="" src="http://www.augusta.com/masters/images/2013/bubba/phone-logo.png" alt="Augusta.com Masters 2013"/>
+            </div>
+        </a>
+        <p class="title">
+            <a href="#home">Bubba's Way</a>
+        </p>
+        
+        <ul class="sections nav hidden-phone">
+            <li class="nav-label"><span class="text">Part:</span></li><li class="section"><a href="#section-1"><span class="text">1</span></a></li><li class="section"><a href="#section-2"><span class="text">2</span></a></li><li class="section"><a href="#section-3"><span class="text">3</span></a></li><li class="section"><a href="#section-4"><span class="text">4</span></a></li><li class="section"><a href="#section-5"><span class="text">5</span></a></li><li class="section"><a href="#section-6"><span class="text">6</span></a></li><li class="section"><a href="#section-7"><span class="text">7</span></a></li><li class="section"><a href="#section-8"><span class="text">8</span></a></li><li class="section"><a href="#section-9"><span class="text">9</span></a></li>                    
+                </ul>
+            </li>
+          
+        </ul>
+        <div class="clear"></div>
+    </div>
+    <script>
+        $('.dropdown-toggle').dropdown()
+    </script>
+		  <link href="http://admin.augusta.com/masters/bubba/css/bubba.min.css" type="text/css" rel="stylesheet" charset="utf-8"><div id="main-container">
+<div class="sections">
+<div id="home" class="">
+<div id="image-1" class="header-image posrel stretch-full">
+                    <img class="image" src="http://www.augusta.com/masters/images/2013/bubba/bubba-wave2.jpg"></p>
+<div class="text stellar">
+<h1>Bubba's Way</h1>
+<p class="byline">By Scott Michaux</span> &nbsp;&nbsp;&nbsp;&nbsp;</p>
+</div>
+</div>
+<div class="header-caption">
+<div class="photo-text">
+<p class="credit">Photo by Jackie Ricciardi / Staff</p>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="span10 offset2 body">
+<p class="byline">
+                                
+                            </p>
+<p class="first-graf"><span class="drop-cap small">T</span>he little white dot faded fast into the green canopy - a lifetime of hooked shots betraying <a href="http://www.augusta.com/masters/players/bios/Bubba_Watson.shtml">Bubba Watson</a> at the worst possible moment.</p>
+
+<p class="first-graf">"As soon as I hit the tee shot on 10, I thought, 'Oh no! I blew my chance,'" Watson said.</p>
+</div>
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+<p>His arm raised instinctively to point right, a look of disgust and concern was painted on his face. The ball sailed low over the heads of the patrons packed along one of the steepest hills at Augusta National Golf Club, rocketing toward the trees and who-knew-what-kind-of trouble.</p>
+<div class="span4 gutter mb20">
+<p class="inline-quote"><span class="highlight"><span class="start-quote">&ldquo;</span>...If you give me a swing, I can make<br /> a shot</span></span> &rdquo;</p>
+</div>
+<p>This was the essence of sudden death, and Watson just knew on the second playoff hole with a green jacket at stake that he wasn't likely to be the one wearing it at the end of the 2012 Masters Tournament.</p>
+
+<p>"There's thousands of people. There's hundreds of trees. There's slope," Watson said of all the perils that awaited him somewhere down that hill. "I was kind of there earlier in regulation. I hit it in the same place."</p>
+
+<p>A few hours before, on the same hole, Watson was two shots behind playing partner <a href="http://www.augusta.com/masters/players/bios/Louis_Oosthuizen.shtml">Louis Oosthuizen</a> - the pure-swinging South African still walking beside him in the playoff. Oosthuizen had already hit the latest shot heard 'round the world for an albatross on No. 2 that vaulted him into a lead for most of the final round. 
+<span class="mobile-inactive">
+<audio id="myAudio"
+ <source src="http://www.augusta.com/masters/bubba/audio/WatsonLouisDoubleEagle2.mp3"
+         type='audio/mp4'>
+
+ Your user agent does not support the HTML5 Audio element.
+</audio>
+<button type="button" onclick="aud_play_pause()" style="background:#fff;border:0px;"><img src="http://www.augusta.com/masters/bubba/audio/play-button.png" width="25" height="25"></button>
+<script>
+function aud_play_pause() {
+  var myAudio = document.getElementById("myAudio");
+  if (myAudio.paused) {
+    myAudio.play();
+  } else {
+    myAudio.pause();
+  }
+}
+</script>
+</span>
+</p>
+
+
+<p>Watson's drive in regulation, however, had a much more favorable line, settling in pine straw with a clear shot to the 10th green. He made a routine par then to climb within a shot after Oosthuizen's bogey, eventually forging a tie with a four-birdie run from 13 to 16.</p>
+
+<p>This time, with history riding on it, Watson's pull-hooked drive had no chance of being so lucky.
+"Now, walking to the ball, I'm hoping and praying to myself,'Just give me a shot; give me a swing,'" he said. "If you give me a swing, I can make a shot."
+</p>
+
+</div>
+
+</div>
+
+</div>
+<div id="section-1" class="section">
+<div id="image-2" class="header-image posrel stretch-full">
+<div class="text stellar-lazy">
+
+<h2>Trouble with<span class="secondary-break"> the curve</span></h2>
+
+</div>
+                 <img class="image lazy mobile-swap" src="http://www.augusta.com/masters/images/2013/bubba/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/bubba-2.jpg">
+                </div>
+				<div class="header-caption">
+<div class="photo-text">
+<p class="credit">Photo by Michael Holahan/Staff</p>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="span10 offset2 body">
+
+<p><span class="drop-cap small">B</span>y her estimation, Robin Cook Dezarn had seen this "a thousand times." This is not hyperbole.</p>
+<p>"It was always a different adventure," she said of round after round played at Tanglewood Golf Club with a young Bubba from nearby Bagdad, Fla. "Lots of little trick shots over trees. Something new every time."</p>
+
+<p>Dezarn is the daughter of Hiram Cook, the left-handed club pro who gave Watson his first hand-me-down 9-iron. She and her brother Ryan - both adopted - were partners with Watson in a semiregular game of 3-on-1 against their father.</p>
+</div>
+
+<div class="span6 offset2 body">
+
+
+<p>"I was their third kid, I guess," said Watson, who by the time he was 8 spent nearly every day hanging around the golf course or the Cooks' house.</p>
+<div class="span4 gutter mb20">
+<p class="inline-quote"><span class="highlight"><span class="start-quote">&ldquo;</span>Bubba's fearless. He doesn't consider the<br /> miss</span> &rdquo;</p>
+</div>
+
+<p>It was Dezarn who played with Watson the most, getting a front-row seat to the "freak" show. By the time she joined the golf team at Auburn, Dezarn topped out at 5-foot-3. Her strength was short-but-repeatable accuracy straight down the middle of Tanglewood's tight fairways. Watson, who would grow to 6-3, added the spice to the matches.</p>
+
+
+<p>"He was always about hitting weird shots," Dezarn said. "If you told him he couldn't do it he'd figure out a way to do it. And if the game wasn't working for him, he'd figure out a way to change the rules."</p>
+
+
+<p>Said Watson: "My practice is a lot different than most people's because I like to try shots that you shouldn't try."</p>
+</div>
+
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+<p>From the beginning, "Bubba golf" was always about shape as much as power. At age 6, Watson would scramble to finish his schoolwork so he could spend whatever daylight was left curving plastic Wiffle balls - left and right - around his parents' house.</p>
+
+<p>"I don't think he's ever seen a straight shot his entire golf career," said J.J. Dunn, another longtime pro at Tanglewood. "In his mind, the way his brain pictures it, it's going to curve one of the two ways. I think he would be bored with hitting straight shots."</p>
+
+<p>There would be no clinics or lessons or methodology from instructor David Leadbetter to form the foundation of Watson's game; just Wiffle balls in dirt until the synapses between his brain and his hands were grooved.</p>
+<p>"To hit a Wiffle ball 5 feet farther, 10 feet farther, you overswing," Watson said. "Then to move it under trees, over trees, around my house, I just started drawing it because of my wrists. As a kid, you don't think of the mechanics and I have to get my grip this way or be stronger or weaker. You just think, 'I did this and it went that way.' So that's how I did it, by practicing feel. So now my shots are all feel."</p>
+</div>
+<div class="span4 gutter mb20">
+
+<div class="photo mb10">
+                                <img class="lazy" src="http://www.augusta.com/masters/images/2013/bubba/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/bubba-kid.jpg" width="350">
+                            </div>
+<div class="photo-text">
+<p class="caption">Watson (Special photo)</p>
+</div>
+
+</div>
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+<p>By the time Gerry Watson Sr. and Molly Watson started dropping off Bubba at the golf course each day, the trajectory of his swing was already rooted. The advice Watson's father was given by those he admired, such as Pensacola tour pro Joe Durant: "Don't mess with it."</p>
+
+<p>"He just dreams it up in his head and he feels it, and that's what his muscles do," Dunn said. "Because I can tell you he couldn't explain anything about swing path and swing plane to you or me. He just feels it. That's amazing to me."</p>
+
+<p>Tanglewood was home to two other eventual tour pros, Boo Weekley and Heath Slocum, who preceded Watson by five years at Milton High School. It was an environment uniquely suited for fostering the growth of Bubba golf.</p>
+
+<p>"Pine trees and dirt, good grass and bad grass, weeds and no weeds, slow greens, fast greens, loose dirt, hard pan, sand - you had all the different terrains you could possibly have on a golf course at one course," Watson said. "I got to hit from everything. Real tight golf course. Out of bounds on both sides. Doglegs because of houses. So that's where I got comfortable hitting driver.
+<span class="mobile-inactive">
+<audio id="myAudio2"
+ <source src="http://www.augusta.com/masters/bubba/audio/WatsonTanglewood.mp3"
+         type='audio/mp4'>
+
+ Your user agent does not support the HTML5 Audio element.
+</audio>
+<button type="button" onclick="aud_play_pause()"  style="background:#fff;border:0px;"><img src="http://www.augusta.com/masters/bubba/audio/play-button.png"  width="25" height="25"></button>
+<script>
+function aud_play_pause() {
+  var myAudio2 = document.getElementById("myAudio2");
+  if (myAudio2.paused) {
+    myAudio2.play();
+  } else {
+    myAudio2.pause();
+  }
+}
+</script>
+</span>
+</p>
+
+<p>"It doesn't scare me. I might hit it bad. I think that helped me. And with curving the ball it helped me a ton because I hit so many curves under, over and around trees that when I get in tree trouble now, as long as I have a swing, I have a shot and can make up something."</p>
+
+<p>That training offers the luxury of creativity.</p>
+
+<p>"Bubba's fearless. He doesn't consider the miss," said Dunn, the golf pro. "He sees the spectacular shot he wants to do and that's the feel he gets."</p>
+
+<p>Watson's creative game conjures up visions of golf that barely exist anymore in the era of technology, when balls and clubs aren't designed to move as they used to. The name Seve Ballesteros is often invoked when Watson carves out a recovery.
+<span class="mobile-inactive">
+<audio id="myAudio3"
+ <source src="http://www.augusta.com/masters/bubba/audio/WatsonSeve.mp3"
+         type='audio/mp4'>
+
+ Your user agent does not support the HTML5 Audio element.
+</audio>
+<button type="button" onclick="aud_play_pause()" style="background:#fff;border:0px;"><img src="http://www.augusta.com/masters/bubba/audio/play-button.png" width="25" height="25"></button>
+<script>
+function aud_play_pause() {
+  var myAudio3 = document.getElementById("myAudio3");
+  if (myAudio3.paused) {
+    myAudio3.play();
+  } else {
+    myAudio3.pause();
+  }
+}
+</script></span>
+</p>
+
+<p>"My game isn't based off hitting fairways, hitting greens," Watson said. "It's not based off a mechanical thing. It's based off having fun, feeling a shot and hopefully pulling a shot off. And Seve loved the game, was passionate about the game, and I hope that comes off - that I am, too. This is how I want to play. If I don't hit the fairway, I'm going to pull this next shot off.</p>
+
+<p>"That's what my dad always said. You hit the first one bad, well, make the next one better. It looked like that's where Seve's thought process was. I hit a bad shot? Watch this, because this next one's going to be amazing. And if I miss that, this third one's going to be even better. Bad shots are an opportunity to show off."</p>
+
+<p>Not coincidentally, some of Watson's early training mirrors stories of a young Ballesteros. The Spaniard famously learned the game with a 3-iron on the beaches of Pedrena. Watson often employed the same concept in his childhood games with Hiram Cook.</p>
+
+<p>"What I saw him doing was playing with one club - 7-iron one day, 6-iron the next," Watson said of Cook. "He'd play against us three and our best ball, and he'd beat us or we'd beat him barely. We played for a Coke or something. So, as I got older, I thought that was a good idea playing with one club. You can hit one iron, all shots. Sometimes even a 2-iron. Chipping, putting, bunker shots, full shots."</p>
+
+</div>
+</div>
+
+</div>
+</div>
+<div id="section-2" class="section">
+<div id="image-3" class="header-image posrel stretch-full">
+<div class="text stellar-lazy">
+<h2 class="" style="color:#517230;">No 'Bubba' in team</h2>
+</p></div>
+<p>                    <img class="image lazy mobile-swap" src="http://www.washingtonpost.com/wp-srv/special/sports/cycling/images/blank.gif" data-original="http://www.washingtonpost.com/wp-srv/special/sports/cycling/images/blank.gif" height="240">
+                </div>
+
+
+
+<div class="container">
+<div class="row">
+<div class="span6 offset2 body">
+<p><span class="drop-cap small" style="margin-left:5px;">L</span>ong and lean with wide shoulders, big hands and uncommon agility, Watson was a natural for sports and displayed talent for baseball and basketball.
+</p>
+<p>It was the team environment that didn't particularly suit him.</p>
+
+
+<p>"Bubba was a gifted athlete but very temperamental," said Cal Bodenstein, his middle school physical education teacher. "He was so competitive on the field. He thought everybody should catch every ball he threw. He thought everybody should hit a home run like him. He constantly stayed on his teammates. I'd say,'Bubba, you've got to do something about your attitude. You're too competitive. These kids are not pros.' He thought everybody should excel."</p>
+
+<p>Watson does not deny his intolerance for other people's limitations.</p>
+<p>"It drove me nuts," he said. "I remember a Little League baseball game. I was the pitcher and played a great game. The coach's son committed four errors at shortstop. I got yelled at. Coach said, 'If you pitched better ...' I said, 'If your son...' That's when my dad took me out of that game and said we're going home."</p>
+</div>
+<div class="span4 gutter mb20">
+
+<div class="photo mb10">
+                                <img class="lazy" src="http://www.washingtonpost.com/wp-srv/special/sports/cycling/images/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/bubba-uga2.png" width="250">
+                            </div>
+							<div class="photo-text">
+<p class="caption">Bubba Watson helped lead the University of Georgia to a Southeastern Conference title in 2000.(Special photo)</p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+<p>Though Watson loved basketball - "the one team sport where I could be creative: the crazy pass, the Pete Maravich fun stuff" - his competitive demands were more suited to the solitary nature of golf.</p>
+<p>"Let's just talk about how golf is the best sport," he said. "My dad wanted me to play baseball, but you can play baseball - whatever position you are - you can play with no errors, bat 1,000 and go 5-for-5 that game and lose the game. Why? Or you can throw perfect pitches but you have a human being calling the strikes or balls. You see on TV when they have that little box, it doesn't match up sometimes. You can play a perfect game and lose it.</p>
+
+<p>"But when it came to golf, it was straight me and only me. I win or lose. And I could deal with that. ...I knew that at a young age and went with golf. My dad was mad at me for a few months when I said no more baseball. In high school he made me make a decision. But he got over it."</p>
+</div>
+<div class="span4 gutter mb20">
+<div class="photo mb10">
+<video width="480" height="360" controls>
+  <source src="http://brightcove.vo.llnwd.net/pd16/media/1178214233/1178214233_2255385318001_WatsonUGA.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+ </div>
+</div>
+</div>
+
+
+<div class="row">
+<div class="span6 offset2 body">
+<p>His team issues spilled over into college. After being a junior college All-American at Faulkner State Community College in Alabama, he transferred to the University of Georgia and helped lead the Bulldogs to a Southeastern Conference title in 2000. Coach Chris Haack benched him his senior year for reasons neither one talks about.</p>
+
+
+<p>"When I turned pro at the PING and they asked me why (I didn't play at Georgia), I said I can't tell you why but it's not because of my golf," he said. "I proved that because I finished second in two tournaments that my whole team was at and I beat them. I proved by my mini-tour golf. It stung from the aspect of why can't I play. I'm beating these guys.</p>
+<p>"From a personal aspect, it helped me more than it hurt me. I was home so I was able to meet my girlfriend, my wife. I got to practice on my own. Got to refocus and think about how tough life is. Gave me a better drive to practice, because whenever the other guys were home, I wanted to beat them. I wanted to get better and show them when I turned pro. It made me stronger as a golfer, for sure." </p>
+</div>
+<div class="span4 gutter mb20">
+<div class="photo mb10">
+                                <img class="lazy" src="http://www.augusta.com/masters/images/2013/bubba/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/bubba-wife1.png" width="150">
+                            </div>
+<div class="photo-text">
+<p class="caption">Bubba Watson's wife, Angie, played basketball at the University of Georgia when they met.(Special photo)</p>
+</div>
+</div>
+</div>
+
+<div id="doping-timeline" class="row-fluid feature">
+</div>
+
+</div>
+</div>
+<div id="section-3" class="section">
+<div id="image-2" class="header-image posrel stretch-full">
+<div class="text stellar-lazy">
+
+<h2>Figuring it out</h2>
+
+</div>
+                 <img class="image lazy mobile-swap" src="http://www.augusta.com/masters/images/2013/bubba/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/bubba-4b.jpg">
+                </div>
+				<div class="header-caption">
+<div class="photo-text">
+<p class="credit">Photo by Michael Holahan/Staff</p>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="span10 offset2 body">
+<p><span class="drop-cap small">W</span><p>atson is not your typical Bubba from the Florida Panhandle. He doesn't drink, smoke, hunt or fish. He considers himself a "new-age redneck." But he's always liked to make his mark in the crowd.</p>
+
+<p>"My dad told me that Payne Stewart's dad told him if you're not going to be the best you've got to stand out," Watson said.</p>
+
+</div>
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+
+
+
+
+<p>If there was one, Stewart was the young Watson's golfing muse.</p>
+
+<p>Until he was 12 and shot 62 at Tanglewood, Watson wore knickers hand-sewn by his grandmother. His innate sense of style told him it was time to give up the plus-fours as high school approached, so he settled on pink as his signature. While Weekley (best laugh) and Slocum (best smile) were lauded for their warmth in their Milton High senior yearbook, Watson was recognized for the "sharpest sideburns."</p>
+
+<p>What most defined Watson was his unwillingness to be coached. He was just fine paving his own way.</p>
+
+<p>"I think Bubba kind of had a little bit of a chip," Dunn said. "He was determined he was going to figure it out. He had that attitude - you're not on tour so why should I be listening to you. His propensity for not taking advice and doing things his own way, it takes people with that mindset a little bit longer. He was going to figure it out."</p>
+
+</div>
+
+<div class="span4 gutter mb20">
+<div class="photo mb10">
+                                <img class="lazy" src="http://www.augusta.com/masters/images/2013/bubba/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/BubbaWatson-kid2.jpg" width="300">
+                            </div>
+<div class="photo-text">
+<p class="caption">Until he was 12 and shot 62 at Tanglewood, Watson wore knickers hand-sewn by his grandmother. (Special )</p>
+
+</div>
+</div>
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+<p>Cook found indirect ways to introduce ideas to Watson through challenges.</p>
+
+<p>"I listen to a lot of people," Watson insisted. "That doesn't mean I take note. If you ask them they'll say that I throw ideas at them and they agree with it. It's still my creative mind running the show, but they have ideas and inputs."</p>
+
+<p>Though the voices now are different from Cook's, the method of subtle suggestion is still how those closest to Watson operate.</p>
+</div>
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+<p>"We don't walk around and say, 'You need to do this. Why don't you do this? Have you thought about this?'" said Ted Scott, his caddie and friend.</p>
+<p>"That's kind of what a teacher does. A teacher is someone who constantly thinks they know more than you. Bubba, when he gets to where he really wants to know something, he'll actually ask. That's the window that you have where he's ready for my opinion or my take on this. You tell him what you think and he'll take it and use it or take pieces of it or take none of it. He's very good at deciphering information that's useful to him and applying it to his own golf game."</p>
+
+<p>When he got to the tour, Watson's biggest outside influence was <a href="http://www.augusta.com/masters/players/bios/Tiger_Woods.shtml">Tiger Woods</a>. He would get up early just to play practice rounds with the world's No. 1 golfer, studying Woods' every move to find elements that he might fit into his own repertoire.</p>
+
+
+
+<p>"How he swung, how he practiced, how he carried himself - I learned some of the things by watching him," Watson said. "So I've taken things and tweaked things watching other people and what I like."
+The end result is something rare. Before the saturation of swing coaches and video analysis, players such as Lee Trevino and Arnold Palmer used to "own" what today would be considered unconventional swings. Watson is a throwback in that regard.</p>
+</div>
+
+<div class="span4 gutter mb20">
+<div class="photo mb10">
+                                <img class="lazy" src="http://www.augusta.com/masters/images/2013/bubba/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/payne-stewart.jpg" width="300">
+                            </div>
+<div class="photo-text">
+<p class="caption">Payne Stewart (File photo)</p>
+
+</div>
+</div>
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+
+
+<p>"Bubba 'owns' his golf swing," said Jens Beck, Watson's agent. "He has complete faith in it. I don't think anybody is more talented than him. He can hit more shots than anybody. There's a whole brand of shots that only he can hit."</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="section-4" class="section">
+<div id="image-3" class="header-image posrel stretch-full">
+<div class="text stellar-lazy">
+<h2 class="" style="color:#517230;">&lsquo;I'm loving it&rsquo;</h2>
+</p></div>
+<p>                    <img class="image lazy mobile-swap" src="http://www.washingtonpost.com/wp-srv/special/sports/cycling/images/blank.gif" data-original="http://www.washingtonpost.com/wp-srv/special/sports/cycling/images/blank.gif" height="100">
+                </div>
+
+
+<div class="container">
+<div class="row">
+<div class="span10 offset2 body">
+<p><span class="drop-cap small">B</span>y the time Watson reached his ball on 10, the patrons had already created a wide alley around it. The green, however, was not in the picture at the end of the tunnel.
+Watson couldn't have been more thrilled.</p>
+</div>
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+<p>"I look and see there is a path so I can pull the shot off," he said. "I have a free swing. There's no trees messing my swing up. I can hook the ball. I'm known for hooking the ball. In my head I'm loving it."</p>
+<div class="span4 gutter mb20">
+<p class="inline-quote"><span class="start-quote">&ldquo;</span>This is my dream come true. This is my shot to pull off for the ages.</span>&rdquo;</p>
+</div>
+<p>The CBS analysts were describing his plight as though it were terminal. Oosthuizen, who left his own drive at the top of the hill and a long way from the flag, was given the distinct advantage simply for the fact that he could see the green. Watson's chances had been grossly underestimated by almost everyone but him. The pin was only 162 yards away - a 52-degree wedge for someone as powerful as Watson - but 40 yards to the right around a thick wall of oak, pine, magnolia and the specter of the green jacket.</p>
+
+<p>In Watson's mind - perfect.</p>
+
+<p>"Who doesn't want to hit the heroic shot?" he said. "Who doesn't want to hit the 3-pointer to win the game? So this is my 3-pointer to win the game. To me, I'm pacing it. I'm trying not to smile. This is my dream come true. This is my shot to pull off for the ages."</p>
+</div>
+<div class="span4 gutter mb20">
+<div class="photo mb10">
+<video width="488" height="360" controls>
+  <source src="http://brightcove.vo.llnwd.net/pd16/media/1178214233/1178214233_2263715308001_AmazingShot-30fps720.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+                            </div>
+<div class="photo-text">
+<p class="caption">Distance to pin: 162 yards<br />
+Distance to green: 135 yards<br /><br />
+Club: 52 degree gap wedge<br />
+Shot: 40 yard hook<br />
+</p>
+
+</div>
+</div>
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+<p>Down in Florida, the dire commentary is worrying even the most devout Bubba believers, who can't see the full panorama on television.</p>
+
+<p>"I'm not going to lie: I panicked a little," Dezarn said. "Then the way he was looking at it - he's got this. He's hit a thousand shots like this."</p>
+
+<p>Said Dunn: "We were all believing the same thing - he's hit this shot before. He can do it. Every one of us has seen him bend the ball either of the two ways - freakishly - where you wonder how he does that. I've never seen anybody else do it."</p>
+
+<p>Those closest to him believed Watson was better off where he was in the trees than from the same distance in the fairway.</p>
+
+<p>"He has so many options when he's in the middle of the fairway to get the ball to the hole, that sometimes that could be an issue," Scott said. "When he's in the woods he's like,'All right, this is what I have to do.' So there's no second-guessing, no doubt. Just aim it over here and hit a big ol' hook."</p>
+
+<p>Angie Watson, with their newly adopted son, Caleb, falling asleep on her shoulder in Florida, was torn between her belief in Watson's gifts and her faith in the analysts on site.</p>
+
+<p>"There's no question that putting Bubba in a good hook lie with an open swing, he's much more likely to focus on that shot than he was 150 yards dead center in the fairway," she said. "I've seen him pull that shot off millions of times. The problem for me was on TV I couldn't really tell. Nick Faldo was saying he was completely in jail and didn't really have a shot. I couldn't really tell if those trees were in his way. Had I been there and seen the situation, I would have said he could probably do it nine times out of 10."</p>
+
+<p>Watson's own degree of confidence grew when Oosthuizen's long approach came up short of the green.</p>
+
+<p>"I knew how tough that up and down was," Watson said. "So now par might have a chance to win."</p>
+</div>
+<div class="span6 gutter mb20">
+<div class="photo mb10">
+                                <img class="lazy" src="http://www.augusta.com/masters/images/2013/bubba/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/wife-tv2.jpg">
+                            </div>
+<div class="photo-text">
+<p class="caption">Angie Watson, watching from their home in Florida, was torn between her belief in her huband's gifts and her faith in the analysts on site. (Special photo)</p>
+
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+<div id="section-5" class="section">
+<div id="image-6" class="header-image posrel stretch-full">
+<div class="text stellar-lazy">
+
+<h2>Driven to distraction</h2>
+
+</div>
+                 <img class="image lazy mobile-swap" src="http://www.augusta.com/masters/images/2013/bubba/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/distraction2.jpg">
+                </div>
+				<div class="header-caption">
+<div class="photo-text">
+<p class="credit" style="color: #ccc;">Photo by Sara Caldwell / Staff</p>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="span10 offset2 body">
+<p><span class="drop-cap small">D</span>espite all of his undeniable talent, Watson took more time to mature than a Panhandle muscadine wine. Marrying Angie brought a stabilizing influence, but his childlike tendencies often stood out above his prodigious game.</p>
+
+</div>
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+<div class="span4 gutter mb20">
+<p class="inline-quote"><span class="start-quote">&ldquo;</span>Bubba's biggest enemy is not golf, it's distraction.</span>&rdquo;</p>
+</div>
+
+<p>"Those years when I first turned pro and mini tours, I was dominating and had money in my pocket and did immature things," he said. "You're always showing the other pros how much money you have and doing things to impress people. I never drank and never done drugs, so it wasn't any of that stuff. It was like,'You think you can beat me? Well, here's five grand.' Just immature things."</p>
+
+<p>Even his caddie Scott, who came on board at the end of Watson's rookie season on the PGA Tour, heard Watson had a reputation as a jerk who was not well-liked.</p>
+<p>"I've come to realize it's this protective mechanism that Bubba has, that his dad had," Scott told The New York Times. "It's this attitude of,'Until you're in the circle, I'm going to be a little cold to you.' He's a complicated man. He's difficult to get to know. But once you get into his circle, it's hard to get kicked out."</p>
+
+
+<p>Watson's game steadily improved in three seasons on the Nationwide Tour, though he never finished better than runner-up. When he made his PGA Tour debut in 2006 with a headline-stealing fourth place in Hawaii, his power, style and quirky personality made him an immediate sensation.</p>
+
+<p>Whenever he got into contention, though, nerves or emotions or something kept holding him back.</p>
+
+<p>"Bubba's biggest enemy is not golf, it's distraction," Scott said. "He is so aware. He notices everything. He has incredible sense of what's going on around him. So on the golf course, a lot of days that he doesn't play well, it's distraction. That's why when you play for fun he never plays bad. There's no distraction and his natural ability comes out."</p>
+
+<p>On the course, the glacial pace of play on tour got to him. He even had an on-course dustup with Steve Elkington in New Orleans about the Australian moving before Watson finished swinging. When Watson would complain about a marshal moving or fans making noise, Scott would always tell him, "This is what you signed up for on the PGA Tour."</p>
+
+<p>In the process of making a name for himself, Watson often sacrificed his own potential. He claimed not to crave attention, yet he used a hot-pink driver shaft and made sure people were watching before bashing balls over the far side of the range. He embraced social media in a huge way, launching a Twitter campaign with trick-shot videos to try to get onto The Ellen DeGeneres Show (which he did).</p>
+
+<p>His often self-deprecating humor in seemingly ADHD-fueled interview rambles were endearing to many, a turnoff to others. He got himself into public relations hot water by playing the role of ugly American on a 2011 trip to play in France that culminated in a missed cut, complaints of overly permissive gallery behavior and some uninformed quips about local landmarks such as the "big tower" (Eiffel), "the arch in the middle of the road" (Arc de Triomphe) and the "building that starts with an 'L'" (Louvre).</p>
+
+<p>"You don't script Bubba," said Beck, who believes that Watson's "core values" always shine through in the end.</p>
+
+<p>"People have an impression of who he is, whether he's a Bubba or not," Scott said. "That's human nature. Perception is reality. If we have one interaction with a guy on tour, we think we know him:'Oh, that guy's a jerk; he didn't sign my autograph.' Without a doubt people determined who he is, just like every other player."</p>
+
+<p>Watson has a big heart and is determined to give back to kids through organizations such as the First Tee of Northwest Florida, the Ronald McDonald House in Pensacola and his Drive to a Million campaign to benefit assorted other charities. To support his message for kids to stay in school, he went back to UGA in 2008 to finish his degree and mend fences with his old college coach.</p>
+
+<p>"All part of growing up for him and being a bigger man," Angie said. "Sometimes when we know we've made the wrong decisions in life, sometimes the guilt of that is hard to live with. When we make it right, it feels that much more gratifying. Bubba would look back at some of the decisions he made when he was younger, that he didn't make the right decision not getting his diploma at Georgia. For him to go back made everything right."</p>
+
+<p>All Watson needed to do was make things right with himself to unleash his full potential.</p>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div id="section-6" class="section">
+<div id="image-3" class="header-image posrel stretch-full">
+<div class="text stellar-lazy">
+<h2 class="" style="color:#517230;">The Chipotle ultimatum</h2>
+</p></div>
+<p>                    <img class="image lazy mobile-swap" src="http://www.washingtonpost.com/wp-srv/special/sports/cycling/images/blank.gif" data-original="http://www.washingtonpost.com/wp-srv/special/sports/cycling/images/blank.gif" height="240">
+                </div>
+
+
+
+<div class="container">
+<div class="row">
+<div class="span10 offset2 body">
+<p><span class="drop-cap small" style="margin-left:5px;">F</span>our seasons into his pro career, Watson's attitude was wearing thin on others. Scott had grown tired of seeing his boss beat himself up on the golf course, retarding his immense promise.</p>
+
+<p>Watson's head was what he called "cloudy."</p>
+
+
+</p></div>
+</p></div>
+<div class="row">
+<div class="span6 offset2 body">
+<p>"I was just angry and just kind of bitter about golf," Watson said. "Why am I not winning? Why is this? Why is that? Always asking why. I have the talent, but I'm not producing like the other guys. Why is that? Teddy said, 'Because you're always asking why. Just play the game.'"</p>
+
+<p>The off-course Watson, who typically emerged from the scoring tent with a smile ready to have fun, didn't mesh at all with the on-course Watson, who fretted and brooded over every little injustice.</p>
+
+
+<p>"You could totally see why he wasn't successful," Scott said. "It was his mental attitude. He was putting too much pressure on himself and making golf too big in his life. You can't have the weight of the world on your shoulders and play this game well. One of the first things you need is a sound mind to be successful in golf.</p>
+
+<p>"The old adage, one shot at a time, is impossible when you're thinking about what it means. For him, he was way too angry and frustrated over every bad shot and bounce and putting too much energy into the result and not into the process."</p>
+
+<p>The tipping point came at the 2010 U.S. Open Monday qualifier in Columbus, Ohio. Despite a round that included the first hole-in-one of Watson's life, his bitterness over his results and his father's advancing throat cancer got the better of him and he failed to qualify. Stopping for dinner at a Chipotle restaurant before flying home for a two-week break, Scott issued an ultimatum to his boss.</p>
+
+<p>"I can't deal with it anymore," Scott said. "It's like multiple personalities. Why can't you be like this when we play golf? This is the Bubba we all love. I can't stand this other guy on the golf course. It's not who you are. If we're going to be buddies and I'm going to work for you, you've got to change, or I've got to change jobs."</p>
+
+
+<p>It was not a critique that came easy for a caddie who typically avoided confrontation.</p>
+
+<p>"I really thought he was going to fire me, to be honest with you, because I was pretty harsh when we sat there," Scott said. "It was one of the hardest things I've ever done. But I was very honest and truthful with my feelings. After I got done, the first thing he said was, 'You're absolutely right.'"</p>
+
+<p>At home, Angie reinforced Scott's point.</p>
+
+<p>"The timing was right, and it needed to be said," she said. "It was hard for Teddy and I both, because you see the kind of man that he is off the golf course - full of laughter and loves life and loves to influence people's lives in a positive way. But when he got inside the ropes he was beating himself up. He wasn't the same person he was outside the ropes, and Teddy and I both felt like if he carried his personality from outside the ropes to the course, it would make him enjoy the game again.</p>
+
+<p>"Who cares if it makes you play better? It just hurt us both when you care about him so much to see him hurting himself so much on the golf course."</p>
+</div>
+<div class="span4 gutter mb20">
+<div class="photo mb10">
+                                <img class="lazy" src="http://www.washingtonpost.com/wp-srv/special/sports/cycling/images/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/bubba-caddie2.jpg" width="400">
+                            </div>
+							<div class="photo-text">
+<p class="caption">Bubba Watson and caddie Ted Scott walk down the No. 3 fairway during a practice round at the 2012 Masters.(Zach Boyden-Holmes / File)</p>
+</div>
+</div>
+</div>
+
+
+
+<div id="section-7" class="section">
+<div id="image-5" class="header-image posrel stretch-full">
+<div class="text stellar-lazy">
+<h2 class="">Quick turnaround</h2>
+</div>
+                    <img class="image lazy mobile-swap" src="http://www.augusta.com/masters/images/2013/bubba/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/travelers-win2.jpg">
+                </div>
+<div class="header-caption">
+<div class="photo-text">
+<p class="credit" style="color: #999;">Photo by Associated Press</p>
+</p></div>
+</p></div>
+<div class="container">
+<div class="row">
+<div class="span10 offset2 body">
+<p><span class="drop-cap small">T</span>he Watson team regrouped at the Hartford tournament.</p>
+
+<p>"I was really stressed wanting to make Ryder Cup," Watson said. "Nobody knows my dad's been sick, so that's been going on for a year. We had a health scare with my wife. I don't want the media to know. I don't want it to be about my dad. I want (it) to be about me playing good golf."</p>
+
+
+
+</div>
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+
+<p>After showing up at the driving range on Tuesday, Watson didn't really want to be there. He had seen a billboard for a nearby quarry water park and suggested that he, Angie, Scott and trainer Andrew Fischer cut the day short and go check it out and relieve some stress.</p>
+
+<p>"About that time, Ryder Cup captain Corey Pavin comes up to me and invites me to play nine holes." Watson said. "I haven't made the team yet. I'm right around 20th in points."</p>
+
+<p>Instead of taking the chance to make an impression on the captain, Watson lied and said he'd been practicing all day and had to go meet his wife.</p>
+
+<p>"I didn't want to say I'd been practicing 10 minutes," Watson said. "We went to this rock quarry and played for three hours there, jumping off these cliffs. Water was cold, but we had fun."</p>
+
+</div>
+<div class="span4 gutter mb20">
+<div class="photo mb10">
+<video width="480" height="360" controls>
+  <source src="http://brightcove.vo.llnwd.net/pd16/media/1178214233/1178214233_2255390907001_WatsonMaturing.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+                            </div>
+<div class="photo-text">
+<p class="caption">Watson explains how he has matured as a person and a golfer.</p>
+
+</div>
+</div>
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+
+
+<p>The refreshed spirit suited him. Two weeks after his caddie's ultimatum and five days after blowing off Pavin, Watson beat Pavin and Scott Verplank in a playoff for his first tour victory.</p>
+<div class="span4 gutter mb20">
+<p class="inline-quote"><span class="start-quote">&ldquo;</span>I know it's not<br /> just me out there. It just overwhelms me that I did this</span>&rdquo;</p>
+</div>
+<p>"Not a coincidence that success started finding him when attitudes changed a little bit," Dunn said.</p>
+
+<p>Watson tried not to get ahead of himself. "Just because this is my first win doesn't mean we've changed," he said. "This is going to be a long process."</p>
+
+<p>But something had changed. At age 31, Watson finally had the breakthrough victory he'd been chasing for eight years since graduating from the mini tours. All the close calls and the weight of his father's health coalesced into an emotional breakdown after the winning putt dropped.</p>
+
+<p>That emotion has become as much a signature as the pink shafts on his golf clubs.</p>
+
+</div>
+
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+
+<p>"It's about the emotion of knowing where I come from, knowing what an honor it is to play golf for a living and knowing all the people who have helped me in life, knowing all the people who cheer for me even though I don't know who they are," he said of his tradition of crying after big moments, which started when he was handed his first PGA Tour card. "I know it's not just me out there. It just overwhelms me that I did this."</p>
+
+<p>His victory not only opened the floodgates on his tear ducts but also unlocked his full potential on the course. As he worked on controlling his emotions - they now count his moods in seconds instead of weeks - his game took off.</p>
+
+<p>"In every phase of his life, Bubba has always needed a little bit of time to figure things out," his wife said. "Then once he does it, it's look out, world. That's how it was on the Nationwide Tour. Same thing on the PGA Tour. If he sets his mind to something, it takes a little bit of time to do it, but he does it."</p>
+
+
+</div>
+<div class="span4 gutter mb20">
+<div class="photo mb10">
+                                <img class="lazy" src="http://www.augusta.com/masters/images/2013/bubba/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/bubba-ryder-cup.jpg">
+                            </div>
+<div class="photo-text">
+<p class="caption">Bubba Watson hits a drive during the Ryder Cup in 2012. (Associated Press)</p>
+
+</div>
+</div>
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+
+
+<p>Seven weeks after his first win, he lost in a playoff to Martin Kaymer in the PGA Championship at Whistling Straits. Instead of being devastated by the near-miss in a major, Watson was euphoric about securing his place on the American Ryder Cup team in Wales.</p>
+
+<p>"All he thought about that week was what he had to do to get into that top eight because his dad was sick and he knew it would mean so much to his family to see him play the Ryder Cup," Angie said.</p>
+
+<p>Watson flew directly home to Pensacola, Fla., after the narrow, mud-caked American loss in Wales. Nine days later, Gerry Sr. died of throat cancer, surrounded in his final days by his family.</p>
+
+<p>"There was no page left unturned," said Angie, "and he said everything he wanted to say to Bubba about how proud he was."</p>
+
+<p>Watson had finally matured emotionally, and his career blossomed. He won twice in the first half of 2011, at Torrey Pines and New Orleans. The man who never took a formal lesson or played well with teammates had put together a team that brought out his best.</p>
+</div>
+
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+<p>"Mini tour, Nationwide tour, PGA Tour - I've gotten better every year," he said. "I think that's because my life off the golf course has gotten to a really positive place. Where I want to be. It's made my golf that much better. Little things don't bother me.</p>
+
+<p>"So now my wife, my caddie and my trainer - the people I spend the most time with all year - they're all Christians. So they're helping me in life. We're all using each other to get stronger in life. The more mature I got in life, I would see that on the golf course."</p>
+</div>
+
+</div>
+
+
+</div>
+</div>
+
+
+
+
+<div id="section-8" class="section">
+<div id="image-5" class="header-image posrel stretch-full">
+<div class="text stellar-lazy">
+<h2 class="">&lsquo;An unbelievable shot&rsquo;</h2>
+</div>
+                    <img class="image lazy mobile-swap" src="http://www.augusta.com/masters/images/2013/bubba/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/bubba-5b.jpg">
+                </div>
+<div class="header-caption">
+<div class="photo-text">
+<p class="credit" style="color: #ccc;">Photo by Associated Press</p>
+</p></div>
+</p></div>
+<div class="container">
+<div class="row">
+<div class="span10 offset2 body">
+<p><span class="drop-cap small">T</span>his was the moment he trained for since he was 6 and hitting those Wiffle balls. When his caddie dutifully started to question the necessity of the Hail Mary hook, Watson waved him off with an'Oh yeah I can."</p>
+
+
+
+
+
+
+</div>
+</div>
+<div class="row">
+<div class="span5 offset2 body">
+
+<p>"I never once thought about a bad shot," Watson said. "Never thought about the people around me. Never thought about the trees or which way the wind was blowing. I thought about hitting it as hard as I could and hooking it. That's all I thought about."</p>
+
+<p>Scott knew the magic his player was capable of - "I don't get you, dude. You see stuff I don't see." But he also understood the magnitude of the moment. Watson had already pulled off three shots from the trees that week - at 11 on Thursday, 7 on Friday and 17 on Sunday - that had higher degrees of difficulty than this one. Watson saved par each time.</p>
+
+<p>"Of the four that were phenomenal from the woods, that was the easiest one," Scott said. "I don't even think it was that close. Now the circumstance made it very difficult, but the shot itself, if we were playing for fun, I wouldn't bet against him to hit it on the green ever. That's what Bubba does. That's Bubba golf."</p>
+
+
+
+
+</div>
+<div class="span5 gutter mb20">
+<div class="photo mb10">
+<video width="500" height="360" controls>
+  <source src="http://brightcove.vo.llnwd.net/e1/uds/pd/1178214233/1178214233_2176284597001_BubbasAmazingShot-1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+                            </div>
+<div class="photo-text">
+<p class="caption">Watson talks about the shot on No. 10.</p>
+
+</div>
+</div>
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+<p>Watson settled over the ball, closing his feet a little more than usual. He hooded the face of the wedge. He rolled his hands by instinct. And he swung as hard as he could.</p>
+<div class="span4 gutter mb20">
+<p class="inline-quote"><span class="start-quote">&ldquo;</span>That's what Bubba does. That's Bubba golf.</span>&rdquo;</p>
+</div>
+
+<p>"To move the ball left to right or right to left, you've got to have speed," he said. "And if you don't have speed you can't do it."</p>
+
+<p>The ball shot high out of the trees and turned sharp and fast. It hit front-middle of the green and spun even harder right, dancing to within 12 feet of the hole. He emerged from the trees and a mass of screaming fans with "Bub-ba! Bub-ba! Bub-ba!" echoing through the pines.</p>
+
+<p>Watson had delivered on the shot he'd dreamed about - his shot for the ages.</p>
+</div>
+<div class="span4 gutter mb20">
+<div class="photo mb10">
+                                <img class="lazy" src="http://www.augusta.com/masters/images/2013/bubba/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/bubba-wins2.jpg">
+                            </div>
+<div class="photo-text">
+<p class="caption">Watson tapped in his par putt on No. 10 to win the Masters. (Andrew Davis Tucker / Staff)</p>
+
+</div>
+</div>
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+
+
+
+
+<p>"It's amazing to be a part of that round, obviously to my favor," he said. "To hit that shot and pull it off at that moment and hit my 3-pointer at the buzzer is pretty neat."</p>
+
+<p>"Where I stood from when the ball came out, it looked like a curve ball going to the right," Oosthuizen said. "So I knew he had to hit a big hook. But an unbelievable shot."</p>
+
+<p>The shot was so audacious in thought and sublime in execution that six-time Masters winner Jack Nicklaus was moved to gush: "Not only did he play the shot, but he played the shot and ended up with control at the end of the shot, which I thought was the amazing part. That will go down as one of the great shots ever played in the game."</p>
+
+<p>With his earlier double-eagle demoted to second-best of the afternoon, Oosthuizen couldn't muster a scramble. Watson was right about the tough up-and-down, and Oosthuizen's chip didn't check up and rolled to the back fringe. He barely missed his comeback 15-footer for par. Watson tapped in his par putt and broke down in the arms of his caddie and mother.</p>
+
+
+</div>
+<div class="span4 gutter mb20">
+<div class="photo mb10">
+                                <img class="lazy" src="http://www.augusta.com/masters/images/2013/bubba/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/oosthuizen-missed-putt.jpg">
+                            </div>
+<div class="photo-text">
+<p class="caption">Louis Oosthuizen reacts to missing his 15-footer for par on No. 10 during the playoff against Bubba Watson. Watson tapped in his par putt for the win.(Andrew Davis Tucker / Staff)</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+<div id="section-9" class="section">
+<div id="image-5" class="header-image posrel stretch-full">
+<div class="text stellar-lazy">
+<h2 class="">Beyond the dream</h2>
+</div>
+                    <img class="image lazy mobile-swap" src="http://www.augusta.com/masters/images/2013/bubba/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/bubba-greenjacket2.jpg">
+                </div>
+<div class="header-caption">
+<div class="photo-text">
+<p class="credit" style="color: #999;">Photo by Michael Holahan / Staff</p>
+</p></div>
+</p></div>
+<div class="container">
+<div class="row">
+<div class="span10 offset2 body">
+<p><span class="drop-cap small">T</span>he transformation from driven child to Masters champion has been remarkable to those who witnessed it.</p>
+
+<p>"He's done things that people never dreamed he would do," Cook said. "He's proven a lot of people wrong."</p>
+
+
+</div>
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+
+<p>Said Dezarn: "He always had this aura about him, that he was born to do it - no ifs, ands or buts. Watching him become the player he is today and to mature has been quite a spectacle."</p>
+
+<p>Watson wonders what his late father would have said after he brought home the green jacket - and he's sure he knows the answer.</p>
+
+<p>"My dad always had goals," Watson said. "He'd have said, 'Great job. That's awesome. You get to play there every year. But can you win it again?' He'd want me to keep going and not be like the one-hit wonder."</p>
+
+<p>Watson said immediately after winning the playoff that he "never dreamed this far." His dreams always stopped when the last putt dropped. The hectic aftermath of being a Masters champion never dawned on him.</p>
+
+<p>He wants to follow that advice he believes his father would have given.</p>
+
+<p>"The hunger," he said. "Let's just say we've seen guys play bad golf and lose their card and lose whatever. When I say if my career ended today - injury, want to do something else, bad golf, whatever it is - I made it to the tour, won a golf tournament, backed it up, won a major, played on a Ryder Cup team, played on a Presidents Cup team. I think that's a pretty good career. There's a lot of guys who would love that career. If somebody had told me in '01 when I didn't even get to play my senior year at Georgia that this is where I'd be sitting in 2013, I'd be like,'Sign me up.'</p>
+
+
+
+
+
+<p>"Now, that doesn't mean I'm not hungry. I want to win every tournament. Now, after winning a major it made me drive more to win because I want to be in contention every Sunday now. For me it shows I can do it in the big moments, in a stressful situation, the troubled shots, and I want to compete more. The hunger never goes away.</p>
+</div>
+<div class="span4 gutter mb20">
+<div class="photo mb10">
+<a href="http://www.augusta.com/masters/photos/2012-bubba-watson#slide=1">
+                                <img class="lazy" src="http://www.augusta.com/masters/images/2013/bubba/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/bubba-pix.jpg">
+								</a>
+                            </div>
+<div class="photo-text">
+<p class="caption"><strong>PHOTOS OF BUBBA WATSON AT THE MASTERS</strong><br /><br />
+- <a href="www.augusta.com/masters/photos/2012-bubbas-sunday-2012#slide=1"> Bubba's Sunday at the 2012 Masters &raquo;</a><br />
+- <a href="http://admin.augusta.com/masters/photos/2012-green-jacket-ceremony-2012#slide=1">Green Jacket Ceremony &raquo;</a><br />
+- <a href="http://www.augusta.com/masters/photos/2012-bubba-watson#slide=1">All Bubba Watson photos &raquo;</a>
+</p>
+<br />
+<br />
+<table border=0 style="width:300px;">
+<tr>
+<td style="vertical-align:top;width:100px;padding-right:4px;">
+<a href="/masters/players/bios/Bubba_Watson.shtml">
+<img src="/masters/images/players/bios/10814.jpg" width="96" height="129" style="border:2px solid #D1D8BF;" alt""/></a>
+</td>
+<td style="vertical-align:top;width:200px;">
+
+<span style="text-align:center;color:#000;"><strong>Bubba Watson <!--(10814)--></span><br /><br />
+
+
+<a href="/masters/players/bios/Bubba_Watson.shtml">Player Page<br />
+<a href="/masters/players/bios/Bubba_Watson.shtml">Player Photos<br />
+<a href="/masters/players/bios/Bubba_Watson.shtml?tab=record2">Masters Record<br />
+
+
+</td>
+</tr>
+</table>
+<BR><BR>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="span6 offset2 body">
+
+
+
+
+
+
+<p>"But if I do fail, I had a pretty good career. If I don't fail, my career is only going to get better."</p>
+
+<p>After his shot of a lifetime, few would doubt that.</p>
+
+
+
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="span6 offset2 body">
+<div class="photo mb10">
+                               <span class="drop-cap small" style="font-size: 150%;">More on Masters champion Bubba Watson</span>
+
+
+							   <a href="http://www.augusta.com/masters/story/news/bubba-watsons-caddie-says-other-shots-overlooked">
+                                    <img class="lazy" src="http://www.augusta.com/masters/images/2013/bubba/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/bubba-caddie-story.jpg" width="200">
+ </a> <p class="credit"><a href="http://www.augusta.com/masters/story/news/bubba-watsons-caddie-says-other-shots-overlooked"><strong>Caddie says other shots overlooked &raquo;</strong></a></p>
+
+							   <a href="http://www.augusta.com/masters/story/news/bubba-watsons-caddie-says-other-shots-overlooked">
+                                    <img class="lazy" src="http://www.augusta.com/masters/images/2013/bubba/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/bubba-caddie-story.jpg" width="200">
+ </a> <p class="credit"><a href="http://www.augusta.com/masters/story/news/bubba-watsons-caddie-says-other-shots-overlooked"><strong>Caddie says other shots overlooked &raquo;</strong></a></p>
+
+  <img class="lazy" src="http://www.augusta.com/masters/images/2013/bubba/blank.gif" data-original="http://www.augusta.com/masters/images/2013/bubba/bubba-uga-story.jpg" width="200">
+                   </a> <p class="credit"><a href="http://www.augusta.com/masters/story/news/bubba-watson-saw-little-action-georgia-golfer">
+<strong>Bubba Watson saw little action as Georgia golfer  &raquo;</strong></a></p>           
+                                </div>
+
+</div>
+
+
+<div class="span10 offset2 body">
+<div class="photo mb10">
+                               <p class="btt-link hidden-phone"><a href="#"><strong> Back to top</a></strong></p>   
+                                </div>
+
+</div>
+
+
+
+
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="container">
+<ul id="mobile-nav" class="visible-phone">
+<li class="active">
+            <a href="#home">Home</a>
+        </li>
+<li>
+            <a href="#section-1">1</a>
+        </li>
+<li>
+            <a href="#section-2">2</a>
+        </li>
+<li>
+            <a href="#section-3">3</a>
+        </li>
+<li>
+            <a href="#section-4">4</a>
+        </li>
+<li>
+            <a href="#section-5">5</a>
+        </li>
+<li>
+            <a href="#section-6">6</a>
+        </li>
+
+		<li>
+            <a href="#section-7">7</a>
+        </li>
+
+		<li>
+            <a href="#section-8">8</a>
+        </li>
+
+		<li>
+            <a href="#section-9">9</a>
+        </li>
+</ul>
+<div class="container">
+
+
+   <script type="text/javascript" src="http://www.augusta.com/masters/bubba/js/jquery.lazyload.js"></script>
+    <script type="text/javascript" src="http://www.augusta.com/masters/bubba/js/icanhaz.min.js"></script>
+   
+  
+    <script type="text/javascript" src="http://www.augusta.com/masters/bubba/js/modernizr.js"></script>
+    <script type="text/javascript" src="http://www.augusta.com/masters/bubba/js/bubba.min.js"></script>
+
+
+
+<div class="wpfooter visible-phone">
+    <div class="pagination-centered">
+        <p><small>&copy; Copyright 2013 The Augusta Chronicle</small></p>
+    </div>
+</div>
+
+</body>
+</html>

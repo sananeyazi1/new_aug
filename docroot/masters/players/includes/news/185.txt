@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/late-billy-casper-minds-many-champions-dinner">Late Billy Casper on the minds of many at Champions Dinner</a></h3>
+<div class="player-story-date">Posted: 04/08/15</div>
+<div class="player-story-digest"> A pair of Masters Tournament champions were absent from Tuesday&rsquo;s Champions Dinner &ndash; Jack Burke Jr. and Ian Woosnam. Sandy Lyle said Woosnam was suffering from a stomach bug, while Ben Crenshaw said it was &ldquo;just too tough&rdquo; for 92-year-old ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040107/mas_122229.shtml">Woosnam has always had to fight</a></h3>
+<div class="player-story-date">Posted: 04/01/07</div>
+<div class="player-story-digest">LLANYMYNECH, Wales - In the Trophy Room at Augusta National Golf Club is the 4-wood Gene Sarazen used to score the double eagle that made the Masters Tournament famous in 1935.</div>
+</div>

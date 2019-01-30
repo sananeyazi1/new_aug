@@ -1,0 +1,15 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/soren-kjeldsen-invited-back-masters-after-strong-run">Soren Kjeldsen invited back to Masters after strong run</a></h3>
+<div class="player-story-date">Posted: 04/11/16</div>
+<div class="player-story-digest">  Competing in his first Masters Tournament since 2010, Soren Kjeldsen shot a final-round 71 and finished tied for seventh. The 40-year-old from Den&shy;mark will receive an automatic invitation to next year&rsquo;s Masters. Kjeldsen was in contention Sunday after opening ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/soren-kjeldsen-invited-back-masters-after-strong-run">Soren Kjeldsen invited back to Masters after strong run</a></h3>
+<div class="player-story-date">Posted: 04/11/16</div>
+<div class="player-story-digest">  Competing in his first Masters Tournament since 2010, Soren Kjeldsen shot a final-round 71 and finished tied for seventh. The 40-year-old from Den&shy;mark will receive an automatic invitation to next year&rsquo;s Masters. Kjeldsen was in contention Sunday after opening ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/kjeldsen-considers-week-success-regardless-sundays-results">Kjeldsen considers week a success regardless of Sunday&#039;s results</a></h3>
+<div class="player-story-date">Posted: 04/10/16</div>
+<div class="player-story-digest"> Soren Kjeldsen is in position for the best Masters Tournament finish of his career, but he already sees it as a successful week despite one more round to go. Kjeldsen posted 2-over-par 74 in the third round Saturday and enters ...</div>
+</div>

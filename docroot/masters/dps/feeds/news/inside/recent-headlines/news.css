@@ -1,0 +1,36 @@
+h1 {
+font-size: xx-large;
+font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+line-height: 26px;
+font-weight: bold;
+color: #000;
+}
+a.no_link { cursor:default; }
+
+.posted-date {
+font-family: verdana,helvetica,arial,sans-serif;
+font-size: x-small;
+color: #666;
+}
+
+.news-body p {
+font-family: Monaco, Consolas, "Lucida Console", monospace; !important;
+font-size: large;
+color: #000;
+font-weight: 500;
+}
+
+p {
+font-family: Monaco, Consolas, "Lucida Console", monospace; !important;
+font-size: large !important;
+color: #000 !important;
+font-weight: 500;
+}
+
+.news-body div {
+font-family: Monaco, Consolas, "Lucida Console", monospace; !important;
+font-size: large !important;
+color: #000 !important;
+padding-bottom:15px;
+font-weight: 500;
+}

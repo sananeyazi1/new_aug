@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/jonas-blixt-proves-be-quick-study-masters">Jonas Blixt proves to be quick study at Masters</a></h3>
+<div class="player-story-date">Posted: 04/11/15</div>
+<div class="player-story-digest"> Much has been made about Jordan Spieth&rsquo;s short learning curve at Augusta National Golf Club. Jonas Blixt seems to have made nearly as much progress in the same amount of time. Blixt, a two-time PGA Tour winner, shot his second ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/masters-patron-has-been-close-golfers">Masters patron has been close to golfers before</a></h3>
+<div class="player-story-date">Posted: 04/06/15</div>
+<div class="player-story-digest">  Ted Mortell was hoping Jonas Blixt&rsquo;s errant tee shot hit him Monday when the gallery guards shouted &ldquo;fore right&rdquo; on No. 2 during the first day of practice rounds at the Masters Tournament. Mortell, 50, figured the Swede might ...</div>
+</div>

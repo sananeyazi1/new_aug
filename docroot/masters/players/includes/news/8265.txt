@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/latest-news/players-unfazed-changes-masters-qualifications">Players unfazed by changes in Masters qualifications</a></h3>
+<div class="player-story-date">Posted: 04/11/13</div>
+<div class="player-story-digest"> Qualifying for the Masters Tournament just got harder. Making the cut just got a little easier. Masters Chairman Billy Payne announced changes Wednesday in qualifying criteria for the major to reflect revamping of the PGA Tour schedule for 2013-14. The ...</div>
+</div>

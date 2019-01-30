@@ -1,0 +1,15 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2009/04/12/mas_520234.shtml">Shingo the Showman: Japanese star charms Augusta</a></h3>
+<div class="player-story-date">Posted: 04/12/09</div>
+<div class="player-story-digest">Shingo Katayama is still quite the showman.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2009/04/12/mas_520180.shtml">Katayama birdies his way back into game</a></h3>
+<div class="player-story-date">Posted: 04/12/09</div>
+<div class="player-story-digest">In his eighth Masters Tournament, Shingo Katayama finally found a way to get into contention heading into today.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2009/04/10/mas_518007.shtml">Birdies bookend Katayama's round</a></h3>
+<div class="player-story-date">Posted: 04/10/09</div>
+<div class="player-story-digest">With both feet planted in pine straw, Shingo Katayama gripped his 7-wood and aimed for the 18th green.</div>
+</div>

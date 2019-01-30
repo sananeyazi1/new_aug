@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/ryan-moore-wins-john-deere-classic-5th-pga-tour-title">Ryan Moore wins John Deere Classic for 5th PGA Tour title</a></h3>
+<div class="player-story-date">Posted: 08/15/16</div>
+<div class="player-story-digest"> read more ...</div>
+</div>

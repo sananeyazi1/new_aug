@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/justin-rose-captures-zurich-classic">Justin Rose captures Zurich Classic</a></h3>
+<div class="player-story-date">Posted: 04/27/15</div>
+<div class="player-story-digest">  AVONDALE, La. &mdash; Whatever derailed Justin Rose&rsquo;s game appears long gone now. Sensing he needed to birdie the final two holes to keep the lead, Rose pulled it off with aggressive swings and clutch putts for a one-stroke victory ...</div>
+</div>

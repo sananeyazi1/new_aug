@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2009/04/12/mas_520083.shtml">Imada holds even course</a></h3>
+<div class="player-story-date">Posted: 04/12/09</div>
+<div class="player-story-digest">When Ryuji Imada rolled in a par putt on Augusta National's 16th hole Saturday, a fellow Georgia Bulldog in the crowd let loose a mighty "Go, Dogs!"</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2009/04/11/mas_520054.shtml">Rookie Imada repeats even-par round</a></h3>
+<div class="player-story-date">Posted: 04/11/09</div>
+<div class="player-story-digest">When Ryuji Imada rolled in a par putt on Augusta National's 16th hole on Saturday, a fellow Georgia Bulldog in the crowd let loose a mighty "Go Dawgs!"</div>
+</div>

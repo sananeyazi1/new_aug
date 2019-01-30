@@ -1,0 +1,20 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/latest-news/matsuyama-leads-trio-masters-amateur">Matsuyama leads trio of Masters amateur</a></h3>
+<div class="player-story-date">Posted: 04/07/12</div>
+<div class="player-story-digest"> Today is the final round of Kelly Kraft&rsquo;s first Masters Tournament. And that&rsquo;s not the only milestone. &ldquo;Tomorrow is my last round of amateur golf,&rdquo; Kraft said Saturday after completing his third round at Augusta National Golf Club. &ldquo;Pretty cool, ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/masters/cantlay-matsuyama-lead-amateurs-masters">Cantlay, Matsuyama lead amateurs at Masters</a></h3>
+<div class="player-story-date">Posted: 04/06/12</div>
+<div class="player-story-digest"> None of the six amateurs in the Masters Tournament said he expected flashes of greatness this week, yet nearly all of them held their own against the pros in Thursday&rsquo;s opening round. Patrick Cantlay and Hideki Matsuyama led the way ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/latest-news/harrington-byrd-win-storm-shortened-par-3-contest">Harrington, Byrd win storm-shortened Par-3 Contest</a></h3>
+<div class="player-story-date">Posted: 04/05/12</div>
+<div class="player-story-digest"> The Par-3 Contest has a new curse: bad weather. No Par-3 winner has ever won the Masters Tournament in the same year. On Wednesday,  a steamy afternoon turned into dark skies and lightning at 3 p.m., then rain just ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/latest-news/woods-jimenez-and-bae-among-featured-masters-groups">Woods, Jimenez and Bae among featured Masters groups</a></h3>
+<div class="player-story-date">Posted: 04/03/12</div>
+<div class="player-story-digest"> The 76th Masters Tournament kicks off Thursday with several featured groupings. Honorary starters Jack Nicklaus, Arnold Palmer and Gary Player hit their ceremonial tee shots at 7:40 a.m. Defending Masters champion Charl Schwartzel goes off with reigning PGA Champion Keegan ...</div>
+</div>

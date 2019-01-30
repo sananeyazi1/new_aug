@@ -1,0 +1,69 @@
+id: de7_sponsored
+label: sponsored
+migration_tags:
+  - Drupal 7
+deriver: Drupal\node\Plugin\migrate\D7NodeDeriver
+migration_group: de7
+source:
+  plugin: d7_node
+  node_type: sponsored
+process:
+#  nid and vid commented out will allow them to autoincrement. Safe as long
+#    as nothing else is referencing them.
+  nid: nid
+  vid: vid
+  type:
+    plugin: default_value
+    default_value: sponsored
+  langcode:
+    plugin: default_value
+    source: language
+    default_value: "und"
+  title: title
+  path: path
+  metatags: metatags
+  rabbit_hole: rabbit_hole
+  redirect: redirect
+  xmlsitemap: xmlsitemap
+  uid: node_uid
+  status: status
+  created: created
+  changed: changed
+  promote: promote
+  sticky: sticky
+  body/format:
+    plugin: default_value
+    default_value: html/formatted
+  body/value: body
+  revision_uid: revision_uid
+  revision_log: log
+  revision_timestamp: timestamp
+  field_sponsored_subheadline: field_sponsored_subheadline
+  field_sponsored_front_headline: field_sponsored_front_headline
+  field_sponsor_logo: field_sponsor_logo
+  field_logo_url: field_logo_url
+  field_business_name: field_business_name
+  field_sponsored_sponsored: field_sponsored_sponsored
+  field_sponsored_byline: field_sponsored_byline
+  field_sponsored_body: field_sponsored_body
+  field_sponsored_photos: field_sponsored_photos
+  field_sponsored_photos_lead: field_sponsored_photos_lead
+  field_sponsored_videos_embedded: field_sponsored_videos_embedded
+  field_sponsored_embedded: field_sponsored_embedded
+  field_tags: field_tags
+  group_deprecated: group_deprecated
+  field_sponsored_breaking_news: field_sponsored_breaking_news
+  field_sponsored_news_alert: field_sponsored_news_alert
+  field_sponsored_videos: field_sponsored_videos
+  field_sponsored_breakout: field_sponsored_breakout
+  field_sponsored_links: field_sponsored_links
+  field_sponsored_related_sp: field_sponsored_related_sp
+  field_sponsored_files: field_sponsored_files
+  field_sponsored_pub_id: field_sponsored_pub_id
+  field_authors: field_authors
+  field_sponsored_content_include: field_sponsored_content_include
+  field_sponsored_ci_insert: field_sponsored_ci_insert
+  
+destination:
+  plugin: entity:node
+migration_dependencies: {}

@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/nicolas-colsaerts-makes-move">Nicolas Colsaerts makes move</a></h3>
+<div class="player-story-date">Posted: 03/18/13</div>
+<div class="player-story-digest">  Nicolas Colsaerts&rsquo; face lights up at the mention of Augusta National Golf Club. A coming-of-age sensation at 30, his enthusiasm will not be surpassed by any of the younger Masters Tournament rookies in the field.     ...</div>
+</div>

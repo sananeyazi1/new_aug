@@ -1,0 +1,5 @@
+name: Slideshow Field
+type: module
+description: Parses xml feeds into slide shows.
+package: MSMS
+core: 8.x

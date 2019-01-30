@@ -1,0 +1,15 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040808/mas_194028.shtml">Michaux: Wagner comes out of Shell with joy for Masters</a></h3>
+<div class="player-story-date">Posted: 04/08/08</div>
+<div class="player-story-digest">The greatest change the Masters Tournament has made in many years was on display Sunday -- in Houston, of all places.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040708/mas_193929.shtml">Wagner's 1st tour win sends him to Augusta</a></h3>
+<div class="player-story-date">Posted: 04/07/08</div>
+<div class="player-story-digest">HUMBLE, Texas --- Johnson Wagner was watching highlights from the 2002 Masters Tournament late Saturday, and his wife scolded him for it.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040608/mas_193890.shtml">Wagner qualifies for Masters Tournament</a></h3>
+<div class="player-story-date">Posted: 04/06/08</div>
+<div class="player-story-digest">Humble, Texas - Johnson Wagner got his first PGA Tour victory Sunday at the Houston Open. With the win, he earned his first invitation to the Masters Tournament.</div>
+</div>

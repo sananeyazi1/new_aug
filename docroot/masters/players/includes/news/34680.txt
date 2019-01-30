@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/romain-langasque-becomes-first-french-amateur-make-masters-cut">Romain Langasque becomes first French amateur to make Masters cut</a></h3>
+<div class="player-story-date">Posted: 04/08/16</div>
+<div class="player-story-digest"> Romain Langasque was introduced to golf at age 2, when his dad let him toss balls underhanded to get a feel for the greens at a club in his native France. On Friday, Langasque got his round rolling with a ...</div>
+</div>

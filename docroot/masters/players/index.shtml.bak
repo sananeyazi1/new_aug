@@ -1,0 +1,703 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html  prefix="og: http://ogp.me/ns#">
+  <head>
+  
+<script type="text/javascript">
+var zz_ccc = 'Test';
+var zz_omnipagename = 'Players: Index';
+var zz_omnichannel = 'Sports';
+var zz_omniserver = 'Augusta.com';
+var zz_breadcrumbs = '<a href="/masters/players/index.shtml">Players</a>';
+var zz_pagetitle = '2012 Masters Invitees';
+document.title = 'Players | The Masters';
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script type="text/javascript" src="http://use.typekit.com/jvy6nna.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/all/themes/masters/favicon.ico" type="image/x-icon" />
+
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/quicktabs/css/quicktabs.css?3" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/masters/css/reset.css?3" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/masters/css/masters.css?3" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/masters/css/wrapper.css?3" />
+<script type="text/javascript" src="/sites/all/modules/jquery_update/replace/jquery.min.js?3"></script>
+<script type="text/javascript" src="/misc/drupal.js?3"></script>
+<script type="text/javascript" src="/sites/all/themes/masters/js/jquery1.7.min.js?3"></script>
+<script type="text/javascript" src="/sites/all/themes/masters/js/jquery-ui-1.8.17.custom.min.js"></script>
+<script type="text/javascript" src="/sites/all/themes/masters/js/jquery.masonry.min.js?3"></script>
+<script type="text/javascript" src="/sites/all/themes/masters/js/slides.min.jquery.js?3"></script>
+<script type="text/javascript" src="/sites/all/themes/masters/js/jquery.innerfade.js?3"></script>
+
+<script type="text/javascript" src="/sites/all/themes/masters/js/scripts.js?3"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "quicktabs": { "qt_homepage_tabs": { "tabs": [ 0, 0, 0 ] } } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+yld_mgr = {};
+yld_mgr.pub_id="21314452344";
+yld_mgr.site_name="Augusta Chronicle";
+yld_mgr.request_type="ac";
+yld_mgr.container_type="js";
+yld_mgr.content_topic_id_list = [];
+yld_mgr.cstm_sctn_list = [];
+yld_mgr.slots = {};
+yld_mgr.slots.Top = {};
+yld_mgr.slots.Top.ad_size_list = ['728x90'];
+yld_mgr.slots.Top.ad_delivery_mode = ['ipatf'];
+yld_mgr.slots.Top.cstm_content_cat_list = [];
+yld_mgr.slots.Top.content_type_list = [zz_ccc];
+yld_mgr.slots.Right = {};
+yld_mgr.slots.Right.ad_size_list = ['300x250'];
+yld_mgr.slots.Right.ad_delivery_mode = ['ipatf'];
+yld_mgr.slots.Right.cstm_content_cat_list = [];
+yld_mgr.slots.Right.content_type_list = [zz_ccc];
+yld_mgr.slots.Leaders = {};
+yld_mgr.slots.Leaders.ad_size_list = ['160x17'];
+yld_mgr.slots.Leaders.ad_delivery_mode = ['ipatf'];
+yld_mgr.slots.Leaders.cstm_content_cat_list = [];
+yld_mgr.slots.Leaders.content_type_list = [zz_ccc];
+yld_mgr.cstm_sctn_list.push('Article');
+if (yld_mgr.content_topic_id_list.length == 0) {
+	yld_mgr.content_topic_id_list.push('20275001');
+}
+function apt_AD(pos) { yld_mgr.place_ad_here(pos); }
+document.write('<scr' + 'ipt type="text/javascript" src="http://e.yieldmanager.net/script.js"></scr' + 'ipt>');
+
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var omni_account = "mdwaugusta"
+var omni_filters = ""
+
+//--><!]]>
+</script>
+    
+    <link rel="stylesheet" media="all and (min-width: 748px) and (max-width: 977px)" href="/sites/all/themes/masters/css/748.css">
+    <link rel="stylesheet" media="all and (min-width: 0px) and (max-width: 747px)" href="/sites/all/themes/masters/css/300.css">
+    <!--[if lt IE 8]>
+      <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/masters/css/ie7.css" /> 
+    <![endif]-->
+<link type="text/css" rel="stylesheet" media="all" href="/masters/includes/styles/players.css" />
+	</head>
+  <body class="page-node node-type-page no-sidebars node-level ">
+<div id="outer-container">
+<div id="inner-container" class="layout-978">
+ <div class="row header">
+    <div class="col8">
+
+      <div class="header-info">
+        <div class="header-info-inner">
+          <div class="dates">April 2-8<span>2012</span></div>
+        </div>
+        <div class="share-icons addthis_toolbox">
+          <script type="text/javascript">
+            var addthis_config = {
+              pubid: 'morrisdigitalworks',
+              ui_use_css:true
+            };
+            addthis.button('.addthis_button_facebook');
+          </script>
+          <a class="addthis_button_facebook fb" style="text-decoration:none">FB</a>
+
+          <a class="addthis_button_twitter twitter" style="text-decoration:none">Twitter</a>
+          <a class="addthis_button_share share" style="text-decoration:none">Share</a>
+          
+        </div>
+        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
+      </div>
+      <div class="logo"><a href="/"><img src="/sites/all/themes/masters/logo.png" /></a></div>
+      <div class="logo-text">2012 coverage by <a href="http://chronicle.augusta.com">The Augusta Chronicle</a></div>
+
+            <div class="navigation">
+          <div id="block-menu-primary-links" class="block block-menu">
+
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/" title="">Home</a></li>
+<li class="leaf"><a href="/masters/news" title="">News</a></li>
+<li class="leaf"><a href="/masters/leaderboard" title="">Leaderboard</a></li>
+<li class="leaf"><a href="/masters/coursetour/hole1" title="">Course</a></li>
+<li class="leaf"><a href="/masters/photos" title="">Photos</a></li>
+
+<li class="leaf"><a href="/masters/players/index.shtml" title="">Players</a></li>
+<li class="leaf"><a href="/masters/history" title="">History</a></li>
+<li class="leaf"><a href="/masters/augustaguide" title="">Augusta</a></li>
+<li class="leaf last"><a href="/masters/shop" title="">Shop</a></li>
+</ul>  </div>
+</div>
+      </div>
+      <div class="navigation-drop"></div>
+          </div>
+
+   
+    <div class="col4 top-col2">
+      <div class="leaderboard-header">
+        <a href="/masters/leaderboard" class="tabbed">2011 winners</a>
+        <div class="leaderboard-sponsor">
+          <script type="text/javascript">
+            apt_AD('Leaders');
+          </script>
+        </div>
+      </div>
+      <div class="leaderboard">
+
+        <table id="top-leaders">
+          <tbody>
+          <tr>
+            <th class="col-pos">Pos</th>
+            <th class="col-name">Name</th>
+            <th class="col-tot">Tot</th>
+            <th class="col-thru">Thru</th>
+
+            <th class="col-rd">R4</th>
+          </tr>
+          </tbody>
+        </table>
+        <a href="#" class="link-leaderboard">Full Leaderboard</a>
+      </div>
+    </div>
+    <div class="row-end">&nbsp;</div>
+
+ </div> <!--//.header-->
+    <div id="ads-north" class="row">
+        <div class="col9 ads-north-col1">
+        <div id="block-apt_plugin-Top" class="block block-apt_plugin">
+
+  <div class="content">
+    <script type="text/javascript">apt_AD('Top');</script>  </div>
+</div>
+
+    </div>
+            <div class="col3 ads-north-col2">
+        <div class="block block-panels_mini" id="block-panels_mini-promo_app_ad">
+
+  <div class="content">
+    <div id="mini-panel-promo_app_ad" class="panel-display panel-1col clear-block">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-custom pane-1">
+  
+  
+  
+  <div class="pane-content">
+    <div class="masters-app">
+  <a href="/masters/apps"><img src="/sites/all/themes/masters/images/sprite.png" class="square-icon" alt="Download our Masters App"></a>
+  <div class="augusta-app-text">
+    <a class="augusta-app-head" href="/masters/apps">Get the App!</a>
+    <p class="augusta-app-deck">Available for iPad, iPhone and Android</p>
+    <a class="download-btn" href="/masters/apps"><img src="/sites/all/themes/masters/images/sprite.png" alt="Download Masters App"></a>
+  </div>
+</div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+</div>
+    </div>
+
+        <div class="row-end">&nbsp;</div>
+  </div> <!--//#ads-north-->
+ 
+    <div id="content-container" class="row">
+    <div class="content col8">
+      <div class="breadcrumbs">
+        <div class="breadcrumb">
+          <script type="text/javascript">document.write(zz_breadcrumbs);</script>
+        </div>
+      </div>                  
+      <h1 class="page-title"><script type="text/javascript">document.write(zz_pagetitle);</script></h1>
+    <div id="node" class="node">
+      <div class="content clear-block">
+<!-- CONTENT STARTS HERE -->
+
+
+
+<div style="float: left;width: 50%;">
+
+<ul>
+
+
+<li><a href="/masters/players/bios/Aaron_Baddeley.shtml">Baddeley, Aaron</a></li>
+			
+
+<li><a href="/masters/players/bios/Sang-Moon_Bae.shtml">Bae, Sang-Moon</a></li>
+			
+
+<li><a href="/masters/players/bios/Thomas_Bjorn.shtml">Bjorn, Thomas</a></li>
+			
+
+<li><a href="/masters/players/bios/Keegan_Bradley.shtml">Bradley, Keegan</a></li>
+			
+
+<li><a href="/masters/players/bios/Jonathan_Byrd.shtml">Byrd, Jonathan</a></li>
+			
+
+<li><a href="/masters/players/bios/Angel_Cabrera.shtml">Cabrera, Angel</a></li>
+			
+
+<li><a href="/masters/players/bios/Patrick_Cantlay.shtml">Cantlay, Patrick</a></li>
+			
+
+<li><a href="/masters/players/bios/Paul_Casey.shtml">Casey, Paul</a></li>
+			
+
+<li><a href="/masters/players/bios/Kevin_Chappell.shtml">Chappell, Kevin</a></li>
+			
+
+<li><a href="/masters/players/bios/K.J._Choi.shtml">Choi, K.J.</a></li>
+			
+
+<li><a href="/masters/players/bios/Stewart_Cink.shtml">Cink, Stewart</a></li>
+			
+
+<li><a href="/masters/players/bios/Tim_Clark.shtml">Clark, Tim</a></li>
+			
+
+<li><a href="/masters/players/bios/Darren_Clarke.shtml">Clarke, Darren</a></li>
+			
+
+<li><a href="/masters/players/bios/Fred_Couples.shtml">Couples, Fred</a></li>
+			
+
+<li><a href="/masters/players/bios/Ben_Crenshaw.shtml">Crenshaw, Ben</a></li>
+			
+
+<li><a href="/masters/players/bios/Jason_Day.shtml">Day, Jason</a></li>
+			
+
+<li><a href="/masters/players/bios/Luke_Donald.shtml">Donald, Luke</a></li>
+			
+
+<li><a href="/masters/players/bios/Jason_Dufner.shtml">Dufner, Jason</a></li>
+			
+
+<li><a href="/masters/players/bios/Simon_Dyson.shtml">Dyson, Simon</a></li>
+			
+
+<li><a href="/masters/players/bios/Gonzalo_Fernandez-Castano.shtml">Fernandez-Castano, Gonzalo</a></li>
+			
+
+<li><a href="/masters/players/bios/Ross_Fisher.shtml">Fisher, Ross</a></li>
+			
+
+<li><a href="/masters/players/bios/Rickie_Fowler.shtml">Fowler, Rickie</a></li>
+			
+
+<li><a href="/masters/players/bios/Harrison_Frazar.shtml">Frazar, Harrison</a></li>
+			
+
+<li><a href="/masters/players/bios/Jim_Furyk.shtml">Furyk, Jim</a></li>
+			
+
+<li><a href="/masters/players/bios/Sergio_Garcia.shtml">Garcia, Sergio</a></li>
+			
+
+<li><a href="/masters/players/bios/Robert_Garrigus.shtml">Garrigus, Robert</a></li>
+			
+
+<li><a href="/masters/players/bios/Lucas_Glover.shtml">Glover, Lucas</a></li>
+			
+
+<li><a href="/masters/players/bios/Bill_Haas.shtml">Haas, Bill</a></li>
+			
+
+<li><a href="/masters/players/bios/Anders_Hansen.shtml">Hansen, Anders</a></li>
+			
+
+<li><a href="/masters/players/bios/Peter_Hanson.shtml">Hanson, Peter</a></li>
+			
+
+<li><a href="/masters/players/bios/Padraig_Harrington.shtml">Harrington, Padraig</a></li>
+			
+
+<li><a href="/masters/players/bios/Charles_Howell.shtml">Howell, Charles</a></li>
+			
+
+<li><a href="/masters/players/bios/Trevor_Immelman.shtml">Immelman, Trevor</a></li>
+			
+
+<li><a href="/masters/players/bios/Fredrik_Jacobson.shtml">Jacobson, Fredrik</a></li>
+			
+
+<li><a href="/masters/players/bios/Miguel-Angel_Jimenez.shtml">Jimenez, Miguel-Angel</a></li>
+			
+
+<li><a href="/masters/players/bios/Zach_Johnson.shtml">Johnson, Zach</a></li>
+			
+
+<li><a href="/masters/players/bios/Dustin_Johnson.shtml">Johnson, Dustin</a></li>
+			
+
+<li><a href="/masters/players/bios/Robert_Karlsson.shtml">Karlsson, Robert</a></li>
+			
+
+<li><a href="/masters/players/bios/Martin_Kaymer.shtml">Kaymer, Martin</a></li>
+			
+
+<li><a href="/masters/players/bios/Kyung-Tae_Kim.shtml">Kim, Kyung-Tae</a></li>
+			
+
+<li><a href="/masters/players/bios/Kelly_Kraft.shtml">Kraft, Kelly</a></li>
+			
+
+<li><a href="/masters/players/bios/Matt_Kuchar.shtml">Kuchar, Matt</a></li>
+			
+
+<li><a href="/masters/players/bios/Martin_Laird.shtml">Laird, Martin</a></li>
+			
+
+<li><a href="/masters/players/bios/Bernhard_Langer.shtml">Langer, Bernhard</a></li>
+			
+
+<li><a href="/masters/players/bios/Randal_Lewis.shtml">Lewis, Randal</a></li>
+			
+
+<li><a href="/masters/players/bios/Sandy_Lyle.shtml">Lyle, Sandy</a></li>
+			
+
+<li><a href="/masters/players/bios/Bryden_Macpherson.shtml">Macpherson, Bryden</a></li>
+			
+  </ul></div>
+  <div style="display:inline; width: 50%;">
+  <ul>
+
+<li><a href="/masters/players/bios/Hunter_Mahan.shtml">Mahan, Hunter</a></li>
+			
+
+<li><a href="/masters/players/bios/Hideki_Matsuyama.shtml">Matsuyama, Hideki</a></li>
+			
+
+<li><a href="/masters/players/bios/Graeme_McDowell.shtml">McDowell, Graeme</a></li>
+			
+
+<li><a href="/masters/players/bios/Rory_McIlroy.shtml">McIlroy, Rory</a></li>
+			
+
+<li><a href="/masters/players/bios/Phil_Mickelson.shtml">Mickelson, Phil</a></li>
+			
+
+<li><a href="/masters/players/bios/Corbin_Mills.shtml">Mills, Corbin</a></li>
+			
+
+<li><a href="/masters/players/bios/Larry_Mize.shtml">Mize, Larry</a></li>
+			
+
+<li><a href="/masters/players/bios/Edoardo_Molinari.shtml">Molinari, Edoardo</a></li>
+			
+
+<li><a href="/masters/players/bios/Francesco_Molinari.shtml">Molinari, Francesco</a></li>
+			
+
+<li><a href="/masters/players/bios/Kevin_Na.shtml">Na, Kevin</a></li>
+			
+
+<li><a href="/masters/players/bios/Sean_O'Hair.shtml">O'Hair, Sean</a></li>
+			
+
+<li><a href="/masters/players/bios/Mark_O'Meara.shtml">O'Meara, Mark</a></li>
+			
+
+<li><a href="/masters/players/bios/Geoff_Ogilvy.shtml">Ogilvy, Geoff</a></li>
+			
+
+<li><a href="/masters/players/bios/Jose-Maria_Olazabal.shtml">Olazabal, Jose-Maria</a></li>
+			
+
+<li><a href="/masters/players/bios/Louis_Oosthuizen.shtml">Oosthuizen, Louis</a></li>
+			
+
+<li><a href="/masters/players/bios/Ryan_Palmer.shtml">Palmer, Ryan</a></li>
+			
+
+<li><a href="/masters/players/bios/Ian_Poulter.shtml">Poulter, Ian</a></li>
+			
+
+<li><a href="/masters/players/bios/Alvaro_Quiros.shtml">Quiros, Alvaro</a></li>
+			
+
+<li><a href="/masters/players/bios/Chez_Reavie.shtml">Reavie, Chez</a></li>
+			
+
+<li><a href="/masters/players/bios/Justin_Rose.shtml">Rose, Justin</a></li>
+			
+
+<li><a href="/masters/players/bios/Rory_Sabbatini.shtml">Sabbatini, Rory</a></li>
+			
+
+<li><a href="/masters/players/bios/Charl_Schwartzel.shtml">Schwartzel, Charl</a></li>
+			
+
+<li><a href="/masters/players/bios/Adam_Scott.shtml">Scott, Adam</a></li>
+			
+
+<li><a href="/masters/players/bios/John_Senden.shtml">Senden, John</a></li>
+			
+
+<li><a href="/masters/players/bios/Webb_Simpson.shtml">Simpson, Webb</a></li>
+			
+
+<li><a href="/masters/players/bios/Vijay_Singh.shtml">Singh, Vijay</a></li>
+			
+
+<li><a href="/masters/players/bios/Brandt_Snedeker.shtml">Snedeker, Brandt</a></li>
+			
+
+<li><a href="/masters/players/bios/Craig_Stadler.shtml">Stadler, Craig</a></li>
+			
+
+<li><a href="/masters/players/bios/Scott_Stallings.shtml">Stallings, Scott</a></li>
+			
+
+<li><a href="/masters/players/bios/Kyle_Stanley.shtml">Stanley, Kyle</a></li>
+			
+
+<li><a href="/masters/players/bios/Brendan_Steele.shtml">Steele, Brendan</a></li>
+			
+
+<li><a href="/masters/players/bios/Henrik_Stenson.shtml">Stenson, Henrik</a></li>
+			
+
+<li><a href="/masters/players/bios/Steve_Stricker.shtml">Stricker, Steve</a></li>
+			
+
+<li><a href="/masters/players/bios/David_Toms.shtml">Toms, David</a></li>
+			
+
+<li><a href="/masters/players/bios/Bo_VanPelt.shtml">VanPelt, Bo</a></li>
+			
+
+<li><a href="/masters/players/bios/Scott_Verplank.shtml">Verplank, Scott</a></li>
+			
+
+<li><a href="/masters/players/bios/Johnson_Wagner.shtml">Wagner, Johnson</a></li>
+			
+
+<li><a href="/masters/players/bios/Nick_Watney.shtml">Watney, Nick</a></li>
+			
+
+<li><a href="/masters/players/bios/Tom_Watson.shtml">Watson, Tom</a></li>
+			
+
+<li><a href="/masters/players/bios/Bubba_Watson.shtml">Watson, Bubba</a></li>
+			
+
+<li><a href="/masters/players/bios/Mike_Weir.shtml">Weir, Mike</a></li>
+			
+
+<li><a href="/masters/players/bios/Lee_Westwood.shtml">Westwood, Lee</a></li>
+			
+
+<li><a href="/masters/players/bios/Mark_Wilson.shtml">Wilson, Mark</a></li>
+			
+
+<li><a href="/masters/players/bios/Gary_Woodland.shtml">Woodland, Gary</a></li>
+			
+
+<li><a href="/masters/players/bios/Tiger_Woods.shtml">Woods, Tiger</a></li>
+			
+
+<li><a href="/masters/players/bios/Ian_Woosnam.shtml">Woosnam, Ian</a></li>
+			
+
+<li><a href="/masters/players/bios/Yong-Eun_Yang.shtml">Yang, Yong-Eun</a></li>
+			
+</ul>
+</div>
+
+<!-- CONTENT ENDS HERE -->
+      </div><!--//content clear-block-->
+      <div class="page-content-footer"></div><!--//.page-content-footer-->
+      <div class="clear-block"></div>
+    </div><!--//.node-->
+    </div><!--//col8-->
+    <div class="rail col4">
+
+
+      <div class="box rail-photos">
+        <div id="block-apt_plugin-Right" class="block block-apt_plugin">
+          <div class="content">
+            <script type="text/javascript">apt_AD('Right');</script>  
+          </div>
+        </div>
+        <!-- RAIL CONTENT HERE -->
+        
+        <!-- Quicktabs -->
+        <div id="tabs-container">
+        </div>
+       <script>
+          thirdparty_load_tabs('#tabs-container');
+       </script>
+       <!-- //Quicktabs -->
+       
+       <!-- Augusta Guide -->
+
+      <div class="block block-panels_mini" id="block-panels_mini-promo_augusta_guide">
+	<div class="content">
+	  <div id="mini-panel-promo_augusta_guide" class="panel-display panel-1col clear-block">
+	    <div class="panel-panel panel-col">
+	      <div><div class="panel-pane pane-custom pane-8">
+	   
+	  
+	  <div class="pane-content">
+	    <div class="augusta-ad"><div class="ad-headline">Augusta Guide</div><div class="ad-intro">Welcome to Augusta.com's coverage of the 2012 Masters, golf's most prestigious event.<br>No other Web site provides more coverage of the Masters and the city of Augusta, Ga.</div><div class="ad-links"><a href="/masters/masters">The Masters</a> | <a href="/masters/attractions">Attractions</a> | <a href="/masters/accommodations">Hotels</a><br><a href="/masters/transportation">Getting Around</a> | <a href="/masters/courses">Area Golf Courses</a><br><a href="/masters/weather">Weather</a> | <a href="/masters/events">Nightlife</a>&nbsp;| <a href="/masters/events">Events</a></div></div><p>&nbsp;</p>  </div>
+
+	  
+	      </div>
+	    </div>
+	   </div>
+	  </div>
+	 </div>
+	</div>
+
+	<!-- //Augusta Guide-->
+
+         <!-- END RAIL CONTENT -->
+        
+        
+        
+      </div>
+    </div><!--//.rail-->
+        <div class="row-end">&nbsp;</div>
+  </div>
+
+ </div> <!--//#inner-container-->
+</div><!--//#outer-container"> -->
+  
+<div  id="footer-container">
+  <div class="layout-978 footer-inner">
+    <div class="row footer-row">
+      <div class="col12 footer-content">
+        <h3>About Us</h3>
+        <p>This site and all its content are representative of The Augusta Chronicle's Masters? Tournament coverage and information. The Augusta Chronicle and Augusta.com are our trademarks.  Augusta.com is an online publication of The Augusta Chronicle and is neither affiliated with nor endorsed by the Masters or the Augusta National Golf Club.</p>
+
+        <p>Copyright 2012 The Augusta Chronicle. All Rights Reserved.</p>
+        <div class="share-icons addthis_toolbox">
+          <a class="addthis_button_facebook fb" style="text-decoration:none">FB</a>
+          <a class="addthis_button_twitter twitter" style="text-decoration:none">Twitter</a>
+          <a class="addthis_button_share share" style="text-decoration:none">Share</a>
+        </div>
+                <div class="footer-bottom">  <div id="block-menu-menu-legal-menu" class="block block-menu">
+
+  <div class="content">
+    <ul class="menu"><li class="leaf first"><a href="/masters/privacy-policy" title="">Privacy Statement</a></li>
+<li class="leaf"><a href="/masters/terms-service" title="">Terms of Service</a></li>
+<li class="leaf"><a href="http://chronicle.augusta.com/advertise" title="">Advertise with us</a></li>
+<li class="leaf last"><a href="http://chronicle.augusta.com/help/contact" title="">Contact Us</a></li>
+</ul>  </div>
+</div>
+</div>
+                
+      </div>
+      <div class="row-end"></div>
+
+    </div>
+  </div>
+</div>  
+  
+  <script type="text/javascript" src="/sites/all/modules/omniture_plugin/s_code_remote.js?3"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+				// Company
+				var _gaq = _gaq || [];
+	    	_gaq.push(['_setAccount', 'UA-6287136-1']);
+	    	_gaq.push(['_trackPageview']);
+	    
+				// Division
+			  var _gaq = _gaq || [];
+		    _gaq.push(['_setAccount', 'UA-6365892-2']);
+		    _gaq.push(['_trackPageview']);
+			
+				// Product
+			  var _gaq = _gaq || [];
+		    _gaq.push(['_setAccount', 'UA-6302221-11']);
+		    _gaq.push(['_trackPageview']);
+			
+				// MBU
+			  var _gaq = _gaq || [];
+		    _gaq.push(['_setAccount', 'UA-6450631-2']);
+		    _gaq.push(['_trackPageview']);
+			
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+			(function() {
+		    var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+		
+			<!--
+			/* You may give each page an identifying name, server, and channel on
+			the next lines. */
+
+			url_arr = new String (window.location.hostname + window.location.pathname).split('www\.');
+			//s.pageName = document.title;
+			s.pageName = zz_omnipagename;
+			s.server = zz_omniserver;
+			//s.channel='News'
+			s.pageType= 'Augusta.com' + location.pathname;
+			lparr = location.pathname.split('/');
+			toppath = lparr[1];
+			nxtpath = (lparr.length > 2)?lparr[2]:'Frontpage';
+			s.channel = zz_omnichannel;
+			//s.channel += (toppath != '')?toppath:'Frontpage';
+			s.prop1 = (toppath == '')?'Frontpage':(toppath + ' - ' + ((nxtpath != '')?nxtpath:'Frontpage'));
+			s.prop2 = document.title;
+			s.prop3=''
+			s.prop4=''
+			s.prop5=''
+			s.prop6=''
+			s.prop7=''
+			s.prop8=''
+			s.prop9=''
+			s.prop10=''
+			// s.prop 11 - 20 dedicated for MDW Corporate
+			s.prop11='' // Gender
+			s.prop12='' // Zip Code
+			s.prop13=''   // Birth Year
+			s.prop14=''   // Subscriber
+			s.prop15='SE'    // MDW_Region
+			s.prop16='Metro'   //  MDW_Group
+			s.prop17='97040 Other'     //  MDW_Cat
+			s.prop18='97040 Other'        // MDW_Sub_Cat
+			s.prop19=''
+			s.prop20=''
+      s.prop21 = '77' //NID
+      s.prop22 = '' //Author
+      s.prop23 = 'Masters' //Tax
+      s.prop24 = 'page' //Content type
+      s.campaign=s.getQueryParam('cid');
+
+			/********* INSERT THE DOMAIN AND PATH TO YOUR CODE BELOW ************/
+
+			var s_code=s.t();if(s_code)document.write(s_code)
+
+			//-->
+
+			
+//--><!]]>
+</script>
+  
+     <!--player.name-->
+  </body>
+
+</html>

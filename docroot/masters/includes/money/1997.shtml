@@ -1,0 +1,812 @@
+
+
+
+
+  
+	<table id="LargeLeaderboard">
+
+		<TR>
+			<th>
+				<b>Position</b>
+			</th>
+			<th>
+				<b>Player</b>
+			</th>
+			<th class="center">
+				<b>Final</b>
+			</th>
+
+			
+			<th class="center">
+				<b>Earnings</b>
+			</th>
+
+
+		</TR>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+1</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh184.shtml">Tiger Woods</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-18</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $486,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+2</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh140.shtml">Tom Kite</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $291,600
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+3</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh176.shtml">Tommy Tolles</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $183,600
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+4</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh180.shtml">Tom Watson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $129,600
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T5</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh168.shtml">Costantino Rocca</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $102,600
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T5</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh174.shtml">Paul Stankowski</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $102,600
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T7</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh116.shtml">Fred Couples</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $78,570
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T7</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh141.shtml">Bernhard Langer</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $78,570
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T7</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh143.shtml">Justin Leonard</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $78,570
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T7</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh144.shtml">Davis Love III</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $78,570
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T7</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh172.shtml">Jeff Sluman</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $78,570
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T12</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh120.shtml">Steve Elkington</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $52,920
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T12</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh137.shtml">Per-Ulrik Johansson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $52,920
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T12</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh142.shtml">Tom Lehman</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $52,920
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T12</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh159.shtml">Jose Maria Olazabal</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $52,920
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T12</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh183.shtml">Willie Wood</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $52,920
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T17</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh111.shtml">Mark Calcavecchia</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $39,150
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T17</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh121.shtml">Ernie Els</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $39,150
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T17</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh129.shtml">Fred Funk</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $39,150
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T17</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh171.shtml">Vijay Singh</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $39,150
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T21</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh197.shtml">Stuart Appleby</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $30,240
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T21</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh135.shtml">John Huston</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $30,240
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T21</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh162.shtml">Jesper Parnevik</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $30,240
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T24</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh166.shtml">Nick Price</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $24,840
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T24</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh182.shtml">Lee Westwood</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $24,840
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T26</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh136.shtml">Lee Janzen</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $21,195
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T26</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh173.shtml">Craig Stadler</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $21,195
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T28</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh103.shtml">Paul Azinger</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $19,575
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T28</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh130.shtml">Jim Furyk</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $19,575
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T30</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh147.shtml">Scott McCarron</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $17,145
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T30</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh151.shtml">Larry Mize</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $17,145
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T30</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh152.shtml">Colin Montgomerie</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $17,145
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T30</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh158.shtml">Mark O'Meara</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $17,145
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T34</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh145.shtml">Sandy Lyle</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $14,917
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T34</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh186.shtml">Fuzzy Zoeller</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $14,917
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+36</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh179.shtml">Duffy Waldorf</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $13,905
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+37</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh128.shtml">David Frost</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $13,230
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh133.shtml">Scott Hoch</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+10</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $12,690
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T39</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh154.shtml">Jack Nicklaus</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+11</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $11,610
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T39</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh177.shtml">Sam Torrance</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+11</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $11,610
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T39</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh185.shtml">Ian Woosnam</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+11</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $11,610
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+42</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh160.shtml">Jumbo Ozaki</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+12</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $10,530
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T43</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh163.shtml">Corey Pavin</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $9,720
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T43</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh169.shtml">Clarence Rose</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $9,720
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+45</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh117.shtml">Ben Crenshaw</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+14</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $8,910
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+46</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1997_hbh155.shtml">Frank Nobilo</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+15</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $8,370
+				
+			</td>
+		</tr>
+	</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+

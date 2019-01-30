@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/olesens-first-masters-try-pleases-denmark">Olesen&#039;s first Masters try pleases Denmark</a></h3>
+<div class="player-story-date">Posted: 03/10/14</div>
+<div class="player-story-digest">  Thorbjorn Olesen would have been easy to overlook at Augusta National last April. At 5-foot-9, 152 pounds, the young Dane looks more like a kid on spring break than a Masters participant. His opening-round 78 was the most typical ...</div>
+</div>

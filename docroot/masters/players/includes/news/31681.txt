@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/latest-news/woods-jimenez-and-bae-among-featured-masters-groups">Woods, Jimenez and Bae among featured Masters groups</a></h3>
+<div class="player-story-date">Posted: 04/03/12</div>
+<div class="player-story-digest"> The 76th Masters Tournament kicks off Thursday with several featured groupings. Honorary starters Jack Nicklaus, Arnold Palmer and Gary Player hit their ceremonial tee shots at 7:40 a.m. Defending Masters champion Charl Schwartzel goes off with reigning PGA Champion Keegan ...</div>
+</div>

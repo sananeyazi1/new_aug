@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/media-center-members-media-pick-their-favorites">From the Media Center: Members of the media pick their favorites</a></h3>
+<div class="player-story-date">Posted: 04/07/16</div>
+<div class="player-story-digest"> PICKS TO WIN 21 - Rory McIlroy 15 - Jason Day ...</div>
+</div>

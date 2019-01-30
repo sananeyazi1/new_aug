@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2011/04/06/mas_611688.shtml">Golf breakfast draws large crowd</a></h3>
+<div class="player-story-date">Posted: 04/06/11</div>
+<div class="player-story-digest">Two-and-a-half hours before tee time, Ben Crane and his caddie arrive at the course, spiral-bound notebooks in hand. Every day of the 2011 season opens with a devotional, Crane told an early morning crowd of golf fans gathered for the Augusta Golf Breakfast, a Masters Week tradition at Warren Baptist Church.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040606/mas_76348.shtml">Crane's Cowboy is silent, pardner</a></h3>
+<div class="player-story-date">Posted: 04/06/06</div>
+<div class="player-story-digest">Ben Crane won the Par-3 Contest on Wednesday in his first trip to the Masters Tournament, but he wasn't the most famous athlete in his group.</div>
+</div>

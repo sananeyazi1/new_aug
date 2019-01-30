@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2009/04/12/mas_520105.shtml">In the field</a></h3>
+<div class="player-story-date">Posted: 04/12/09</div>
+<div class="player-story-digest">CONSISTENT AGAIN:  This was supposed to be the year Todd Hamilton's  Masters Tournament exemption expired, potentially his last trip down Magnolia Lane.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2009/04/11/mas_518158.shtml">Hamilton is unlikely contender</a></h3>
+<div class="player-story-date">Posted: 04/11/09</div>
+<div class="player-story-digest">Nothing on Todd Hamilton's resume since his 2004 British Open victory indicates his name would appear on a Masters Tournament leaderboard.</div>
+</div>

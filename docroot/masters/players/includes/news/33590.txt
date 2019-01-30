@@ -1,0 +1,65 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/matsuyama-wins-wm-phoenix-open-playoff">Matsuyama wins WM Phoenix Open in playoff</a></h3>
+<div class="player-story-date">Posted: 02/24/17</div>
+<div class="player-story-digest"> read more ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/latest-news/thomas-successfully-defends-cimb-classic-title">Thomas successfully defends CIMB Classic title</a></h3>
+<div class="player-story-date">Posted: 10/23/16</div>
+<div class="player-story-digest"> read more ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/hideki-matsuyama-stumbles-green-jacket-chase">Hideki Matsuyama stumbles in green jacket chase</a></h3>
+<div class="player-story-date">Posted: 04/11/16</div>
+<div class="player-story-digest"> Hideki Matsuyama again found himself contending for a green jacket Sunday, but an up-and-down front nine took the air from his Masters Tournament hopes. Matsuyama shot 1-over-par 73 in the final round to finish tied for seventh at even par. ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/hideki-matsuyama-stumbles-green-jacket-chase">Hideki Matsuyama stumbles in green jacket chase</a></h3>
+<div class="player-story-date">Posted: 04/11/16</div>
+<div class="player-story-digest"> Hideki Matsuyama again found himself contending for a green jacket Sunday, but an up-and-down front nine took the air from his Masters Tournament hopes. Matsuyama shot 1-over-par 73 in the final round to finish tied for seventh at even par. ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/tied-third-hideki-matsuyama-chasing-latest-masters-accomplishment">Tied for third, Hideki Matsuyama chasing latest Masters accomplishment</a></h3>
+<div class="player-story-date">Posted: 04/10/16</div>
+<div class="player-story-digest"> Hideki Matsuyama is no stranger to Masters Tournament success despite his young age, and he again finds himself in the thick of it entering Sunday. The 24-year-old is quickly building a list of accomplishments at Augusta National Golf Club. He ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/hideki-matsuyama-fifth-after-birdie-streak">Hideki Matsuyama in fifth after birdie streak</a></h3>
+<div class="player-story-date">Posted: 04/09/16</div>
+<div class="player-story-digest">  Hideki Matsuyama will enter the weekend in a familiar position. The Japanese golfer, who finished fifth in last year&rsquo;s Masters Tournament, is tied for fifth after 36 holes. The 24-year-old shot 71 on Thursday and followed it up with ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/hideki-matsuyamas-recent-win-fuels-confidence">Hideki Matsuyama&#039;s recent win fuels confidence</a></h3>
+<div class="player-story-date">Posted: 03/12/16</div>
+<div class="player-story-digest">  It would be unfair to characterize Hideki Matsuyama&rsquo;s 2015 campaign as a step backward simply because he failed to win a tournament for the first time as a professional. But it wasn&rsquo;t much of a step forward either for ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/hideki-matsuyamas-66-fires-him-11-under">Hideki Matsuyama&#039;s 66 fires him to 11-under</a></h3>
+<div class="player-story-date">Posted: 04/13/15</div>
+<div class="player-story-digest"> Four years ago, Hideki Mat&shy;suyama won the Silver Cup as the low amateur at the Mas&shy;ters Tournament. On Sun&shy;day, he left with a top-five finish in his fourth trip to Augusta National. As the only amateur to make the cut ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/matsuyama-line-best-masters-finish">Matsuyama in line for best Masters finish</a></h3>
+<div class="player-story-date">Posted: 04/12/15</div>
+<div class="player-story-digest">  Hideki Matsuyama qualified for his first two Masters as the winner of the Asia-Pacific Amateur Championship in 2010 and 2011. Now the 23-year-old is an established professional, ranked No. 17 in the world with a win at the 2014 ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/latest-news/matsuyama-leads-trio-masters-amateur">Matsuyama leads trio of Masters amateur</a></h3>
+<div class="player-story-date">Posted: 04/07/12</div>
+<div class="player-story-digest"> Today is the final round of Kelly Kraft&rsquo;s first Masters Tournament. And that&rsquo;s not the only milestone. &ldquo;Tomorrow is my last round of amateur golf,&rdquo; Kraft said Saturday after completing his third round at Augusta National Golf Club. &ldquo;Pretty cool, ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/three-amateurs-make-cut-masters">Three amateurs make cut at Masters</a></h3>
+<div class="player-story-date">Posted: 04/07/12</div>
+<div class="player-story-digest"> After becoming the lone amateur to make the Masters Tournament cut last year, Japanese amateur Hideki Matsuyama felt more pressure than confidence this year. Matsuyama, 20, earned a second trip by repeating as the Asian Amateur champion and made it ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/masters/cantlay-matsuyama-lead-amateurs-masters">Cantlay, Matsuyama lead amateurs at Masters</a></h3>
+<div class="player-story-date">Posted: 04/06/12</div>
+<div class="player-story-digest"> None of the six amateurs in the Masters Tournament said he expected flashes of greatness this week, yet nearly all of them held their own against the pros in Thursday&rsquo;s opening round. Patrick Cantlay and Hideki Matsuyama led the way ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/amateur-hideki-matsuyama-enters-win-over-schwartzel">Amateur Hideki Matsuyama enters with win over Schwartzel</a></h3>
+<div class="player-story-date">Posted: 03/25/12</div>
+<div class="player-story-digest"> Japanese amateur Hideki Mat&shy;suyama has enjoyed a fruitful 18 months. He won the Asian Ama&shy;teur Championship in thefall of 2010 to earn his first trip to the Masters Tour&shy;nament. He made the cut in his first visit to Augusta Na&shy;tion&shy;al ...</div>
+</div>

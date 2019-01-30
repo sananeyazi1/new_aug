@@ -1,0 +1,18 @@
+html { background:none; }
+body{ margin:0; }
+#footer-container{ display:none; }
+#admin-toolbar{ display:none; }
+.row header{ display:none; }
+.top-col2{ display:none; }
+.row-end{ display:none; }
+#ads-north{ display:none; }
+#wl-fast-header{ display:none; }
+.col4{ display:none; }
+#utility{ display:none; }
+.breadcrumbs{ display:none; }
+#outer-container { border:0; margin:0; }
+.header-info{ display:none; }
+.logo{ display:none; }
+.logo-text{ display:none; }
+.navigation{ display:none; }
+.navigation-drop{ display:none; }

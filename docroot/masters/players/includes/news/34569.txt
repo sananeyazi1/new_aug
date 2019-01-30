@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/robert-streb-has-come-long-way-make-it-augusta">Robert Streb has come a long way to make it to Augusta</a></h3>
+<div class="player-story-date">Posted: 04/09/15</div>
+<div class="player-story-digest"> It&rsquo;s right there on Robert Streb&rsquo;s profile on the PGA Tour Web site. After wading through Streb&rsquo;s likes (Italian food, Jason Aldean and Happy Gilmore, among others) and his dream foursome &ndash; his father (David), brother (Garrett) and Arnold Palmer ...</div>
+</div>

@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/british-invasion-fizzles-third-round">British invasion fizzles in third round</a></h3>
+<div class="player-story-date">Posted: 04/14/13</div>
+<div class="player-story-digest"> With Lee Westwood, Justin Rose and David Lynn all tied at 3-under entering Saturday&rsquo;s third round of the Masters Tournament, the opportunity for a British invasion on the top of the leaderboard was there. It didn&rsquo;t happen, and it wasn&rsquo;t ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/lynn-learns-lesson-stays-contention-midway-point-masters">Lynn learns lesson, stays in contention at midway point of Masters</a></h3>
+<div class="player-story-date">Posted: 04/13/13</div>
+<div class="player-story-digest">  Boring was better for David Lynn. All it took was one mistake with his wedge during Friday&rsquo;s second round of the Masters Tournament to tell him as much. ...</div>
+</div>

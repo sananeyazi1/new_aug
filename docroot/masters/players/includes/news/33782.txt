@@ -1,0 +1,30 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/latest-news/cantlay-finishes-low-amateur-masters">Cantlay finishes as low amateur at Masters</a></h3>
+<div class="player-story-date">Posted: 04/08/12</div>
+<div class="player-story-digest">  Amateur Patrick Cantlay&rsquo;s aversion to par had a silver lining Sunday. Cantlay&rsquo;s round of 72 included a quadruple bogey, a double bogey, an eagle, three birdies and one bogey &ndash; and that was on seven of the last eight ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/latest-news/matsuyama-leads-trio-masters-amateur">Matsuyama leads trio of Masters amateur</a></h3>
+<div class="player-story-date">Posted: 04/07/12</div>
+<div class="player-story-digest"> Today is the final round of Kelly Kraft&rsquo;s first Masters Tournament. And that&rsquo;s not the only milestone. &ldquo;Tomorrow is my last round of amateur golf,&rdquo; Kraft said Saturday after completing his third round at Augusta National Golf Club. &ldquo;Pretty cool, ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/masters/cantlay-matsuyama-lead-amateurs-masters">Cantlay, Matsuyama lead amateurs at Masters</a></h3>
+<div class="player-story-date">Posted: 04/06/12</div>
+<div class="player-story-digest"> None of the six amateurs in the Masters Tournament said he expected flashes of greatness this week, yet nearly all of them held their own against the pros in Thursday&rsquo;s opening round. Patrick Cantlay and Hideki Matsuyama led the way ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/masters/amateur-cantlay-confident-about-masters-chances">Amateur Cantlay confident about Masters chances</a></h3>
+<div class="player-story-date">Posted: 04/03/12</div>
+<div class="player-story-digest"> Patrick Cantlay is just happy his first Masters Tourna&shy;ment isn&rsquo;t also his first major appearance. The top-ranked amateur qualified for this year&rsquo;s Masters by coming in second at the 2011 U.S. Amateur. He earned low amateur honors at the 2011 ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/amateur-cantlay-confident-about-masters-chances">Amateur Cantlay confident about Masters chances</a></h3>
+<div class="player-story-date">Posted: 04/03/12</div>
+<div class="player-story-digest"> Patrick Cantlay is just happy his first Masters Tourna­ment isn’t also his first major appearance. The top-ranked amateur qualified for this year’s Masters by coming in second at the 2011 U.S. Amateur. He earned low amateur honors at the 2011 ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/strong-amateur-field-competing">Strong amateur field competing</a></h3>
+<div class="player-story-date">Posted: 03/09/12</div>
+<div class="player-story-digest"> This year’s Masters Tour­na­ment features one of the strongest amateur contingents in recent memory. There’s Hideki Mat­suy­ama, who successfully defended his title in the Asian Ama­teur and backed it up with a victory against professionals in Japan. Patrick Cantlay, the ...</div>
+</div>

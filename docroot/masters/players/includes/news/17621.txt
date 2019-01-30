@@ -1,0 +1,25 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/palmer-takes-step-back-moving-day-masters">Palmer takes step back on moving day at Masters</a></h3>
+<div class="player-story-date">Posted: 04/11/15</div>
+<div class="player-story-digest"> On moving day Saturday at the Masters, Ryan Palmer found his driving stuck in neutral. The Texan hit only six fairways, and his comfort zone off the tee box was never quite there. His 2-over 74 left him at 1-over ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/ryan-palmer-optimistic-about-weekend">Ryan Palmer optimistic about weekend</a></h3>
+<div class="player-story-date">Posted: 04/10/15</div>
+<div class="player-story-digest">  Ryan Palmer hit his first drive Friday at the Masters Tournament into a bunker. The 38-year-old Texan three-putted No. 5 for a double bogey. Then he added a bogey two holes later. ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/ryan-palmer-happy-about-opening-round">Ryan Palmer happy about opening round</a></h3>
+<div class="player-story-date">Posted: 04/10/15</div>
+<div class="player-story-digest">  Ryan Palmer&rsquo;s 13th career round at the Masters was anything but unlucky. The Texas native, playing in his fifth Masters, had just one three-putt as he shot 3-under 69 for his best opening round at Augusta National Golf Club. ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/ryan-palmer-believes-could-be-his-year-masters">Ryan Palmer believes this could be his year at Masters</a></h3>
+<div class="player-story-date">Posted: 04/08/15</div>
+<div class="player-story-digest"> Can Ryan Palmer win the Masters? The 2014 Masters runner-up Jordan Spieth thinks so. Two-time Masters champion Tom Watson, who will be teeing off in his 42nd Masters, says the length Palmer drives it means he can win. ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/ryan-palmer-no-longer-intimidated-augusta-nationals-greens">Ryan Palmer no longer intimidated by Augusta National&#039;s greens</a></h3>
+<div class="player-story-date">Posted: 03/22/12</div>
+<div class="player-story-digest"> After the way he played in 2011, it&rsquo;s no wonder Ryan Palmer is counting down the days until he returns for the 76th Masters Tournament. &ldquo;I can&rsquo;t wait, to be honest with you,&rdquo; Palmer said. &ldquo;I&rsquo;ve been using the last ...</div>
+</div>

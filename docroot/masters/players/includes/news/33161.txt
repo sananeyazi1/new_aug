@@ -1,0 +1,20 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/thomas-hopes-keep-hot-hand-going-masters">Thomas hopes to keep hot hand going into Masters</a></h3>
+<div class="player-story-date">Posted: 03/19/17</div>
+<div class="player-story-digest"> By January, Justin Thomas had already won three times this season, successfully defended his first title, won in back-to-back weeks, shot 59 and set a PGA Tour tournament scoring record.His mind was already three months ahead to Augusta National.&ldquo;I&rsquo;m so ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/thomas-hopes-keep-hot-hand-going-masters">Thomas hopes to keep hot hand going into Masters</a></h3>
+<div class="player-story-date">Posted: 03/19/17</div>
+<div class="player-story-digest"> read more ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/justin-thomas-finishes-sony-open-win-record-setting-fashion">Justin Thomas finishes off Sony Open win in record-setting fashion</a></h3>
+<div class="player-story-date">Posted: 02/23/17</div>
+<div class="player-story-digest"> read more ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/latest-news/thomas-successfully-defends-cimb-classic-title">Thomas successfully defends CIMB Classic title</a></h3>
+<div class="player-story-date">Posted: 10/23/16</div>
+<div class="player-story-digest"> read more ...</div>
+</div>

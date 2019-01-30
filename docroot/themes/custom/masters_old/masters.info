@@ -1,0 +1,60 @@
+name = masters
+description =masters MSMS theme.
+core = 7.x
+base theme = published
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Regions
+;;;;;;;;;;;;;;;;;;;;;
+regions[search]         = 'Search'
+regions[header]         = 'Top Bar'
+regions[highlighted]    = 'Highlighted'
+regions[help]           = 'Help'
+regions[sponsorship]    = 'Sponsorship Ad'
+regions[top_ad]        = 'Top Ad'
+regions[content]        = 'Content'
+regions[sidebar]        = 'Sidebar'
+regions[content_below]  = 'Content Below'
+regions[footer]         = 'Footer'
+regions[Copyright]         = 'Copyright'
+regions[page_top]       = 'Page top'
+regions[page_bottom]    = 'Page bottom'
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Settings
+;;;;;;;;;;;;;;;;;;;;;
+
+settings[progress_bar] = 1
+settings[minified_css] = 0
+settings[minified_js]  = 0
+
+settings[bootstrap_cdn] = ''
+settings[bootstrap_region_well-sidebar_first] = ''
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Stylesheets
+;;;;;;;;;;;;;;;;;;;;;
+
+stylesheets[all][] = css/local.css
+stylesheets[all][] = css/local-color.css
+
+
+;;;;;;;;;;;;;;;;;;;;;;
+;;; Scripts
+;;;;;;;;;;;;;;;;;;;;;;
+
+;scripts[] = 'scripts/plugins.min.js'
+;scripts[] = 'scripts/custom.js'
+
+scripts[] = 'scripts/tealium.js'
+
+;plugins[advanced_forum][styles] = 'forum'
+
+;;;;;;;;;;;;;;;;;;;;;;
+;;; FOAD
+;;;;;;;;;;;;;;;;;;;;;;
+;stylesheets[all][] = css/panels.css
+;stylesheets[all][] = css/vendor.e261323d.css

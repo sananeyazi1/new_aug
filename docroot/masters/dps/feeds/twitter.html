@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Twitter Feed | 2013 Masters</title>
+</head>
+<body>
+<style>
+
+#tweets .twtr-tweet .twtr-tweet-text p {
+font-size: 16px !important;
+font-family: Georgia, serif  !important;
+}
+#tweets .twtr-hd {
+    background: #fff;
+    color: #ccc;
+	display:none;
+
+}
+
+#tweets .twtr-hd *,
+#tweets .twtr-hd h4 a {
+    background: #fff !important;
+	display:none;
+
+}
+#tweets .twtr-tweet {
+background: #fff;
+
+}
+
+#tweets .twtr-tweet a:link,
+#tweets .twtr-tweet a:visited,
+#tweets .twtr-tweet a:hover {
+color: #007d58;
+font-size: 14px  !important;
+
+}
+</style>
+				<div style="float:left; width: 40px;">
+						<img src="http://www.augusta.com/masters/dps/images/twitter-logo.png" style="width: 35px;">
+				</div>
+					<div style="float:inline;" >
+						<span style="font-size: 36px; 	line-height: 36px;	font-family: 'New Century Schoolbook', serif ;font-weight:500;">Twitter updates</span><br />
+				</div>
+				</div style="clear:both;"></div>
+
+				<div id="tweets">
+										<script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script><script>
+										new TWTR.Widget({
+										  version: 2,
+										  type: 'profile',
+										  rpp: 5,
+										  interval: 30000,
+										  width: '458',
+										  height: 300,
+										  theme: {
+											shell: {
+											  background: '#ffffff',
+											  color: 'white'
+											},
+											tweets: {
+											  background: '#ffffff',
+											  color: '#000000',
+											  links: '#007d58'
+											}
+										  },
+										  features: {
+											scrollbar: false,
+											loop: false,
+											live: false,
+											behavior: 'all'
+										  }
+										}).render().setUser('aug_masters').start();
+										</script>
+											
+			</div>
+	</body>
+</html>
+

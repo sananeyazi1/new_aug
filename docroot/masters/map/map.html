@@ -1,0 +1,125 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+   <meta name="description" content="Australians at the Masters" />
+    <title>The Masters -Australians at the Masters</title>
+
+	
+	
+	<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+	<style>
+		html, body, #map-canvas { height: 100%; margin: 0px; padding: 0px }
+    </style>
+    
+
+	<script type="text/javascript">
+
+var LocationData = [
+ 
+   [-33.867487 , 151.20699, "<B>Sydney<br><br>Jim Ferrier</B> <a href='http://www.augusta.com/masters/players/aussies/Jim_Ferrier.html' target='_blank'>Masters Record</a><br>Nicknamed 'Undertaker' by the Australian Press  for his penchant for burying opponents on the course. Best Masters finish: Second to Jimmy Demaret in 1950.<br><br><B>Bruce Crampton</B> <a href='http://www.augusta.com/masters/players/aussies/Bruce_Crampton.html' target='_blank'>Masters Record</a><br>Crampton won the Par-3 Contest in 1962 and set the record for most eagles in a tournament in 1974. Best Masters finish: Second to Jack Nicklaus in 1972.<br><br><B>Frank Phillips</B> <a href='http://www.augusta.com/masters/players/aussies/Frank_Phillips.html' target='_blank'>Masters Record</a><br>Missed the cut in both Masters appearances. Best Masters finish: 60th in 1962.   <br><br><B>Bob Shaw</b> <a href='http://www.augusta.com/masters/players/aussies/Bob_Shaw.html' target='_blank'>Masters Record</a><br>Missed the cut in 1973, finishing 58th.<br><br><B>Rodger Davis</B> <a href='http://www.augusta.com/masters/players/aussies/Rodger_Davis.html' target='_blank'>Masters Record</a><br>Placed second in the 1987 Open Championship. Best Masters finish: 29th in 1988."], 
+   
+   [-33.838634 , 151.207114, "<B>North Sydney</B><br>Kel Nagle <a href='http://www.augusta.com/masters/players/aussies/Kel_Nagle.html' target='_blank'>Masters Record</a><br>Nagle won the British Open in 1960 and was U.S. Open runner-up in 1965 but played Augusta only nine times through 1968. Best Masters finish: 15th in 1965." ], 
+  
+   [-33.874605 , 151.094025, "<B>Strathfield, Australia</B><br>Norman Von Nida <a href='http://www.augusta.com/masters/players/aussies/Norman_VonNida.html' target='_blank'>Masters Record</a><br>Best Masters finish: 27th in 1950 and 1952." ], 
+
+   [-37.767872 , 144.961929, "<B>Melbourne</B><br><br><B>Peter Thomson</B> <a href='http://www.augusta.com/masters/players/aussies/Peter_Thomson.html' target='_blank'>Masters Record</a><br>Thomson, who won five British Opens from 1954 to 1965, played eight times at Augusta from 1953 to 1969. More often than not, he declined his invitation and chose to play the conflicting Indian Open instead. Best Masters finish: Fifth in 1957.<br><br><B>Robert Allenby</B> <a href='http://www.augusta.com/masters/players/aussies/Robert_Allenby.html' target='_blank'>Masters Record</a><br>Became the first golfer to win the 'triple crown' of the Australian Masters, Australian PGA and Australian Open in the same year. Best Masters finish: 22nd in 2006.<br><br><B>Aaron Baddeley</B> <a href='http://www.augusta.com/masters/players/aussies/Aaron_Baddeley.html' target='_blank'>Masters Record</a><br>Selected by fellow Australian Greg Norman for the 2011 Presidents Cup team. Best Masters finish: 17th in 2009.<br><br><B>Mark Hensby</B> <a href='http://www.augusta.com/masters/players/aussies/Mark_Hensby.html' target='_blank'>Masters Record</a>Best Masters finish: Tied for 5th in 2005.   <br><br><B>Bryden MacPherson</B> <a href='http://www.augusta.com/masters/players/aussies/Bryden_MacPherson.html' target='_blank'>Masters Record</a><br>British Amateur Champion in 2011 to qualify for the 2012 Masters. Former member of the University of Georgia golf team. Best Masters finish: 76th in 2012.<br><br><B>Bob Shearer</B> <a href='http://www.augusta.com/masters/players/aussies/Bob_Shearer.html' target='_blank'>Masters Record</a><br>Shearer won the Australian Open in 1982. He played for nine years on the PGA Tour. Best Masters finish: 34th in 1979.<br><br><B>Bradley Hughes</B> <a href='http://www.augusta.com/masters/players/aussies/Bradley_Hughes.html' target='_blank'>Masters Record</a><br>Missed the cut in 1998. Best Masters finish: 62nd in 1998." ], 
+
+   [-30.514343 , 151.666964, "<B>Armidale</B><br><BR><B>Bruce Devlin</B> <a href='http://www.augusta.com/masters/players/aussies/Bruce_Devlin.html' target='_blank'>Masters Record</a><br>Bruce Devlin started the final round in second place in 1964, birdied the first two holes and drew within three shots of the lead before finishing fourth, behind runaway winner Arnold Palmer. Devlin started the final round only one back in 1968 and shot 69 but finished fourth again. Best Masters finish: 4th in 1964 and 1968. " ], 
+ 
+   [-27.436836 , 153.03109, "<B>Windsor</B><br><br><B>David Graham</B> <a href='http://www.augusta.com/masters/players/aussies/David_Graham.html' target='_blank'>Masters Record</a><br>Won events on six continents in his career. Best Masters finish: 5th in 1980." ], 
+
+   [-30.747007 , 121.474861, "<B>Kalgoorlie</B><br><br><B>Graham Marsh</B> <a href='http://www.augusta.com/masters/players/aussies/Graham_Marsh.html' target='_blank'>Masters Record</a><br>Best Masters finish: Tied for 9th in 1976." ],
+
+[-32.834578 , 151.356462, "<B>Cessnock</B><br><br><B>Jack Newton</B> <a href='http://www.augusta.com/masters/players/aussies/Jack_Newton.html' target='_blank'>Masters Record</a><BR>Newton's estate in New South Wales is called 'Augusta.' Best Masters finish: Finished tied for second with Gibby Gilbert in 1980 to winner Seve Ballesteros." ],
+
+[-20.724705 , 139.497462, "<B>Mount Isa</B><br><br><B>Greg Norman</B> <a href='http://www.augusta.com/masters/players/aussies/Greg_Norman.html' target='_blank'>Masters Record</a><br>Nicknamed Great White Shark, Norman is most associated with is the one course he couldn't conquer: Augusta National Golf Club. Best Masters Finish: Finished second in 1986 to winner Jack Nicklaus, in 1987 to Augusta native Larry Mize and in 1996 to Nick Faldo." ],
+
+[-26.629353 , 152.95936, "<B>Nambour</B><br><br><B>Ian Baker-Finch</B> <a href='http://www.augusta.com/masters/players/aussies/Ian_Baker-Finch.html' target='_blank'>Masters Record</a><br>Won The Open Championship in 1991. Best Masters finish: 6th in 1992. " ],
+
+[-37.786461 , 144.83194, "<B>Sunshine</B><br><br><B>Craig Parry</B> <a href='http://www.augusta.com/masters/players/aussies/Craig_Parry.html' target='_blank'>Masters Record</a><br>Parry was in a three-way tie with Couples and Raymond Floyd when he headed to the seventh hole during the final round of the 1992 Masters. After a patron got in his face, a shaken Parry bogeyed 7, 10, 16, and 18, carding a 78 and tying for 13th place. Best Masters finish: 6th in 1992." ],
+
+[-27.869965 , 153.351201, "<B>Hope Island</B><br><br><B>Peter Senior</B> <a href='http://www.augusta.com/masters/players/aussies/Peter_Senior.html' target='_blank'>Masters Record</a><br>Peter Senior was ranked consistently in the top 50 from 1989-96 and got invited to the Masters only in 1990. Best Masters finish: 42nd in 1990. " ],
+
+[-27.471011 , 153.023449, "<B>Brisbane</B><br><br><B>Wayne Grady</B> <a href='http://www.augusta.com/masters/players/aussies/Wayne_Grady.html' target='_blank'>Masters Record</a><br>Grady won the PGA Championship in 1990. Best Masters finish: Tied for 13th in 1992.<br><br><B>John Senden</B> <a href='http://www.augusta.com/masters/players/aussies/John_Senden.html' target='_blank'>Masters Record</a><br>Best Masters finish: 35th in 2013." ],
+
+[-29.776279 , 151.113436, "<B>Inverell</B><br><br><B>Steve Elkington</b> <a href='http://www.augusta.com/masters/players/aussies/Steve_Elkington.html' target='_blank'>Masters Record</a><br>Won the PGA Championship in 1994. Best Masters finish: 3rd in 1993." ],
+
+[-33.884611 , 151.226586, "<B>Paddington</B><br><br><B>Brett Ogle</B> <a href='http://www.augusta.com/masters/players/aussies/Brett_Ogle.html' target='_blank'>Masters Record</a><br>Best Masters finish: 49th in 1993." ],
+
+[-35.809472 , 144.222375, "<B>Cohuna</B><br><br><B>Stuart Appleby</B> <a href='http://www.augusta.com/masters/players/aussies/Stuart_Appleby.html' target='_blank'>Masters Record</a><br>In 2007, Appleby let his 54-hole lead slip away with double bogeys on the first and 12th holes. Best Masters finish: 7th in 2007." ],
+
+[-34.928621 , 138.599959, "<B>Adelaide</B><br><br><B>Adam Scott</B> <a href='http://www.augusta.com/masters/players/aussies/Adam_Scott.html' target='_blank'>Masters Record</a><br>In 2013, Scott became the first Australian to win the Masters Tournament. Best Masters finish: 2013 Masters champion.<br><br><B>Geoff Ogilvy</B> <a href='http://www.augusta.com/masters/players/aussies/Geoff_Ogilvy.html' target='_blank'>Masters Record</a><br>Winner of the 2006 U.S. Open. Best Masters finish: Tied for 4th in 2011." ],
+
+[-33.772771 , 151.081349, "<B>Epping</B><br><br><B>Peter Lonard</B> <a href='http://www.augusta.com/masters/players/aussies/Peter_Lonard.html' target='_blank'>Masters Record</a><br>Best Masters finish: 45th in 2004." ],
+
+[-33.035943 , 151.660483, "<B>Belmont</B><br><br><B>Nick Flanagan</B> <a href='http://www.augusta.com/masters/players/aussies/Nick_Flanagan.html' target='_blank'>Masters Record</a><br>Missed the cut in 1978. Best Masters finish: 76th in 1978." ],
+
+[-33.649945 , 115.344611, "<B>Busselton</B><br><br><B>Stephen Leaney</B> <a href='http://www.augusta.com/masters/players/aussies/Stephen_Leaney.html' target='_blank'>Masters Record</a><br>Best Masters finish: 17th in 2004." ],
+
+[-31.953004 , 115.857469, "<B>Perth</B><br><br><B>Nick O'Hern</B> <a href='http://www.augusta.com/masters/players/aussies/Nick_O'Hern.html' target='_blank'>Masters Record</a><br>Best Masters finish: 19th in 2006." ],
+
+[-27.229741 , 153.108256, "<B>Redcliffe</B><br><br><B>Rod Pampling</B> <a href='http://www.augusta.com/masters/players/aussies/Rod_Pampling.html' target='_blank'>Masters Record</a><br>Best Masters finish: Tied for 5th in 2005." ],
+
+[-37.857292 , 144.897759, "<B>Williamstown</B><br><br><B>Richard Green</B> <a href='http://www.augusta.com/masters/players/aussies/Richard_Green.html' target='_blank'>Masters Record</a><br>Missed the cut during his only Masters appearance in 2008. Best Masters finish: 76th in 2008." ],
+
+[-42.881903 , 147.323814, "<B>Hobart (Tazmania)</B><br><br><B>Mathew Goggin</B> <a href='http://www.augusta.com/masters/players/aussies/Mathew_Goggin.html' target='_blank'>Masters Record</a><br>Missed the cut during his only Masters appearance in 2009. Best Masters finish: 79th in 2009." ],
+
+[-38.382766 , 142.484499, "<B>Warrnambool</B><br><br><B>Marc Leishman</B> <a href='http://www.augusta.com/masters/players/aussies/Marc_Leishman.html' target='_blank'>Masters Record</a><br>Was named PGA Tour  'Rookie of the Year' in 2009. Best Masters finish: Tied with Tiger Woods for 4th place in 2013." ],
+
+[-33.042008 , 151.610044, "<B>Newcastle</B><br><br><B>Nathan Green</B> <a href='http://www.augusta.com/masters/players/aussies/Nathan_Green.html' target='_blank'>Masters Record</a><br>Best Masters finish: 48th in 2010." ],
+
+[-27.987554 , 152.995415, "<B>Beaudesert</B><br><br><B>Jason Day</B> <a href='http://www.augusta.com/masters/players/aussies/Jason_Day.html' target='_blank'>Masters Record</a><br>Adam Scott and Jason Day shared a clubhouse lead in 2011. Charl Schwartzel passed them with an unprecedented four consecutive birdies to win. Best Masters finish: Tied with Adam Scott for 2nd place in 2011. " ],
+
+
+
+	
+   
+ 
+  
+
+];
+
+function initialize()
+{
+	var map = 
+	    new google.maps.Map(document.getElementById('map-canvas'));
+	var bounds = new google.maps.LatLngBounds();
+	var infowindow = new google.maps.InfoWindow();
+	
+	for (var i in LocationData)
+	{
+		var p = LocationData[i];
+		var latlng = new google.maps.LatLng(p[0], p[1]);
+		bounds.extend(latlng);
+
+		var infowindow = new google.maps.InfoWindow({
+   
+      maxWidth: 400
+  });
+		
+		var marker = new google.maps.Marker({
+			position: latlng,
+			map: map,
+			title: p[2]
+		});
+	
+		google.maps.event.addListener(marker, 'click', function() {
+			infowindow.setContent(this.title);
+			infowindow.open(map, this);
+		});
+	}
+	
+	map.fitBounds(bounds);
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+
+	</script>
+
+</head>
+
+<body>
+	<div id="map-canvas"></div>
+</body>
+</html>

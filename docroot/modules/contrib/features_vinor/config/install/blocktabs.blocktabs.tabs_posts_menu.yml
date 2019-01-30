@@ -1,0 +1,33 @@
+langcode: en
+status: true
+dependencies: {  }
+name: tabs_posts_menu
+label: 'Tabs posts menu'
+tabs:
+  2369774d-5ee9-4f1b-9502-2c04c31846b0:
+    uuid: 2369774d-5ee9-4f1b-9502-2c04c31846b0
+    id: views_tab
+    title: Technology
+    weight: '1'
+    data:
+      view_name: posts_menu
+      view_display: block_1
+      view_arg: ''
+  4592158c-d012-4f38-9003-3b07e762fd30:
+    uuid: 4592158c-d012-4f38-9003-3b07e762fd30
+    id: views_tab
+    title: Business
+    weight: '2'
+    data:
+      view_name: posts_menu
+      view_display: block_2
+      view_arg: ''
+  f94278d3-04a4-4cae-b14c-76cd01482fd4:
+    uuid: f94278d3-04a4-4cae-b14c-76cd01482fd4
+    id: views_tab
+    title: 'Life Style'
+    weight: '3'
+    data:
+      view_name: posts_menu
+      view_display: block_3
+      view_arg: ''

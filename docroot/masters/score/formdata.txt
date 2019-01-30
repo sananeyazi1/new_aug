@@ -1,0 +1,90 @@
+
+
+<center><table>
+<tr>
+<td>
+Notes: 
+</td>
+</tr>
+</table>
+</center>
+<br />
+<center>
+<table>
+<tr>
+<td>Press Start:  Goal</td>
+<td>Actual</td>
+
+</tr>
+<tr>
+
+<td>
+  
+</td>
+<td>
+   
+</td>
+
+</tr>
+
+
+
+
+
+</table>
+</center>
+<br />
+
+<center>
+
+
+<table>
+<tr>
+<td>Truck #</td>
+<td>
+Expected Arrival
+</td>
+</tr>
+
+<tr>
+<td>
+37
+</td>
+<td>
+  
+</td>
+
+</tr>
+
+<tr>
+<td>
+35, 47, 57R, 59R, 69,71
+</td>
+<td>
+  
+</td>
+
+</tr>
+
+
+<tr>
+<td>
+57, 57A, 59A
+</td>
+<td>
+  
+</td>
+
+</tr>
+
+
+<tr>
+<td>
+55, 56, 61
+</td>
+<td>
+  
+</td>
+
+</tr>
+</table></center>

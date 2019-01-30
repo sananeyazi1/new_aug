@@ -1,0 +1,7 @@
+langcode: en
+status: true
+dependencies: {  }
+id: menu-mobile
+label: 'Menu Mobile'
+description: 'Menu for mobile, offcanvas'
+locked: false

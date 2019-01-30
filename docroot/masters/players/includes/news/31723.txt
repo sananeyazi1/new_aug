@@ -1,0 +1,40 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/leishman-earns-masters-berth-win-palmers-tournament">Leishman earns Masters berth with win in Palmer&#039;s tournament</a></h3>
+<div class="player-story-date">Posted: 03/20/17</div>
+<div class="player-story-digest"> ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/not-all-players-tune-music-during-preparations">Not all players in tune with music during preparations</a></h3>
+<div class="player-story-date">Posted: 04/07/16</div>
+<div class="player-story-digest">  Harris English is a little bit country. Graeme Mc&shy;Dow&shy;ell is a little bit rock &rsquo;n&rsquo; roll. Marc Leishman concedes he&rsquo;s not a huge music fan but knows what he likes &ndash; and what he doesn&rsquo;t &ndash; as he listens ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/wifes-health-scare-gives-leishman-new-outlook-golf">Wife&#039;s health scare gives Leishman new outlook on golf</a></h3>
+<div class="player-story-date">Posted: 04/06/16</div>
+<div class="player-story-digest">  There&rsquo;s a universal refrain shared at Augusta Na&shy;tional Golf Club this week, from players and patrons to media and members: We&rsquo;re lucky to be here. Few, however, understand that more palpably than Australian golfer Marc Leishman.    ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/marc-leishman-learns-masters-experience">Marc Leishman learns from Masters experience</a></h3>
+<div class="player-story-date">Posted: 03/15/14</div>
+<div class="player-story-digest">  Having a front row seat to Australian golf history wasn&rsquo;t exactly what Marc Leishman had in mind in the final round of the 2013 Masters Tournament, but it might be what he needed to eventually draft his own chapter. ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/aussies-pull-countrymen-break-masters-drought">Aussies pull for countrymen to break Masters drought</a></h3>
+<div class="player-story-date">Posted: 04/14/13</div>
+<div class="player-story-digest">  Australian golf fans showed enthusiastic support for three countrymen playing in two of the final three pairings of the 2013 Masters Tournament. Jason Day began his final round at 2:20 p.m., followed by the pairing of Adam Scott and ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/3-aussies-hope-end-masters-jinx">3 Aussies hope to end Masters jinx</a></h3>
+<div class="player-story-date">Posted: 04/14/13</div>
+<div class="player-story-digest">  Australians began the third round of the Masters tournament holding four spots among the top 13, the most of any nation except five players from the U.S. That included leader Jason Day and one of the players tied for ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/leishman-one-shot-back-after-masters-second-round-tied-second">Leishman one-shot back after Masters second round, tied for second</a></h3>
+<div class="player-story-date">Posted: 04/13/13</div>
+<div class="player-story-digest"> The situation might have been as pressure-packed of a moment as Marc Leishman could have experienced at the time. At the ripe age of 13, all he was trying to do was win the Warrnambool Golf Club championship in his ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/former-champions-contention-after-first-round-masters">Former champions in contention after first round of Masters</a></h3>
+<div class="player-story-date">Posted: 04/12/13</div>
+<div class="player-story-digest"> Former Masters champions Zach Johnson, Trevor Immelman and patron favorite Fred Couples put their names on the leaderboard on the opening day of the 2013 Masters Tournament. Immelman and Couples are tied for fourth place with four others after shooting ...</div>
+</div>

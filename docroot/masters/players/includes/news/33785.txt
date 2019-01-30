@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/latest-news/australian-amateur-bryden-macpherson-enjoying-masters-experience">Australian amateur Bryden Macpherson enjoying Masters experience</a></h3>
+<div class="player-story-date">Posted: 04/03/12</div>
+<div class="player-story-digest"> From the 4 a.m. viewing hours to the drives down Mag­nolia Lane, Bryden Macpherson will get a different view of the Masters in 2012. The Australian, who qualified for the Masters by winning the British Amateur, is making his Masters ...</div>
+</div>

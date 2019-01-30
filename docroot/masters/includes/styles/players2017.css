@@ -1,0 +1,349 @@
+#playersMainContent {
+  background-color: #FFFFFF;
+  position: relative;
+  max-width: 587px;
+}
+
+.player-bio {
+    display: inline-block;
+    max-width: 400px;
+    border: 1px solid #73AD21;  
+}
+
+.bioinfo {
+    display: inline-block;
+	vertical-align:text-top;
+    max-width: 380px;
+	margin-right: 10px;
+	 
+}
+
+
+.playerBioImg {
+   border: 1px solid #ccc;
+  width: 100%;
+  
+  margin: auto;
+ }
+.playerBioPhoto {
+   display: block;
+ }
+.playerBioBox {
+  display: block;
+  font-size: 16px;
+  font-family: 'Montserrat',sans-serif;
+}
+p.playerBioBoxRow {
+  margin: 8px 5px;
+}
+
+.nav-ad {
+    max-width: 920px;
+    display: inline-block;
+	border: 1px solid #ccc;
+}
+
+.player-name {
+    display: inline-block;
+    max-width: 320px;
+	margin-right: 10px;
+}
+
+.player-name img{
+    vertical-align: baseline;
+}
+
+
+
+.playerPos {
+  color: #999;
+  font-size: 28px;
+  line-height: 26px;
+ }
+
+.photolink a{
+    text-align:center;
+	font-size: 12px;
+	font-weight: normal;
+	font-family: 'Montserrat',sans-serif;
+}
+
+/* mini hole-by-hole */
+#playerMiniHoleByHole {
+  width: 100%;
+  background: #fff;
+}
+
+#playerMiniHoleByHole td {
+  width: 4.5%
+}
+
+#playerMiniHoleByHole a {
+  color: #000;
+  text-decoration: none;
+}
+#playerMiniHoleByHole td.playerMiniHoleByHoleRound {
+  font-weight: bold;
+  height: 30px;
+}
+a.interactive-link2 {
+  color: #4e7e1c;
+  text-decoration: underline;
+}
+a.interactive-link2:hover {
+  color: #4e7e1c;
+}
+#hbhHeaderRow {
+  border-bottom:1px solid #000;
+}
+#hbhHeaderRow td {
+  font-weight:bold;
+}
+#playerMiniStats {
+  width: 100%;
+}
+#playerMiniHoleByHole span.bold {
+  font-weight:bold;
+}
+tr.colorRow {
+  background: #f8f8f8;
+}
+
+table.stats {
+  width: 100%;
+}
+
+#playerHBHstats {
+  /*font-size:12px;*/
+}
+
+.hbhStatsTable {
+  width: 100%;
+  padding: 4px;
+  font-family: 'Montserrat',sans-serif;
+}
+
+.hbhStatsTable td {
+  /*padding: 2px;*/
+}
+
+#playerHBHstats tr.colorRow {
+  background: #f8f8f8;
+}
+
+.hbhTable td {
+  width: 4.5%;
+}
+
+.roundHeader {
+  background: #fff;
+  font-size:14px;
+  font-weight:bold;
+  color: #4e7e1c;
+  
+}
+.tableBuffer {
+  height: 15px;
+}
+#playerHBHstats span.bold {
+  font-weight:bold;
+}
+
+table.hbhStatsTableBorder {
+  border: 1px solid #000;
+}
+.playerSectionHeader {
+  font-size: 18px;
+  font-weight: normal;
+  color: #5C5C5C;
+  text-transform: none;
+}
+
+#playerNews h3 {
+  display: none;
+}
+#playerNews .player-story-hed {
+  display: block;
+  font-size: 14px;
+  text-transform: none;
+  margin-bottom: 0;
+  font-weight: normal;
+ font-family: 'Montserrat',sans-serif;
+}
+
+#playerNews .player-story-hed {
+  font-weight: normal;
+  
+}
+
+#playerNews .player-story {
+  font-size: 12px;
+  color: #464646;
+  margin-bottom: 18px;
+}
+#playerNews .player-story-date {
+  color: #666;
+  font-size: 10px;
+  font-style: italic;
+}
+#playerNews a {
+  color:#4e7e1c;
+  text-decoration: none;
+}
+#playerNews a:hover {
+  color:#4e7e1c;
+}
+#playerNews a:visited {
+  color:#4e7e1c;
+}
+#playerNews .interactive-link {
+  display:none;
+}
+
+div.col8 {
+  max-width: 642px;
+}
+
+.collapsed-font {
+  font-size:65%;
+}
+.collapsed-padding {
+  padding:0;
+}
+
+#playerNamesNav {
+  margin:0 0 10px 0;
+  float:left;
+  text-align:left;
+  width: 100%;
+}
+
+.player-spacer {
+margin-top: 40px;
+margin-bottom: 40px;
+}
+
+.clear {
+  clear: both;
+}
+.playerNamesSelect {
+  width:200px;
+}
+.playerThumbnail {
+  display: inline-block;
+  display: inline;
+  
+}
+.playerThumbnailImg {
+  margin:2px;
+  width: 139px;
+}
+.playerThumbnailImg:hover {
+  opacity: 0.52;
+}
+
+a.historyLink {
+  color:#4e7e1c;
+}
+a.historyLink:hover {
+  color:#4e7e1c;
+  text-decoration: underline;
+}
+a.historyLink:visited {
+  color:#7F7F7F;
+}
+h1.page-title {
+   color: #484848;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 28px;
+    line-height: 1.2;
+    margin-bottom: 10px;
+	margin-top: 0px !important;
+    margin-left: 0;
+    margin-right: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+
+}
+
+#LargeLeaderboard th {
+  font-weight: bold;
+  text-align: left;
+}
+#LargeLeaderboard td {
+  padding:5px 1px;
+}
+#LargeLeaderboard th {
+  padding:5px 1px;
+}
+#LargeLeaderboard {
+  margin:0;
+  padding:0;
+  width:100%;
+  background:#fff;
+  font-family: 'Montserrat',sans-serif;
+}
+#LargeLeaderboard a {
+  color: #4e7e1c;
+  font-style: normal;
+  text-decoration: none;
+  visibility: inherit;
+  font-weight: normal;
+}
+#LargeLeaderboard h1 {
+  font-weight:bold;
+}
+#LargeLeaderboard a:hover {
+  text-decoration:underline;
+}
+#LargeLeaderboard tr.odd {
+  background-color: #f8f8f8;
+}
+#LargeLeaderboard tr.even td {
+  background-color: #ffffff;
+}
+#LargeLeaderboard tr.cut td {
+  background-color: #f8f8f8;
+}
+#LargeLeaderboard td.center {
+  text-align: center;
+}
+#LargeLeaderboard th.center {
+  text-align: center;
+}
+#LargeLeaderboard th {
+  border: 0;
+}
+
+#LargeLeaderboard {
+  font-size:13.5px;
+}
+#LargeLeaderboard h1 {
+  font-size:22px;
+}
+.ldbd_smalltext {
+  font-size:12px;
+}
+.hideColumn {
+  display:none;
+}
+#LargeLeaderboard.smallWindow {
+  font-size:75%;
+  width:300px;
+}
+.players-box {
+  float:left;
+  width: 100%;
+  margin-bottom: 8px;
+}
+.players-box select {
+  display: inline;
+}
+#wl-fast-header {
+  left: -14px;
+}
+.player-share {
+    margin-top: 20px;
+}
+
+

@@ -1,0 +1,29 @@
+# This migration links the newly created media entities with entity reference field on the target bundle.
+
+id: d7_file_to_media_example_step2
+label: Example Mapping
+migration_group: default
+source:
+  plugin: content_entity:node
+  bundle: article
+  include_translations: false
+
+destination:
+  plugin: entity:node
+
+process:
+  nid: nid
+
+  type:
+    plugin: default_value
+    default_value: article
+    
+  field_image_media:
+    plugin: file_id_lookup
+    source: field_image
+    migration: d7_file_to_media_example_step1
+    no_stub: true
+
+migration_dependencies:
+  required:
+  - d7_file_to_media_example_step1

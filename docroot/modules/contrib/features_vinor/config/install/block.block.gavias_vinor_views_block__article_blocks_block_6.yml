@@ -1,0 +1,27 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.article_blocks
+  module:
+    - gaviasthemer
+    - views
+  theme:
+    - gavias_vinor
+third_party_settings:
+  gaviasthemer:
+    classes: ''
+id: gavias_vinor_views_block__article_blocks_block_6
+theme: gavias_vinor
+region: breaking_news
+weight: -16
+provider: null
+plugin: 'views_block:article_blocks-block_6'
+settings:
+  id: 'views_block:article_blocks-block_6'
+  label: ''
+  provider: views
+  label_display: '0'
+  views_label: ''
+  items_per_page: none
+visibility: {  }

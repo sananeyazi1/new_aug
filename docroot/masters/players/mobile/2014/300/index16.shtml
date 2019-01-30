@@ -1,0 +1,3715 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"> <head> <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />   <title>Augusta Golf | Masters&reg; Invitees</title><link rel="stylesheet" type="text/css" href="http://augusta.com/masters/mobile/css/mobile.css" /> <script type="text/javascript">    var _gaq = _gaq || [];       _gaq.push(['_setAccount', 'UA-6287136-1']);    _gaq.push(['_trackPageview']);       _gaq.push(['b._setAccount', 'UA-6365892-3']);    _gaq.push(['b._trackPageview']);       _gaq.push(['c._setAccount', 'UA-6450631-2']);    _gaq.push(['c._trackPageview']);       _gaq.push(['d._setAccount', 'UA-6302221-17']);    _gaq.push(['d._trackPageview']); </script> <script type="text/javascript">   (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })(); </script>
+
+
+<style>
+
+td {vertical-align: middle;font-size: 2.4em;}
+
+.playerImage {
+-moz-border-radius: 25px;
+-webkit-border-radius: 25px;
+-khtml-border-radius: 25px;
+border-radius: 25px;
+}
+
+select {
+    padding:5px;
+    margin: 0;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    -webkit-box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    -moz-box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    background: #f8f8f8;
+    color:#333;
+}
+
+</style>
+
+
+
+
+
+
+</head> <body> 
+ 
+	
+
+	<div style="color:#666;font-weight:bold;font-size: 3.6em;">2016 Masters Invitees</div><br /><br />
+
+	
+
+<span style="font-size: 4em; color: #0b883b;font-weight:bold;text-align:;"><select name="prep_weeks" onchange="window.open(this.options[this.selectedIndex].value,'_top')" id="team-select" style="width: 300px; height: 50px;font-size: 0.3em;">
+		<option value="">Select player</option>
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/33361.shtml">An, Byeong-Hun
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34701.shtml">Aphibarnrat, Kiradech
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/31681.shtml">Bae, Sangmoon
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34679.shtml">Bard, Derek
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34621.shtml">Berger, Daniel
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/18206.shtml">Bowditch, Steven
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/33582.shtml">Bradley, Keegan
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/1525.shtml">Cabrera, Angel
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34741.shtml">Cabrera-Bello, Rafa
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/6962.shtml">Casey, Paul
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34721.shtml">Chaplet, Paul
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/206.shtml">Clarke, Darren
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/116.shtml">Couples, Fred
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/24302.shtml">Day, Jason
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34673.shtml">DeChambeau, Bryson
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/13261.shtml">Donaldson, Jamie
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34442.shtml">Dubuisson, Victor
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/9286.shtml">Dufner, Jason
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/121.shtml">Els, Ernie
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34008.shtml">English, Harris
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34502.shtml">Fitzpatrick, Matthew
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/30601.shtml">Fowler, Rickie
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/130.shtml">Furyk, Jim
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/2344.shtml">Garcia, Sergio
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/33584.shtml">Gomez, Fabian
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/32544.shtml">Grace, Branden
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34684.shtml">Grillo, Emiliano
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/8762.shtml">Haas, Bill
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/3642.shtml">Hoffman, Charley
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/19081.shtml">Holmes, J.B.
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/26189.shtml">Horschel, Billy
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/2343.shtml">Immelman, Trevor
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/9288.shtml">Jaidee, Thongchai
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34681.shtml">Jin, Cheng
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/11981.shtml">Johnson, Zach
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/29801.shtml">Johnson, Dustin
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34685.shtml">Kaufman, Smylie
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/20305.shtml">Kaymer, Martin
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/29741.shtml">Kirk, Chris
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/33593.shtml">Kisner, Kevin
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/1726.shtml">Kjeldsen, Soren
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/33742.shtml">Knox, Russell
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34564.shtml">Koepka, Brooks
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/215.shtml">Kuchar, Matt
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34641.shtml">Lahiri, Anirban
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34680.shtml">Langasque, Romain
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/141.shtml">Langer, Bernhard
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/31621.shtml">Lee, Danny
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/31723.shtml">Leishman, Marc
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34686.shtml">Lingmerth, David
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/144.shtml">Love III, Davis
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34565.shtml">Lowry, Shane
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/145.shtml">Lyle, Sandy
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/4965.shtml">Mahan, Hunter
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/33590.shtml">Matsuyama, Hideki
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/8001.shtml">McDowell, Graeme
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/29164.shtml">McIlroy, Rory
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/33282.shtml">Merritt, Troy
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/149.shtml">Mickelson, Phil
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/151.shtml">Mize, Larry
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/16083.shtml">Moore, Ryan
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/7044.shtml">Na, Kevin
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/158.shtml">O'Meara, Mark
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/13636.shtml">Oosthuizen, Louis
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/10825.shtml">Piercy, Scott
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/5173.shtml">Poulter, Ian
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34481.shtml">Reed, Patrick
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/3185.shtml">Rose, Justin
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34682.shtml">Schmitz, Sammy
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/13619.shtml">Schwartzel, Charl
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/5164.shtml">Scott, Adam
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/25842.shtml">Simpson, Webb
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/171.shtml">Singh, Vijay
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34683.shtml">Smith, Cameron
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/21722.shtml">Snedeker, Brandt
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34141.shtml">Spieth, Jordan
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/8421.shtml">Stenson, Henrik
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34569.shtml">Streb, Robert
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/19422.shtml">Streelman, Kevin
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34702.shtml">Sullivan, Andy
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/4483.shtml">Taylor, Vaughn
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/33161.shtml">Thomas, Justin
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/8385.shtml">Walker, Jimmy
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/180.shtml">Watson, Tom
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/10814.shtml">Watson, Bubba
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/1209.shtml">Weir, Mike
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/182.shtml">Westwood, Lee
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34642.shtml">Wiesberger, Bernd
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/34570.shtml">Willett, Danny
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/31293.shtml">Wood, Chris
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/184.shtml">Woods, Tiger
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/185.shtml">Woosnam, Ian
+</select>
+	
+</span>
+<br /><br />
+	
+	<div style="padding: 0 0 10px 0;"></div>	
+	
+	
+
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/33361.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/33361.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/33361.shtml">
+An, Byeong-Hun</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/33361.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34701.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34701.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34701.shtml">
+Aphibarnrat, Kiradech</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34701.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34679.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34679.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34679.shtml">
+Bard, Derek</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34679.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34621.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34621.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34621.shtml">
+Berger, Daniel</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34621.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/18206.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/18206.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/18206.shtml">
+Bowditch, Steven</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/18206.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/33582.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/33582.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/33582.shtml">
+Bradley, Keegan</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/33582.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/1525.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/1525.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/1525.shtml">
+Cabrera, Angel</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/1525.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34741.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34741.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34741.shtml">
+Cabrera-Bello, Rafa</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34741.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/6962.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/6962.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/6962.shtml">
+Casey, Paul</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/6962.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34721.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34721.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34721.shtml">
+Chaplet, Paul</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34721.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/206.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/206.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/206.shtml">
+Clarke, Darren</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/206.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/24302.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/24302.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/24302.shtml">
+Day, Jason</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/24302.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34673.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34673.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34673.shtml">
+DeChambeau, Bryson</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34673.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/13261.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/13261.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/13261.shtml">
+Donaldson, Jamie</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/13261.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34442.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34442.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34442.shtml">
+Dubuisson, Victor</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34442.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/9286.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/9286.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/9286.shtml">
+Dufner, Jason</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/9286.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/121.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/121.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/121.shtml">
+Els, Ernie</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/121.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34008.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34008.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34008.shtml">
+English, Harris</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34008.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34502.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34502.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34502.shtml">
+Fitzpatrick, Matthew</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34502.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/30601.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/30601.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/30601.shtml">
+Fowler, Rickie</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/30601.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/2344.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/2344.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/2344.shtml">
+Garcia, Sergio</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/2344.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/33584.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/33584.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/33584.shtml">
+Gomez, Fabian</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/33584.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/32544.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/32544.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/32544.shtml">
+Grace, Branden</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/32544.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34684.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34684.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34684.shtml">
+Grillo, Emiliano</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34684.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/8762.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/8762.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/8762.shtml">
+Haas, Bill</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/8762.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/33581.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/33581.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/33581.shtml">
+Herman, Jim</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/33581.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/3642.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/3642.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/3642.shtml">
+Hoffman, Charley</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/3642.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/19081.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/19081.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/19081.shtml">
+Holmes, J.B.</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/19081.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/26189.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/26189.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/26189.shtml">
+Horschel, Billy</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/26189.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/2343.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/2343.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/2343.shtml">
+Immelman, Trevor</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/2343.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/9288.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/9288.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/9288.shtml">
+Jaidee, Thongchai</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/9288.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34681.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34681.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34681.shtml">
+Jin, Cheng</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34681.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/11981.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/11981.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/11981.shtml">
+Johnson, Zach</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/11981.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/29801.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/29801.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/29801.shtml">
+Johnson, Dustin</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/29801.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34685.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34685.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34685.shtml">
+Kaufman, Smylie</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34685.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/20305.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/20305.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/20305.shtml">
+Kaymer, Martin</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/20305.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/29741.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/29741.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/29741.shtml">
+Kirk, Chris</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/29741.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/33593.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/33593.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/33593.shtml">
+Kisner, Kevin</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/33593.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/1726.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/1726.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/1726.shtml">
+Kjeldsen, Soren</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/1726.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/33742.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/33742.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/33742.shtml">
+Knox, Russell</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/33742.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34564.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34564.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34564.shtml">
+Koepka, Brooks</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34564.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/215.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/215.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/215.shtml">
+Kuchar, Matt</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/215.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34641.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34641.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34641.shtml">
+Lahiri, Anirban</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34641.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34680.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34680.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34680.shtml">
+Langasque, Romain</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34680.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/141.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/141.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/141.shtml">
+Langer, Bernhard</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/141.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/31621.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/31621.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/31621.shtml">
+Lee, Danny</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/31621.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/31723.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/31723.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/31723.shtml">
+Leishman, Marc</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/31723.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34686.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34686.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34686.shtml">
+Lingmerth, David</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34686.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/144.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/144.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/144.shtml">
+Love III, Davis</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/144.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34565.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34565.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34565.shtml">
+Lowry, Shane</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34565.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/145.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/145.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/145.shtml">
+Lyle, Sandy</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/145.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/4965.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/4965.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/4965.shtml">
+Mahan, Hunter</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/4965.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/33590.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/33590.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/33590.shtml">
+Matsuyama, Hideki</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/33590.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/8001.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/8001.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/8001.shtml">
+McDowell, Graeme</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/8001.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/29164.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/29164.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/29164.shtml">
+McIlroy, Rory</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/29164.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/33282.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/33282.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/33282.shtml">
+Merritt, Troy</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/33282.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/149.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/149.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/149.shtml">
+Mickelson, Phil</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/149.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/151.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/151.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/151.shtml">
+Mize, Larry</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/151.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/16083.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/16083.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/16083.shtml">
+Moore, Ryan</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/16083.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/7044.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/7044.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/7044.shtml">
+Na, Kevin</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/7044.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/158.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/158.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/158.shtml">
+O'Meara, Mark</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/158.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/13636.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/13636.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/13636.shtml">
+Oosthuizen, Louis</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/13636.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/10825.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/10825.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/10825.shtml">
+Piercy, Scott</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/10825.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/5173.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/5173.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/5173.shtml">
+Poulter, Ian</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/5173.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34481.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34481.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34481.shtml">
+Reed, Patrick</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34481.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/3185.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/3185.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/3185.shtml">
+Rose, Justin</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/3185.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34682.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34682.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34682.shtml">
+Schmitz, Sammy</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34682.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/13619.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/13619.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/13619.shtml">
+Schwartzel, Charl</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/13619.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/5164.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/5164.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/5164.shtml">
+Scott, Adam</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/5164.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/25842.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/25842.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/25842.shtml">
+Simpson, Webb</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/25842.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/171.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/171.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/171.shtml">
+Singh, Vijay</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/171.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34683.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34683.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34683.shtml">
+Smith, Cameron</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34683.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/21722.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/21722.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/21722.shtml">
+Snedeker, Brandt</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/21722.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34141.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34141.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34141.shtml">
+Spieth, Jordan</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34141.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/8421.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/8421.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/8421.shtml">
+Stenson, Henrik</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/8421.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34569.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34569.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34569.shtml">
+Streb, Robert</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34569.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/19422.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/19422.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/19422.shtml">
+Streelman, Kevin</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/19422.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34702.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34702.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34702.shtml">
+Sullivan, Andy</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34702.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/4483.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/4483.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/4483.shtml">
+Taylor, Vaughn</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/4483.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/33161.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/33161.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/33161.shtml">
+Thomas, Justin</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/33161.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/8385.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/8385.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/8385.shtml">
+Walker, Jimmy</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/8385.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/180.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/180.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/180.shtml">
+Watson, Tom</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/180.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/10814.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/10814.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/10814.shtml">
+Watson, Bubba</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/10814.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/1209.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/1209.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/1209.shtml">
+Weir, Mike</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/1209.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/182.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/182.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/182.shtml">
+Westwood, Lee</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/182.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34642.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34642.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34642.shtml">
+Wiesberger, Bernd</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34642.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34570.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/34570.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/34570.shtml">
+Willett, Danny</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/34570.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/31293.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/31293.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/31293.shtml">
+Wood, Chris</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/31293.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+
+
+<table style="width: 100%;">
+
+	<tbody>
+		<tr>
+			<td style="width: 35%;">
+	
+</a>
+<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/185.shtml">
+<img class="playerImage" src="http://www.augusta.com/masters/images/players/bios/185.jpg" alt=" " width="70%"> </a>
+
+
+	
+			</td>
+			<td style="padding-left: 10px;text-align: left; width: 65%;font-size: 58px;">
+	<a href="http://www.augusta.com/masters/mobile/players/bios/phone/2014/8/185.shtml">
+Woosnam, Ian</a>
+<br /><span style="font-size: 16px !important; color: #333;text-transform: uppercase;"><!--#include virtual="/masters/players/includes/countries/185.txt"--></span>
+
+	
+			</td>
+		</tr>
+		<tr>
+<div style="border-bottom: 1px solid #f1f1f1;"></div>
+		</td>
+		</tr>
+
+	</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+			
+<br>
+	<span style="font-size: 40px;"><strong>* Sang-Moon Bae will miss the 2016 Masters while serving mandatory duty in the South Korean military</strong></span><br>	
+
+
+
+	
+</body>
+
+</html>

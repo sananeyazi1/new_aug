@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/its-last-year-players-anchor-putters-masters">It&#039;s the last year for players to anchor putters at Masters</a></h3>
+<div class="player-story-date">Posted: 04/08/15</div>
+<div class="player-story-digest">  Take one last look at the putting styles used by Adam Scott, Fred Couples, Bernhard Langer and Kevin Stadler this week in the Masters Tournament. They will be gone next year. Starting Jan. 1, 2016, anchoring &ndash; which means ...</div>
+</div>

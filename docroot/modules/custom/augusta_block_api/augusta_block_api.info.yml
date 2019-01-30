@@ -1,0 +1,5 @@
+name: Augusta API
+type: module
+description: Custom module to get Photos,video and players detail from api.
+package: Custom
+core: '8.x'

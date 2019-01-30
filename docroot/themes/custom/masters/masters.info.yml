@@ -1,0 +1,35 @@
+name: Masters
+type: theme
+description: 'Augusta.com Masters theme'
+package: Custom
+core: 8.x
+engine: twig
+screenshot: screenshot.png
+
+stylesheets-remove:
+  - core/modules/system/css/components/messages.theme.css
+  - core/modules/system/css/components/menu.theme.css
+
+libraries:
+  - masters/global-styling
+
+regions:
+  header: 'Top Bar'
+  search: 'Search'
+  higlighted: 'Highlighted'
+  help: 'Help'
+  sponsorship: 'Sponsorship Ad'
+  top_ad: 'Top Ad'
+  content: 'Content'
+  sidebar: 'Sidebar'
+  content_below: 'Content Below'
+  footer: 'Footer'
+  Copyright: 'Copyright'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+
+settings:
+  user_menu: '1'
+  responsive_nav: '1'
+  sticky_navbar: '0'
+  sticky_footer: '0'

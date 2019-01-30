@@ -1,0 +1,914 @@
+
+
+
+
+  
+	<table id="LargeLeaderboard">
+
+		<TR>
+			<th>
+				<b>Position</b>
+			</th>
+			<th>
+				<b>Player</b>
+			</th>
+			<th class="center">
+				<b>Final</b>
+			</th>
+
+			
+			<th class="center">
+				<b>Earnings</b>
+			</th>
+
+
+		</TR>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+1</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh104.shtml">Seve Ballesteros</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $55,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T2</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh3883.shtml">Gibby Gilbert</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $30,500
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T2</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh2981.shtml">Jack Newton</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $30,500
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+4</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1649.shtml">Hubert Green</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $15,750
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+5</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh3003.shtml">David Graham</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $13,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T6</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh117.shtml">Ben Crenshaw</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $9,958
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T6</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh124.shtml">Ed Fiori</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $9,958
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T6</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh140.shtml">Tom Kite</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $9,958
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T6</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1616.shtml">Larry Nelson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $9,958
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T6</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1619.shtml">Jerry Pate</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $9,958
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T6</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh165.shtml">Gary Player</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $9,958
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T12</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1669.shtml">Andy Bean</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $7,250
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T12</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh180.shtml">Tom Watson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $7,250
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T14</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1617.shtml">Jim Colbert</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $5,917
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T14</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh3068.shtml">Jack Renner</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $5,917
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T14</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1621.shtml">J.C. Snead</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $5,917
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T17</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh125.shtml">Ray Floyd</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $5,075
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T17</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh210.shtml">Jay Haas</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $5,075
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T19</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh3803.shtml">Bill Kratzert</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $3,990
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T19</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1626.shtml">Gil Morgan</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $3,990
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T19</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1667.shtml">Calvin Peete</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $3,990
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T19</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh3887.shtml">Jim Simons</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $3,990
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T19</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh186.shtml">Fuzzy Zoeller</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $3,990
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T24</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh3021.shtml">Andy North</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $3,025
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T24</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh161.shtml">Arnold Palmer</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $3,025
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T26</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1276.shtml">Keith Fergus</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $2,430
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T26</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1628.shtml">Lou Graham</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $2,430
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T26</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh5940.shtml">Jay Sigel</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T26</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh173.shtml">Craig Stadler</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $2,430
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T26</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1344.shtml">Dave Stockton</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $2,430
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T26</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1638.shtml">Lee Trevino</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $2,430
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+32</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1327.shtml">Tom Purtzer</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $2,150
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T33</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh2990.shtml">John Fought</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,860
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T33</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh3894.shtml">Joe Inman</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,860
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T33</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh5922.shtml">Graham Marsh</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,860
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T33</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh154.shtml">Jack Nicklaus</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,860
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T33</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh3864.shtml">Bill Rogers</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,860
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh3782.shtml">Rex Caldwell</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,525
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh114.shtml">Charles Coody</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,525
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1640.shtml">Johnny Miller</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,525
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh3925.shtml">Jeff Mitchell</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,525
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1325.shtml">Doug Tewell</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,525
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1215.shtml">Howard Twitty</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,525
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T44</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh6544.shtml">Jim Holtgrieve</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T44</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1282.shtml">John Mahaffey</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,500
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T44</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh12410.shtml">Juan Rodriguez</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,500
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T44</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh2995.shtml">Ed Sneed</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,500
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+48</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh145.shtml">Sandy Lyle</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,500
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+49</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1636.shtml">Gene Littler</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,500
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+50</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh3783.shtml">Bobby Clampett</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+51</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh196.shtml">Art Wall Jr.</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+12</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,500
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+52</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/1980_hbh1322.shtml">Hal Sutton</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+	</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+

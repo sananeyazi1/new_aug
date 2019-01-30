@@ -1,0 +1,15 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/russell-henley-solid-masters-debut">Russell Henley solid in Masters debut</a></h3>
+<div class="player-story-date">Posted: 04/11/13</div>
+<div class="player-story-digest">  For the most part, Thurs&shy;day at the Masters Tour&shy;na&shy;ment began just as Russell Hen&shy;ley had imagined. &ldquo;I walked onto the tee and just got chills with everyone clapping, and it just kind of hit me all the sudden that ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/georgia-georgia-tech-rivalry-extends-golf-course">Georgia, Georgia Tech rivalry extends to golf course</a></h3>
+<div class="player-story-date">Posted: 04/10/13</div>
+<div class="player-story-digest">  It&rsquo;s a good time to be a Geor&shy;gia Bulldog and playing on the PGA Tour &ndash; especially at the Masters Tournament, where it&rsquo;s as comfy as a home-field advantage at Sanford Stadium. &ldquo;I hear a lot of &lsquo;Go Dawgs,&rsquo;&rdquo; ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/russell-henley-makes-waves-hot-start">Russell Henley makes waves with hot start</a></h3>
+<div class="player-story-date">Posted: 03/11/13</div>
+<div class="player-story-digest">  The most prominent Geor&shy;gia Bulldog in the Masters Tour&shy;nament will be the guy bringing back the green jacket, but the new guy from the Athens golf factory is worth keeping an eye on. Russell Henley, a 23-year-old Macon native, ...</div>
+</div>

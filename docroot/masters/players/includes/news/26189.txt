@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/billy-horschels-ball-blown-green-water">Billy Horschel&#039;s ball blown off green into water</a></h3>
+<div class="player-story-date">Posted: 04/09/16</div>
+<div class="player-story-digest">  Billy Horschel was striking the ball well during Sat&shy;ur&shy;day&rsquo;s third round and got a huge emotional lift with a long birdie putt at the par-4 ninth hole and a two-putt birdie at the par-5 13th. Facing a 13-foot, uphill ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/billy-horschel-not-awe-augusta-national">Billy Horschel not in awe of Augusta National</a></h3>
+<div class="player-story-date">Posted: 04/08/15</div>
+<div class="player-story-digest">  Here are a sampling of comments this week on Au&shy;gus&shy;ta National Golf Club and the Masters Tournament. Tiger Woods: &ldquo;There&rsquo;s no other tournament in the world like this. It&rsquo;s always special.&rdquo; ...</div>
+</div>

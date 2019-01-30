@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/amateurs-play-countrymen-opening-round">Amateurs play with countrymen in opening round </a></h3>
+<div class="player-story-date">Posted: 04/10/15</div>
+<div class="player-story-digest">  A lot of thought went into the groupings for the amateurs playing in their first Masters Tournament on Thursday. Corey Conners, a Canadian, played with 2003 Masters champion Mike Weir of Ontario. Australian Anthony Murdaca was paired with 2013 ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/masters-tournament-rookie-bradley-neil-eagles-no-2-again">Masters Tournament rookie Bradley Neil eagles No. 2 again</a></h3>
+<div class="player-story-date">Posted: 04/06/15</div>
+<div class="player-story-digest">  Bradley Neil continues to find magic on No. 2. Apparently all he needs is Rory McIlroy nearby. During Monday&rsquo;s practice round with McIlroy, the 19-year-old Scot holed out from about 90 yards for an eagle. Neil said he did ...</div>
+</div>

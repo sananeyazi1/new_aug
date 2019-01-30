@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/erik-compton-enters-masters-busy-schedule">Erik Compton enters Masters off busy schedule</a></h3>
+<div class="player-story-date">Posted: 04/06/15</div>
+<div class="player-story-digest">  Erik Compton made it his intention to play as much golf as possible leading into his first Masters Tournament, and he said last week&rsquo;s results were a positive step forward. Compton has competed in four events since the beginning ...</div>
+</div>

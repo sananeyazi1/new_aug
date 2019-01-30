@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+      <script src="http://malsup.github.com/jquery.form.js"></script> 
+</head>
+<body>
+
+<style>
+#div1, #div2, #div3, #div4, #div5, #div6 {
+width: 300px;
+height: 200px;
+border: 1px solid #f1f1f1;
+}
+
+#formdiv1, #formdiv2, #formdiv3, #formdiv4, #formdiv5, #formdiv6 {
+width: 300px;
+height: 200px;
+border: 1px solid #f1f1f1;
+}
+
+#btn1, #btn2, #btn3, #btn4, #btn5, #btn6  { 
+    border-width: 2px;
+    border-style: solid;
+    border-color: transparent;
+    border-image: initial;
+    padding: 3px 10px;
+	  color: rgb(255, 255, 255);
+    background-color: rgb(217, 83, 79);
+    border-color: rgb(217, 83, 79);
+}
+
+#btnclose {
+float: right;
+background-color: #484848;
+border: 1px solid #ccc;
+border-radius: 25px;
+-webkit-border-radius: 25px;
+-moz-border-radius: 25px;
+height: 25px;
+width: 25px; 
+color: #fff;
+}
+</style>
+
+ <div id="div1">
+ 
+<button id="btn1" class="editbutton" >SIGN UP</button>
+</div>
+
+<div id="formdiv1">
+<input id="btnclose" type="button" onClick="history.go(0)" value="x">
+
+<form action="http://whatcounts.com/bin/listctrl" method="POST">
+	<input type="hidden" name="slid" value="6700EAF45F07D38E6BDA33E2C8E47167" />
+	<input type="hidden" name="cmd" value="subscribe" />
+	<input type="hidden" name="goto" value="http://sandbox.jacksonville.com/emailcenter/success" />
+	<input type="text" id="email" name="email" placeholder="Your email address" required>
+				<input type="hidden" id="format_html" name="format" value="html" />
+				<input id="btn1" type="submit" value="SIGN UP" />
+		
+</form>
+</div>
+<script type="text/javascript">
+    $(document).ready(function(){
+       	$("#formdiv1").hide();
+        $("#btn1").click(function(e) {
+      	 $("#formdiv1").show();
+         $("#div1").hide();
+	 });
+	
+	$('#btnclose').click(function(e) {
+    $("#formdiv1").hide();
+    $("#div1").show();
+});
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function(){
+       	$("#formdiv2").hide();
+        $("#btn2").click(function(e) {
+      	 $("#formdiv2").show();
+         $("#div2").hide();
+	 });
+	
+	$('#btnclose').click(function(e) {
+    $("#formdiv2").hide();
+    $("#div2").show();
+});
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function(){
+       	$("#formdiv3").hide();
+        $("#btn3").click(function(e) {
+      	 $("#formdiv3").show();
+         $("#div3").hide();
+	 });
+	
+	$('#btnclose').click(function(e) {
+    $("#formdiv3").hide();
+    $("#div3").show();
+});
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function(){
+       	$("#formdiv4").hide();
+        $("#btn4").click(function(e) {
+      	 $("#formdiv4").show();
+         $("#div4").hide();
+	 });
+	
+	$('#btnclose').click(function(e) {
+    $("#formdiv4").hide();
+    $("#div4").show();
+});
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function(){
+       	$("#formdiv5").hide();
+        $("#btn5").click(function(e) {
+      	 $("#formdiv5").show();
+         $("#div5").hide();
+	 });
+	
+	$('#btnclose').click(function(e) {
+    $("#formdiv5").hide();
+    $("#div5").show();
+});
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function(){
+       	$("#formdiv6").hide();
+        $("#btn6").click(function(e) {
+      	 $("#formdiv6").show();
+         $("#div2").hide();
+	 });
+	
+	$('#btnclose').click(function(e) {
+    $("#formdiv6").hide();
+    $("#div6").show();
+});
+    });
+</script>
+</div>
+</body>
+</html>

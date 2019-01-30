@@ -1,0 +1,931 @@
+
+
+
+
+  
+	<table id="LargeLeaderboard">
+
+		<TR>
+			<th>
+				<b>Position</b>
+			</th>
+			<th>
+				<b>Player</b>
+			</th>
+			<th class="center">
+				<b>Final</b>
+			</th>
+
+			
+			<th class="center">
+				<b>Earnings</b>
+			</th>
+
+
+		</TR>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+1</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh34481.shtml">Patrick Reed</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-15</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,980,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+2</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh30601.shtml">Rickie Fowler</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-14</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $1,188,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+3</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh34141.shtml">Jordan Spieth</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-13</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $748,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+4</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh34841.shtml">Jon Rahm</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-11</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $528,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T5</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh29164.shtml">Rory McIlroy</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $386,375
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T5</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh34683.shtml">Cameron Smith</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $386,375
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T5</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh8421.shtml">Henrik Stenson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $386,375
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T5</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh10814.shtml">Bubba Watson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $386,375
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+9</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh31723.shtml">Marc Leishman</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $319,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T10</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh29461.shtml">Tony Finau</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $286,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T10</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh29801.shtml">Dustin Johnson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $286,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T12</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh3642.shtml">Charley Hoffman</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $231,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T12</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh13636.shtml">Louis Oosthuizen</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $231,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T12</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh3185.shtml">Justin Rose</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $231,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T15</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh6962.shtml">Paul Casey</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $192,500
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T15</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh34384.shtml">Russell Henley</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-5</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $192,500
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T17</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh34881.shtml">Tommy Fleetwood</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $170,500
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T17</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh33161.shtml">Justin Thomas</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $170,500
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+19</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh33590.shtml">Hideki Matsuyama</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $154,000
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T20</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh24302.shtml">Jason Day</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $128,150
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T20</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh17946.shtml">Francesco Molinari</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $128,150
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T20</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh25842.shtml">Webb Simpson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $128,150
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T20</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh8385.shtml">Jimmy Walker</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $128,150
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T24</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh32544.shtml">Branden Grace</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $93,775
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T24</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh34861.shtml">Adam Hadwin</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $93,775
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T24</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh30322.shtml">Si Woo Kim</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $93,775
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T24</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh34642.shtml">Bernd Wiesberger</a>
+				</TD>
+			<td class="center" NOWRAP>
+				-1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $93,775
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T28</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh33593.shtml">Kevin Kisner</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $76,450
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T28</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh34941.shtml">Satoshi Kodaira</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $76,450
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T28</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh215.shtml">Matt Kuchar</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $76,450
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T28</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh16083.shtml">Ryan Moore</a>
+				</TD>
+			<td class="center" NOWRAP>
+				E</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $76,450
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T32</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh34621.shtml">Daniel Berger</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $93,775
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T32</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh34913.shtml">Haotong Li</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $63,663
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T32</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh5164.shtml">Adam Scott</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $63,663
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T32</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh184.shtml">Tiger Woods</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+1</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $63,663
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T36</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh11981.shtml">Zach Johnson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $55,275
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T36</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh149.shtml">Phil Mickelson</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+2</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $55,275
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh34741.shtml">Rafa Cabrera-Bello</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $46,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh116.shtml">Fred Couples</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $46,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh34673.shtml">Bryson DeChambeau</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $46,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh34502.shtml">Matthew Fitzpatrick</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $46,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh141.shtml">Bernhard Langer</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $46,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T38</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh18621.shtml">Jhonattan Vegas</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+3</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $46,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T44</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh34701.shtml">Kiradech Aphibarnrat</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $35,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T44</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh21821.shtml">Brian Harman</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $35,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T44</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh34773.shtml">Tyrrell Hatton</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $35,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T44</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh5173.shtml">Ian Poulter</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+4</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $35,200
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+48</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh20305.shtml">Martin Kaymer</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+6</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $30,140
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+49</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh171.shtml">Vijay Singh</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+7</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $28,600
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+T50</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh34902.shtml">Doug Ghim</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 -
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+T50</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh34915.shtml">Xander Schauffele</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+8</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $27,720
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#ffffff">
+			<td>
+52</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh27505.shtml">Kyle Stanley</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+9</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $27,060
+				
+			</td>
+		</tr>
+		<tr BGCOLOR="#f8f8f8">
+			<td>
+53</TD>
+			<td NOWRAP>
+				
+				<a href="/masters/historic/players/hbh/2018_hbh8862.shtml">Chez Reavie</a>
+				</TD>
+			<td class="center" NOWRAP>
+				+10</TD>
+
+			
+			<td class="center" NOWRAP>
+				
+				 $26,400
+				
+			</td>
+		</tr>
+	</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+

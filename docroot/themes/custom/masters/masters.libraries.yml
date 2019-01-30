@@ -1,0 +1,18 @@
+global-scripts:
+  version: 1.x
+  js:
+    js/tealium.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal.ajax
+    - core/drupal
+    - core/drupalSettings
+    - core/jquery.once
+
+global-styling:
+  version: 1.x
+  css: 
+    theme:
+      css/local.css: {}
+      css/local-color.css: {}
+      

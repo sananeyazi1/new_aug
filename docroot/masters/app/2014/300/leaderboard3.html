@@ -1,0 +1,142 @@
+
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>
+$(function(){
+  var viewPortWidth = $(window).width();
+
+  if (viewPortWidth < 444) {
+    $('#LargeLeaderboard').addClass('smallWindow');
+    $('.RoundHeader').addClass('hideColumn');
+    $('.RoundData').addClass('hideColumn');
+  }
+
+});
+</script>
+
+<script type="text/javascript">
+<!--
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'block')
+          e.style.display = 'none';
+       else
+          e.style.display = 'block';
+    }
+//-->
+</script>
+
+<style>
+body {background: #0a7834;
+}
+#LargeLeaderboard {
+  font-family: arial, serif;
+color: #fff;
+ font-size:1.6em;
+margin:0;
+  padding:0;
+  width:100%;
+}
+#LargeLeaderboard th {
+  font-weight: bold;
+  text-align: left;
+color: #f1f1f1;
+padding:2px 1px;
+font-size:1.5em;
+}
+#LargeLeaderboard td {
+ padding-top:10px;
+padding-bottom: 10px;
+color: #fff;
+
+}
+
+
+#LargeLeaderboard a {
+  color: #fff;
+  font-style: 500;
+  text-decoration: none;
+  visibility: inherit;
+  font-weight:normal;
+
+}
+#LargeLeaderboard h1 {
+  font-weight:bold;
+}
+#LargeLeaderboard a:hover {
+  text-decoration:none;
+}
+#LargeLeaderboard tr.odd {
+  background-color: #085124;
+font-size:1.5em;
+}
+#LargeLeaderboard tr.even td {
+  background-color: #063919;
+font-size:1.5em;
+}
+#LargeLeaderboard tr.cut td {
+  background-color: #0a7834;
+font-size:1.5em;
+}
+#LargeLeaderboard td.center {
+  text-align: center;
+}
+#LargeLeaderboard th.center {
+  text-align: center;
+}
+
+
+.ldbd_smalltext {
+ font-size:1em;
+color: #f1f1f1;
+}
+.hideColumn {
+  display:none;
+}
+#LargeLeaderboard.smallWindow {
+ font-size:1.5em;
+  }
+.minith {
+font-size:1.5em;
+background-color: #666666;
+}
+</style>
+</head>
+
+
+<body onLoad="viewPortWidth();">
+<table id="LargeLeaderboard" cellspacing="0" valign="top">
+<tbody>
+<tr><td colspan="5" class="center">
+<span style="font-size:1.8em;">2014 Masters - Round 1</span><br />
+
+<div class="ldbd_smalltext">Last updated Thu., 04/10/14, 10:12am</div></td></tr>
+
+<tr><th>Pos</th><th>Name</th><th class="center">Score</th><th class="center">Thru</th><th class="center">Strokes</th></tr>
+
+  
+  
+
+	<tr class="odd">
+
+
+	<td>-</td>
+	<td>
+
+<a href="/masters/mobile/players/bios/2014/-.html" target="_top">- -</a>
+
+</td>
+	<td class="center">-</td>
+	<td class="center">- </td>
+	
+	<td class="center">-</td>
+
+</tr>
+
+
+
+</tbody>
+</table>
+</body>
+</html>

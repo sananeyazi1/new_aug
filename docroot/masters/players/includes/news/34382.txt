@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/latest-news/amateur-champion-steven-fox-looking-forward-first-masters">Amateur champion Steven Fox looking forward to first Masters</a></h3>
+<div class="player-story-date">Posted: 04/09/13</div>
+<div class="player-story-digest"> Dreams are coming true for Steven Fox. Fox, a 22-year-old senior attending the University of Tennessee-Chattanooga, won the 2012 U.S. Amateur Championship in August, rallying from two down with two to play and winning in extra holes. He described that ...</div>
+</div>

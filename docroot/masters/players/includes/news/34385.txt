@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/latest-news/being-pre-masters-favorite-no-guarantee-tiger-woods">Being pre-Masters favorite no guarantee for Tiger Woods</a></h3>
+<div class="player-story-date">Posted: 04/08/13</div>
+<div class="player-story-digest"> Tiger Woods was at Au­gusta National Golf Club on Sunday, playing a quiet practice round with Steve Strick­er and U.S. Amateur Public Links champion T.J. Vogel while tuning up for the 77th Masters Tournament. The first major of the year ...</div>
+</div>

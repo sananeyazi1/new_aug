@@ -1,0 +1,62 @@
+	<link rel="stylesheet" href="http://origin.augusta.com/masters/includes/normalize.css">
+	<link rel="stylesheet" href="http://origin.augusta.com/masters/includes/style.css">
+	<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<div style="background-color:#116644;width:100%;padding-top:3px;padding-left:3px;"><a href="http://m.chronicle.augusta.com"><img src="http://augustachronicle.com/images/2014/ac-logo-white-transparent.png" width="200" border="0" style="padding-top: 4px;"></a></div>
+	<script>
+		$(function() {
+			var pull 		= $('#pull');
+				menu 		= $('nav ul');
+				menuHeight	= menu.height();
+
+			$(pull).on('click', function(e) {
+				e.preventDefault();
+				menu.slideToggle();
+			});
+
+			$(window).resize(function(){
+        		var w = $(window).width();
+        		if(w > 320 && menu.is(':hidden')) {
+        			menu.removeAttr('style');
+        		}
+    		});
+		});
+	</script>
+
+	<nav class="clearfix">
+		<ul class="clearfix">
+			<li><a href="http://m.chronicle.augusta.com/" style="color: #fff;">Home</a></li>			
+			<li><a href="http://m.chronicle.augusta.com/latest-news" style="color: #fff;">Latest News</a></li>
+			<li><a href="http://m.chronicle.augusta.com/news/metro/mobile" style="color: #fff;">Metro</a></li>
+			<li><a href="http://m.chronicle.augusta.com/news/crime-courts/mobile" style="color: #fff;">Crime & Courts</a></li>
+			<li><a href="http://m.legacy.com/obituaries/augustachronicle/" style="color: #fff;">Obituaries</a></li>
+                        <li><a href="http://m.chronicle.augusta.com/sports/" style="color: #fff;">Sports</a></li>
+			<li><a href="http://m.chronicle.augusta.com/opinion/mobile" style="color: #fff;">Opinion</a></li>
+			<li><a href="http://m.chronicle.augusta.com/news/business/mobile" style="color: #fff;">Business</a></li>	
+			<li><a href="http://m.chronicle.augusta.com/things-do/mobile" style="color: #fff;">Things To Do</a></li>
+			<li><a href="http://m.chronicle.augusta.com/photos/slideshows/mobile" style="color: #fff;">Slideshows</a></li>
+
+			<li><a href="http://m.chronicle.augusta.com/multimedia/video/mobile" style="color: #fff;">Video</a></li>
+                        <li><a href="http://booked.augusta.com" style="color: #fff;">Police Bookings</a></li>
+			<li><a href="http://events.augusta.com/" style="color: #fff;">Events Calendar</a></li>
+
+		
+         
+                        <li><a href="http://secure.adpay.com/searchresults.aspx?p=2150&&region=2150&catid=Merchandise" style="color: #fff;">Classifieds</a></li>
+			<li><a href="http://m.local-jobs.monster.com/?ch=augusta" style="color: #fff;">Jobs</a></li>
+
+                        <li><a href="http://m.autos.augusta.com/" style="color: #fff;">Cars</a></li>
+                        <li><a href="http://m.homes.augusta.com/" style="color: #fff;">Homes</a></li>
+			<li><a href="http://chronicle.augusta.com/apps" style="color: #fff;">Chronicle Apps</a></li>
+
+			<li><a href="http://chronicle.augusta.com/subscribe/home" style="color: #fff;">Subscribe</a></li>
+			<li><a href="http://subscriberservices.morris.com/cbwebaugusta/Login.asp" style="color: #fff;">Manage Print Subscription</a></li>
+
+			<li><a href="http://www.ac-rewards.com/" style="color: #fff;">Subscriber Rewards</a></li>
+                        <li><a href="http://issuu.com/www.augusta.com/docs/augusta-chronicle-retail-media-kit2/1?e=2062004/4439445" style="color: #fff;">Advertise</a></li>
+			<li><a href="http://chronicle.augusta.com/rd/full" style="color: #fff;">Switch to Full Site</a></li>
+
+
+		</ul>
+	<a href="#" id="pull"  style="color: #fff;" style="max-width:70%;">Menu</a>
+	</nav>

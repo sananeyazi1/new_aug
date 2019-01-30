@@ -1,0 +1,43 @@
+id: de7_panel
+label: Panel
+migration_tags:
+  - Drupal 7
+deriver: Drupal\node\Plugin\migrate\D7NodeDeriver
+migration_group: de7
+source:
+  plugin: d7_node
+  node_type: panel
+process:
+#  nid and vid commented out will allow them to autoincrement. Safe as long
+#    as nothing else is referencing them.
+  nid: nid
+  vid: vid
+  type:
+    plugin: default_value
+    default_value: panel
+  langcode:
+    plugin: default_value
+    source: language
+    default_value: "und"
+  title: title
+  path: path
+  metatags: metatags
+  rabbit_hole: rabbit_hole
+  redirect: redirect
+  xmlsitemap: xmlsitemap
+  uid: node_uid
+  status: status
+  created: created
+  changed: changed
+  promote: promote
+  sticky: sticky
+  body/format:
+    plugin: default_value
+    default_value: html/formatted
+  body/value: body
+  revision_uid: revision_uid
+  revision_log: log
+  revision_timestamp: timestamp
+destination:
+  plugin: entity:node
+migration_dependencies: {}

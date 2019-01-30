@@ -1,0 +1,304 @@
+
+<style>
+
+table {
+max-width: 100%;
+}
+
+
+td {
+	font-family: "myriad-pro", Lucida Sans, Lucida Grande, Lucida Sans Unicode, Helvetica, Arial, sans-serif;
+	font-size:28px;
+	text-align:left;	
+	color: #999;
+	padding:14px;
+    vertical-align: middle;
+}
+
+.player-bio-name {
+	font-family: "myriad-pro", Lucida Sans, Lucida Grande, Lucida Sans Unicode, Helvetica, Arial, sans-serif;
+	font-size:3em;
+	text-align:left;	
+	color: #ffffff;
+	background-color: #0b883b;
+	padding:2px;
+
+}
+.player-bio-info {
+	font-family: "myriad-pro", Lucida Sans, Lucida Grande, Lucida Sans Unicode, Helvetica, Arial, sans-serif;
+	font-size:28px;
+	text-align:left;	
+	color: #333;
+padding-left: 30px;
+	line-height: 1.6em;
+}
+
+.player-masters-info {
+	font-family: "myriad-pro", Lucida Sans, Lucida Grande, Lucida Sans Unicode, Helvetica, Arial, sans-serif;
+	font-size:28px;
+	text-align:left;	
+	color: #333;
+	line-height: 1.6em;
+}
+
+.playerImageBox {
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+-khtml-border-radius: 10px;
+border-radius: 10px;
+padding: 2px 0 0 2px;
+}
+.roundHeader {
+background: #BACABF;
+font-size:28px;
+font-weight: bold;
+padding: 3px;
+color: #000;
+}
+tr.colorRow {
+background: #BACABF;
+}
+
+select {
+    padding:5px;
+    margin: 0;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px;
+    -webkit-box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    -moz-box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    box-shadow: 0 3px 0 #ccc, 0 -1px #fff inset;
+    background: #f8f8f8;
+    color:#333;
+}
+
+
+</style>
+
+<div style="border:10px solid #0b883b;background-color:#e3e8e3;">
+
+
+
+<div class="player-bio-name">
+	<span style="font-size: 48px;">Jordan Spieth</span> &nbsp;<img src="http://www.augusta.com/masters/dps/players/images/flags/34141.png" style="width:75px;padding-bottom:-1px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<span style="font-size: 4em; color: #0b883b;font-weight:bold;text-align:left;"><select name="prep_weeks" onchange="window.open(this.options[this.selectedIndex].value,'_top')" id="team-select" style="width: 300px; height: 50px;font-size: 0.3em;">
+		<option value="">Select player</option>
+			
+<OPTION value="/masters/mobile/players/bios/phone/2014/8/33361.shtml">An, Byeong-Hun
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34701.shtml">Aphibarnrat, Kiradech
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/31681.shtml">Bae, Sangmoon
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34679.shtml">Bard, Derek
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34621.shtml">Berger, Daniel
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/18206.shtml">Bowditch, Steven
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/33582.shtml">Bradley, Keegan
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/1525.shtml">Cabrera, Angel
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34741.shtml">Cabrera-Bello, Rafa
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/6962.shtml">Casey, Paul
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34721.shtml">Chaplet, Paul
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/206.shtml">Clarke, Darren
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/24302.shtml">Day, Jason
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34673.shtml">DeChambeau, Bryson
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/13261.shtml">Donaldson, Jamie
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34442.shtml">Dubuisson, Victor
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/9286.shtml">Dufner, Jason
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/121.shtml">Els, Ernie
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34008.shtml">English, Harris
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34502.shtml">Fitzpatrick, Matthew
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/30601.shtml">Fowler, Rickie
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/130.shtml">Furyk, Jim
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/2344.shtml">Garcia, Sergio
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/33584.shtml">Gomez, Fabian
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/32544.shtml">Grace, Branden
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34684.shtml">Grillo, Emiliano
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/8762.shtml">Haas, Bill
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/33581.shtml">Herman, Jim
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/3642.shtml">Hoffman, Charley
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/19081.shtml">Holmes, J.B.
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/26189.shtml">Horschel, Billy
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/2343.shtml">Immelman, Trevor
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/9288.shtml">Jaidee, Thongchai
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34681.shtml">Jin, Cheng
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/29801.shtml">Johnson, Dustin
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/11981.shtml">Johnson, Zach
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34685.shtml">Kaufman, Smylie
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/20305.shtml">Kaymer, Martin
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/29741.shtml">Kirk, Chris
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/33593.shtml">Kisner, Kevin
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/1726.shtml">Kjeldsen, Soren
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/33742.shtml">Knox, Russell
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34564.shtml">Koepka, Brooks
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/215.shtml">Kuchar, Matt
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34641.shtml">Lahiri, Anirban
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34680.shtml">Langasque, Romain
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/141.shtml">Langer, Bernhard
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/31621.shtml">Lee, Danny
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/31723.shtml">Leishman, Marc
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34686.shtml">Lingmerth, David
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/144.shtml">Love III, Davis
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34565.shtml">Lowry, Shane
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/145.shtml">Lyle, Sandy
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/4965.shtml">Mahan, Hunter
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/33590.shtml">Matsuyama, Hideki
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/8001.shtml">McDowell, Graeme
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/29164.shtml">McIlroy, Rory
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/33282.shtml">Merritt, Troy
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/149.shtml">Mickelson, Phil
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/151.shtml">Mize, Larry
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/16083.shtml">Moore, Ryan
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/7044.shtml">Na, Kevin
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/158.shtml">O'Meara, Mark
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/13636.shtml">Oosthuizen, Louis
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/10825.shtml">Piercy, Scott
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/5173.shtml">Poulter, Ian
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34481.shtml">Reed, Patrick
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/3185.shtml">Rose, Justin
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34682.shtml">Schmitz, Sammy
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/13619.shtml">Schwartzel, Charl
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/5164.shtml">Scott, Adam
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/25842.shtml">Simpson, Webb
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/171.shtml">Singh, Vijay
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34683.shtml">Smith, Cameron
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/21722.shtml">Snedeker, Brandt
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34141.shtml">Spieth, Jordan
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/8421.shtml">Stenson, Henrik
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34569.shtml">Streb, Robert
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/19422.shtml">Streelman, Kevin
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34702.shtml">Sullivan, Andy
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/4483.shtml">Taylor, Vaughn
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/33161.shtml">Thomas, Justin
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/8385.shtml">Walker, Jimmy
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/10814.shtml">Watson, Bubba
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/180.shtml">Watson, Tom
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/1209.shtml">Weir, Mike
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/182.shtml">Westwood, Lee
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34642.shtml">Wiesberger, Bernd
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/34570.shtml">Willett, Danny
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/31293.shtml">Wood, Chris
+			<OPTION value="/masters/mobile/players/bios/phone/2014/8/185.shtml">Woosnam, Ian
+	
+			
+
+</select>
+	
+</span>
+</div>
+
+
+
+<div style="float: left;width: 30%; padding-right: 40px;">
+   
+<img class="playerImageBox" src="http://www.augusta.com/masters/images/players/bios/34141.jpg" alt="Jordan Spieth" style="vertical-align:middle;width: 100%">
+</div>
+<div style="float:inline;">
+
+		
+	<div style="padding-top:2px;"></div>	
+		<div class="player-bio-info"><span style="color:#000;"><strong>Country:</strong></span> <!--#include virtual="/masters/players/includes/countries/34141.txt"--></div>
+
+	<div class="player-bio-info"><span style="color:#000;"><strong>Height/Weight:</strong></span> 6-1    / 185</div>
+	
+	<div class="player-bio-info"><span style="color:#000;"><strong>Age/Date of Birth:</strong></span> 22, 07/27/93</div>
+	<div class="player-bio-info"><span style="color:#000;"><strong>Birthplace:</strong></span> Dallas, Texas</div>
+	<div class="player-bio-info"><span style="color:#000;"><strong>Residence:</strong></span> Dallas, Texas</div>
+<div class="player-bio-info"><span style="color:#000;"><strong>College:</strong></span> University of Texas</div>	<div class="player-bio-info"><span style="color:#000;"><strong>Turned Pro:</strong></span> 2012 <span style="padding-left:5px;"></span>
+				
+<span style="color:#000;"><strong>Wins: </strong></span>8</div>
+<div class="player-bio-info"><span style="color:#000;"><strong>World Golf Rank: </strong></span> 2</div>	
+
+	
+</div>
+
+
+	<div style="clear:both;"></div>
+
+<br>
+<div class="player-bio-info"><span style="color:#000;"><strong>2016 Masters Qualification(s):</strong> <!--#include virtual="/masters/players/includes/qualify_34141.html"-->
+</div>
+<br>
+
+
+	<div class="player-bio-name">
+	2016 Masters
+</div>
+
+<div class="player-bio-name">
+<!--#include virtual="/masters/mobile/players/holebyhole/34141_small.html"-->
+
+
+
+</div>
+
+<div class="player-bio-name">
+	Masters Record
+</div>
+
+
+									
+
+
+
+      									
+
+
+
+     									
+
+
+								<div style="padding-top:2px; padding-left: 2px;">
+								<span class="player-bio-info">3 victories in 2 starts. Made the cut 3 times.</span> 
+								<span class="player-bio-info"><br />
+<B>Average Finish:</B> 2</span>		
+<span class="player-bio-info"><br />
+<B>Masters Earnings:</b> $2,592,000 </span>							
+							</div>
+								
+
+							
+
+				<TABLE style="width:100%;" CELLSPACING="2" CELLPADDING="3">
+					<tbody>
+					<TR class="roundHeader">
+					  <TD WIDTH="15%" ROWSPAN="2" style="color:#000;text-align:center;"><b>Year</b></TD>
+					  <TD WIDTH="15%" ROWSPAN="2" style="color:#000;text-align:center;"><b>Place</b></TD>
+					  <TD WIDTH="15%" ROWSPAN="2" style="color:#000;text-align:center;"><b>Score</b></TD>
+					  <TD COLSPAN="4" width="30%" style="color:#000;text-align:center;"><b>Round</b></TD>
+					  <TD WIDTH="25%" ROWSPAN="2" style="color:#000;text-align:center;"><b>Money</b></TD>
+					</TR>
+					<TR class="roundHeader">
+					  <TD ALIGN=CENTER VALIGN=BOTTOM><b>1</b></TD>
+					  <TD ALIGN=CENTER VALIGN=BOTTOM><b>2</b></TD>
+					  <TD ALIGN=CENTER VALIGN=BOTTOM><b>3</b></TD>
+					  <TD ALIGN=CENTER VALIGN=BOTTOM><b>4</b></TD>
+					</TR>
+				
+<TR>
+				  <TD ALIGN=CENTER VALIGN=MIDDLE><span style="color: #000000;"><strong>2015</strong></TD>
+				  <TD ALIGN=CENTER VALIGN=MIDDLE><span style="color: #000000;">1</TD>
+				  <TD ALIGN=CENTER VALIGN=MIDDLE><span style="color: #000000;">-18</TD>
+				  <TD ALIGN=CENTER VALIGN=MIDDLE><span style="color: #000000;">64</TD>
+				  <TD ALIGN=CENTER VALIGN=MIDDLE><span style="color: #000000;">66</TD>
+				  <TD ALIGN=CENTER VALIGN=MIDDLE><span style="color: #000000;">70</TD>
+				  <TD ALIGN=CENTER VALIGN=MIDDLE><span style="color: #000000;">70</TD>
+				  <TD ALIGN=CENTER VALIGN=MIDDLE><span style="color: #000000;">$ 1,800,000</TD>
+				</TR>
+
+				
+<TR class="colorRow">
+				  <TD ALIGN=CENTER VALIGN=MIDDLE><span style="color: #000000;"><strong>2014</strong></TD>
+				  <TD ALIGN=CENTER VALIGN=MIDDLE><span style="color: #000000;">2</TD>
+				  <TD ALIGN=CENTER VALIGN=MIDDLE><span style="color: #000000;">-5</TD>
+				  <TD ALIGN=CENTER VALIGN=MIDDLE><span style="color: #000000;">71</TD>
+				  <TD ALIGN=CENTER VALIGN=MIDDLE><span style="color: #000000;">70</TD>
+				  <TD ALIGN=CENTER VALIGN=MIDDLE><span style="color: #000000;">70</TD>
+				  <TD ALIGN=CENTER VALIGN=MIDDLE><span style="color: #000000;">72</TD>
+				  <TD ALIGN=CENTER VALIGN=MIDDLE><span style="color: #000000;">$ 792,000</TD>
+				</TR>
+				</tbody>
+				</TABLE>
+
+</div>
+
+</body>
+
+</html>

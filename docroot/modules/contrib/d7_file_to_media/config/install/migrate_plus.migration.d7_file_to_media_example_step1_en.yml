@@ -1,0 +1,53 @@
+# File to Media Migration configuration for Example migration
+
+id: d7_file_to_media_example_step1
+label: Example Media
+migration_group: default
+source:
+  plugin: media_entity_generator
+  entity_type: node
+  bundle: article
+  langcode: en
+  field_names:
+    - field_image
+
+destination:
+  plugin: entity:media
+translations: true
+process:
+  bundle:
+    plugin: default_value
+    default_value: image
+  
+  # Using the alt tag if available, else the file name.
+  name:
+    plugin: media_name
+    source: file_name
+  
+  # This process plugin will skip the whole row if a existing media is found.
+  existing_media_file:
+    plugin: check_media_duplicate
+    source: target_id
+
+  # This process plugin will skip the whole row if a duplicate image is found.
+  unique_file_id:
+    plugin: check_duplicate
+    source: target_id
+    
+  mid:
+    plugin: migration_lookup
+    migration: d7_file_to_media_example_step1
+    source: target_id
+    no_stub: true
+    
+
+  # Map the field image
+  field_media_image/target_id: target_id
+  field_media_image/alt: alt
+  field_media_image/title: title
+
+  langcode: langcode
+  
+  content_translation_source:
+    plugin: default_value
+    default_value: en

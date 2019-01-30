@@ -1,0 +1,15 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2009/04/08/mas_517664.shtml">Ishikawa shocked by gallery</a></h3>
+<div class="player-story-date">Posted: 04/08/09</div>
+<div class="player-story-digest">Ryo Ishikawa is accustomed to being followed by swarms of people in Japan, but Monday's practice round at Augusta National Golf Club was a different story.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2009/04/05/mas_516988.shtml">Teenagers already have eyes on Tiger</a></h3>
+<div class="player-story-date">Posted: 04/05/09</div>
+<div class="player-story-digest">Golf is in a hurry to christen a new generation of Tiger rivals. Three Augusta-bound teenagers from different parts of the globe are in a hurry to get there.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/2009/01/23/mas_508786.shtml">Japanese teen to play in Masters</a></h3>
+<div class="player-story-date">Posted: 01/23/09</div>
+<div class="player-story-digest">Japanese teenage golf sensation Ryo Ishikawa received the ultimate invitation Thursday when the 17-year-old pro, who is ranked 60th in the Official World Golf Ranking, received a special international invitation from Augusta National Golf Club to play in April's Masters Tournament.</div>
+</div>

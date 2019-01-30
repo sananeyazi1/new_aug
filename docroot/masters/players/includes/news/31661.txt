@@ -1,0 +1,25 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/latest-news/fowler-hangs-win-honda-classic">Fowler hangs on to win Honda Classic</a></h3>
+<div class="player-story-date">Posted: 02/28/17</div>
+<div class="player-story-digest"> ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/latest-news/fowler-hangs-win-honda-classic">Fowler hangs on to win Honda Classic</a></h3>
+<div class="player-story-date">Posted: 02/28/17</div>
+<div class="player-story-digest"> PALM BEACH GARDENS, Fla. &mdash; Rickie Fowler made it interesting Sunday for as long as it took him to make two big putts to pull away in the Honda Classic. Staked to a four-shot lead, Fowler hit one putt into ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/gary-woodland-frustrated-first-round">Gary Woodland frustrated by first round</a></h3>
+<div class="player-story-date">Posted: 04/10/15</div>
+<div class="player-story-digest"> Gary Woodland shot 1-under 71 to open the Mas&shy;ters Tournament on Thurs&shy;day, but he wasn&rsquo;t thrilled with how he got to that number. He was erratic off the tee, forcing him to often scramble for pars, and he finished his ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/woodland-makes-second-cut-masters">Woodland makes second cut at Masters</a></h3>
+<div class="player-story-date">Posted: 04/07/12</div>
+<div class="player-story-digest"> Plenty of things have changed about Gary Woodland’s golf game this year. One thing hasn’t: making cuts in a major. For the second time in two Masters’ appearances – and sixth time in seven majors – Woodland is sticking around ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/gary-woodland-needs-front-nine-tutorial-augusta-national">Gary Woodland needs front-nine tutorial at Augusta National</a></h3>
+<div class="player-story-date">Posted: 03/20/12</div>
+<div class="player-story-digest"> Imagine if Gary Woodland had played a full practice round with Tom Watson at last year&rsquo;s Masters Tournament. Woodland, a Masters rookie in 2011, caught up with Watson on the back nine for a Wednesday practice round. Not coincidently, Woodland ...</div>
+</div>

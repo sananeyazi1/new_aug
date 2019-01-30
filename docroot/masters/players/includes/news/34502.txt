@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/paul-casey-shoots-best-round-ties-fourth-masters">Paul Casey shoots best round, ties for fourth at Masters</a></h3>
+<div class="player-story-date">Posted: 04/10/16</div>
+<div class="player-story-digest"> Paul Casey shot his best round at Augusta National on Sunday, carding 67 to tie for low round of the day with Danny Willett and Matthew Fitzpatrick. The 38-year-old Englishman finished at 1-under par and tied for fourth to earn ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/paul-casey-shoots-best-round-ties-fourth-masters">Paul Casey shoots best round, ties for fourth at Masters</a></h3>
+<div class="player-story-date">Posted: 04/10/16</div>
+<div class="player-story-digest"> Paul Casey shot his best round at Augusta National on Sunday, carding 67 to tie for low round of the day with Danny Willett and Matthew Fitzpatrick. The 38-year-old Englishman finished at 1-under par and tied for fourth to earn ...</div>
+</div>

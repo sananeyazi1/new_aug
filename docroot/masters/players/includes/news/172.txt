@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040706/mas_76514.shtml">Sluman's ace at No. 4 might stand forever</a></h3>
+<div class="player-story-date">Posted: 04/07/06</div>
+<div class="player-story-digest">In the 1992 Masters, Jeff Sluman had the only ace  at No. 4.</div>
+</div>

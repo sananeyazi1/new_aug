@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/chinese-amateur-cheng-jin-makes-extensive-masters-preparations">Chinese amateur Cheng Jin makes extensive Masters preparations</a></h3>
+<div class="player-story-date">Posted: 04/04/16</div>
+<div class="player-story-digest">  Cheng Jin spent the past month preparing in Augusta for the Masters Tour&shy;na&shy;ment. Nothing could have prepared him for the thousands of patrons Monday at Augusta National Golf Club. Playing in the Masters, Jin said, certainly doesn&rsquo;t compare with ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/chinese-amateur-jin-preparing-columbia-county-masters-tournament">Chinese amateur Jin preparing in Columbia County for Masters Tournament</a></h3>
+<div class="player-story-date">Posted: 03/30/16</div>
+<div class="player-story-digest"> Waves of pollen fell across Champions Retreat Golf Club as Cheng Jin hit balls on the driving range in mid-March. The amateur from Beijing, China, worked on his game at the private Columbia County golf club in preparation for his ...</div>
+</div>

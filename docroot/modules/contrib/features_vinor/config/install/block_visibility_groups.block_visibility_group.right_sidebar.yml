@@ -1,0 +1,16 @@
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+id: right_sidebar
+label: 'Right Sidebar'
+logic: and
+conditions:
+  12129504-b348-4b77-9f5c-1b2de918443f:
+    id: request_path
+    pages: "/node/35\r\n/node/65\r\n/user/*\r\n/author\r\n/contact\r\n/gallery"
+    negate: true
+    context_mapping: {  }
+    uuid: 12129504-b348-4b77-9f5c-1b2de918443f
+allow_other_conditions: false

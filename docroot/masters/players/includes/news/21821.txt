@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/jb-holmes-trying-pace-himself-practice-rounds">J.B. Holmes trying to pace himself in practice rounds</a></h3>
+<div class="player-story-date">Posted: 04/07/15</div>
+<div class="player-story-digest">  Two days after winning the Houston Open, J.B. Holmes began his quest for back-to-back victories with a practice round Tuesday at Augusta National Golf Club. Holmes, who won last week in a playoff over John&shy;son Wagner and Jordan Spieth, ...</div>
+</div>

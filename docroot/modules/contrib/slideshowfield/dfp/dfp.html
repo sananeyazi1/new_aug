@@ -1,0 +1,40 @@
+
+<style type="text/css">
+  html, body { margin:0px; padding:0px; }
+</style>
+
+<script src='//www.googletagservices.com/tag/js/gpt.js'></script>
+<script src='http://mdw-cdn.com/cdn-static/nmt_data/nmt_data.js'></script>
+
+<script type="text/javascript">
+  var adsize = NMTdata.data.getQueryParam('size');
+  var mmo_ccc = NMTdata.data.getQueryParam('mmo_ccc');
+  var adunit = NMTdata.data.getQueryParam('adunit');
+  adslot = adsize.split("_");
+  adslot = adslot[0].split("x");
+</script>
+
+
+<!--end APT script-->
+<div id='adHere' class='adslot'>
+  <script type='text/javascript'>
+    //alert(prefix);
+    //Adslot 1 declaration
+    googletag.defineSlot(adunit, [[parseInt(adslot[0]),parseInt(adslot[1])]],'adHere').setTargeting('pos',[adsize]).addService(googletag.pubads());
+    googletag.pubads().setTargeting('pos', ['300x250_1'])
+    googletag.pubads().setTargeting('ccc',mmo_ccc);
+    googletag.pubads().enableSyncRendering();
+    googletag.enableServices();
+    googletag.display('adHere');
+  </script></div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br /><br />
+<br /><br />
+<br />
+<br />
+<br /><br />
+<br />

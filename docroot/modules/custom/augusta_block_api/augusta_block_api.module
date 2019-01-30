@@ -1,0 +1,13 @@
+<?php
+/**
+ * Implements hook_theme().
+ */
+function augusta_block_api_theme($existing, $type, $theme, $path) {
+  return [
+    'players_detail_page' => [
+      'variables' => ['data' => NULL],
+      'template' => 'players-detail-page',
+    ],
+  ];
+
+}

@@ -1,0 +1,45 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040608/mas_193328.shtml">2007 missteps leave Appleby sure-footed</a></h3>
+<div class="player-story-date">Posted: 04/06/08</div>
+<div class="player-story-digest">Stuart Appleby isn't dwelling on the what-ifs. He prefers to focus on what's ahead.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040907/mas_123947.shtml">Two holes cost Appleby his lead</a></h3>
+<div class="player-story-date">Posted: 04/09/07</div>
+<div class="player-story-digest">Stuart Appleby joined the growing list of Australian golfers who got a sniff of winning a Masters Tournament, but will return Down Under green jacketless.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040807/mas_123836.shtml">Appleby has 'pretty full bag' heading into final</a></h3>
+<div class="player-story-date">Posted: 04/08/07</div>
+<div class="player-story-digest">Stuart Appleby had quite a day adjusting to what the Masters Tournament threw at him Saturday.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040807/mas_123893.shtml">Appleby double bogeys first hole, Woods takes lead</a></h3>
+<div class="player-story-date">Posted: 04/08/07</div>
+<div class="player-story-digest">AUGUSTA, Ga. -- Let the talk of Tiger Slam II begin. Tiger Woods, the world's No. 1 player, backed into the Masters Tournament lead one hole into his final round at Augusta National Golf Club.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040707/mas_123816.shtml">Interview: Stuart Appleby</a></h3>
+<div class="player-story-date">Posted: 04/07/07</div>
+<div class="player-story-digest"></div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040707/mas_123751.shtml">Appleby in the lead at 2-under</a></h3>
+<div class="player-story-date">Posted: 04/07/07</div>
+<div class="player-story-digest">To Australian golfers, the great barrier reef lies at Augusta National Golf Club, not off the coast of their home country.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040707/mas_123746.shtml">Appleby, Taylor tied at 2-over</a></h3>
+<div class="player-story-date">Posted: 04/07/07</div>
+<div class="player-story-digest">To Australian golfers, the great barrier reef lies at Augusta National Golf Club, not off the coast of their home country.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040207/mas_122841.shtml">Here and in Texas, players prepare</a></h3>
+<div class="player-story-date">Posted: 04/02/07</div>
+<div class="player-story-digest">Twenty-two players in the Masters field competed in the Houston Open, and 16 made the cut. Here is a look at the final round of the new tune-up to the Masters:</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040306/mas_75615.shtml">Appleby leads group of Aussies to Augusta</a></h3>
+<div class="player-story-date">Posted: 04/03/06</div>
+<div class="player-story-digest">They represent the most dominant foreign nation on the PGA Tour. Per capita, it's not even close.</div>
+</div>

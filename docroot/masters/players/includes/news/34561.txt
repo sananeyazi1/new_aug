@@ -1,0 +1,15 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/conners-low-amateur-misses-cut">Conners is low amateur, but misses cut</a></h3>
+<div class="player-story-date">Posted: 04/11/15</div>
+<div class="player-story-digest">  Amateur Corey Conners played his first competitive round at Augusta National Golf Club on Thursday and learned how challenging the historic layout can be when he shot 80. But on Friday, the Canadian found his comfort zone &mdash; firing ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/amateurs-play-countrymen-opening-round">Amateurs play with countrymen in opening round </a></h3>
+<div class="player-story-date">Posted: 04/10/15</div>
+<div class="player-story-digest">  A lot of thought went into the groupings for the amateurs playing in their first Masters Tournament on Thursday. Corey Conners, a Canadian, played with 2003 Masters champion Mike Weir of Ontario. Australian Anthony Murdaca was paired with 2013 ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/canadian-corey-conners-leads-amateur-field-masters">Canadian Corey Conners leads amateur field in Masters</a></h3>
+<div class="player-story-date">Posted: 04/04/15</div>
+<div class="player-story-digest">  The Crow’s Nest in the clubhouse could have seven residents this Masters Week, and the highest-rated amateur among them is the only guy who didn’t win a tournament to qualify. ...</div>
+</div>

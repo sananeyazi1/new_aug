@@ -1,0 +1,30 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040307/mas_122904.shtml">Masters notebook</a></h3>
+<div class="player-story-date">Posted: 04/03/07</div>
+<div class="player-story-digest">GATOR PRIDE: As Tiger Woods made his way beneath the big oak tree to the practice putting green Monday afternoon, he couldn't avoid a little friendly ribbing from Chris DiMarco.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040107/mas_122383.shtml">DiMarco recovers from a trying year</a></h3>
+<div class="player-story-date">Posted: 04/01/07</div>
+<div class="player-story-digest">Chris DiMarco's self-assessment is blunt.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040506/mas_76168.shtml">Gators have DiMarco's spirits high</a></h3>
+<div class="player-story-date">Posted: 04/05/06</div>
+<div class="player-story-digest">Chris DiMarco went into the players' locker room at Augusta National Golf Club just a little loud and proud Tuesday morning.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040406/mas_75714.shtml">Practice with DiMarco offers lesson on course</a></h3>
+<div class="player-story-date">Posted: 04/04/06</div>
+<div class="player-story-digest">On Monday, I played the front nine with David Toms, Chris DiMarco and amateur Clay Ogden, who is the Public Links champion.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040406/mas_75718.shtml">In the field</a></h3>
+<div class="player-story-date">Posted: 04/04/06</div>
+<div class="player-story-digest">For the way he has played at the Masters Tournament in recent years, Chris DiMarco has been compared to a bulldog several times.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040206/mas_74746.shtml">DiMarco buffs up for National</a></h3>
+<div class="player-story-date">Posted: 04/02/06</div>
+<div class="player-story-digest">The numbers don't show it, but Chris DiMarco is hitting the ball farther off the tee than ever. Not John Daly long. More like Todd Hamilton long.</div>
+</div>

@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/041008/mas_194435.shtml">Slocum leads after nine holes</a></h3>
+<div class="player-story-date">Posted: 04/10/08</div>
+<div class="player-story-digest">Heath Slocum shot a three-under-par 33 on Augusta National Golf Club's first nine to take the early lead in the 71st Masters Tournament.</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="/stories/040808/mas_194035.shtml">The boys from Milton take on the Masters</a></h3>
+<div class="player-story-date">Posted: 04/08/08</div>
+<div class="player-story-digest">MILTON, Fla. --- Heath Slocum doesn't live in Milton anymore. He doesn't even live in Florida.</div>
+</div>

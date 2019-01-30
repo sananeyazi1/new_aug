@@ -1,0 +1,15 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/back-nine-lifts-brian-gays-spirits-masters">Back nine lifts Brian Gay&#039;s spirits at Masters</a></h3>
+<div class="player-story-date">Posted: 04/14/13</div>
+<div class="player-story-digest">  The bogey tap-in at No. 18 aside, Brian Gay has something to build on with his effort on the final nine Sunday at the Masters Tournament. Gay posted one eagle, two birdies, five pars and that bogey in his ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/birdies-continue-elude-brian-gay">Birdies continue to elude Brian Gay</a></h3>
+<div class="player-story-date">Posted: 04/13/13</div>
+<div class="player-story-digest">  Brian Gay is taking care of the golf part, and his mother and his wife are taking care of badge distribution for relatives and friends at the Masters Tournament. Neither task is simple. ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/brian-gay-gets-second-chance">Brian Gay gets second chance</a></h3>
+<div class="player-story-date">Posted: 03/29/13</div>
+<div class="player-story-digest"> After waiting until he was 38 to make his Masters Tournament debut, what&rsquo;s a few more years to get back to Augusta for Brian Gay? The former Georgia resident, who missed the cut in the 2010 Masters, earned his ticket ...</div>
+</div>

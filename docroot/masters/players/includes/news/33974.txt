@@ -1,0 +1,5 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://augusta.com/masters/story/news/john-huh-will-return-masters-2014">John Huh will return to Masters in 2014</a></h3>
+<div class="player-story-date">Posted: 04/14/13</div>
+<div class="player-story-digest"> Immediately following a final-round 68 that got him to 2-under for the tournament, someone congratulated Masters rookie John Huh for earning an automatic berth in next year&rsquo;s tourney. &ldquo;Well, it&rsquo;s not over yet,&rdquo; said Huh, knowing full well his position ...</div>
+</div>

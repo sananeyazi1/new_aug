@@ -1,0 +1,10 @@
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/jimmy-walker-wins-records-fall-par-3-contest">Jimmy Walker wins, records fall at Par-3 Contest</a></h3>
+<div class="player-story-date">Posted: 04/07/16</div>
+<div class="player-story-digest">  Gary Player fittingly described the day as &ldquo;a miracle.&rdquo; At almost any point during Wednesday&rsquo;s Par-3 Contest, loud roars could be heard. ...</div>
+</div>
+<div class="player-story">
+<h3 class="player-story-hed"><a href="http://www.augusta.com/masters/story/news/many-contenders-masters-field">Many contenders in this Masters field</a></h3>
+<div class="player-story-date">Posted: 04/08/15</div>
+<div class="player-story-digest">  The list of potential winners of the 79th Masters Tournament is one of the longest in recent years. &ldquo;There are a lot of guys,&rdquo; said 2013 winner Adam Scott, who is among them. ...</div>
+</div>
